@@ -1,0 +1,103 @@
+/* Logo */
+/* Adapted from Zachary Blackwood */
+
+/* Card */
+/* Adapted from https://startbootstrap.com/theme/sb-admin-2 */
+/* class="css-1fjr796 e1tzin5v1" */
+div.css-1fjr796.e1tzin5v1 {
+    background-color: #EEEEEE;
+    border: 1px solid #CCCCCC;
+    padding: 1% 1% 1% 10%;
+    border-radius: 7px;
+    
+    border-left: 0.5rem solid #08519C !important;
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15) !important;
+    
+}
+
+
+
+
+/* class="css-wvv94f e16fv1kl2" */
+label.css-wvv94f.e16fv1kl2 {
+    color: 08549C !important;
+    font-weight: 1000 !important;
+    text-transform: uppercase !important;
+}
+
+
+
+
+/* div.css-115gedg.e1tzin5v1  */
+div.css-ocqkz7.e1tzin5v3{
+    border: 1px solid #CCCCCC;
+    border-radius: 7px;
+}
+
+.css-1vzeuhh{
+    background-color: rgb(8, 84, 156);
+}    
+
+.css-10y5sf6{
+    color: rgb(8, 84, 156)
+}
+
+/* .st-e6 {
+    background: linear-gradient(to right, rgb(8, 84, 156) 0%, rgb(8, 84, 156) 16.6667%, rgba(151, 166, 195, 0.25) 16.6667%, rgba(151, 166, 195, 0.25) 100%);
+}
+.st-e7 {
+    background: linear-gradient(to right, rgb(8, 84, 156) 0%, rgb(8, 84, 156) 33.3333%, rgba(151, 166, 195, 0.25) 33.3333%, rgba(151, 166, 195, 0.25) 100%);
+}
+.st-e8 {
+    background: linear-gradient(to right, rgb(8, 84, 156) 0%, rgb(8, 84, 156) 50%, rgba(151, 166, 195, 0.25) 50%, rgba(151, 166, 195, 0.25) 100%);
+}
+.st-e9 {
+    background: linear-gradient(to right, rgb(8, 84, 156) 0%, rgb(8, 84, 156) 66.6667%, rgba(151, 166, 195, 0.25) 66.6667%, rgba(151, 166, 195, 0.25) 100%);
+}
+.st-ea {
+    background: linear-gradient(to right, rgb(8, 84, 156) 0%, rgb(8, 84, 156) 83.3333%, rgba(151, 166, 195, 0.25) 83.3333%, rgba(151, 166, 195, 0.25) 100%);
+}
+.st-eb  {
+    background: linear-gradient(to right, rgb(8, 84, 156) 0%, rgb(8, 84, 156) 100%, rgba(151, 166, 195, 0.25) 100%, rgba(151, 166, 195, 0.25) 100%);
+} */
+
+
+/* div.gl-canvas.gl-canvas-context */
+/* div.css-ocqkz7.e1tzin5v3 */
+
+/* div.css-1a32fsj.e19lei0e0 {
+    border: 1px solid #CCCCCC;
+    border-radius: 7px;
+} */
+
+
+/* div.user-select-none.svg-container {
+    background-color: #EEEEEE;
+}
+ */
+
+/* Move block container higher */
+/* class="block-container css-z5fcl4 egzxvld4" */
+div.block-container.css-z5fcl4.egzxvld4 {
+  margin-top: -5em;
+}
+
+
+/* Hide hamburger menu and footer */
+/* div.css-r698ls.e8zbici2 {
+  display: none;
+}
+
+footer.css-ipbk5a.egzxvld4 {
+  display: none;
+}
+
+footer.css-12gp8ed.eknhn3m4 {
+  display: none;
+}
+
+div.vg-tooltip-element {
+  display: none;
+}
+ */
+

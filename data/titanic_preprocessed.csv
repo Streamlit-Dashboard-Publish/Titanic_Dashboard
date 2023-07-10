@@ -1,0 +1,1239 @@
+,index,name,num_passenger,gender,age,age_category,class,embarked,region,country,ticketno,fare,sibsp,parch,survived
+0,0,"Abbing, Mr. Anthony",259,남성,42.0,40대,3등석,S,North America,United States,5547.0,7.11,0.0,0.0,no
+1,1,"Abbott, Mr. Eugene Joseph",259,남성,13.0,10대,3등석,S,North America,United States,2673.0,20.05,0.0,2.0,no
+2,2,"Abbott, Mr. Rossmore Edward",259,남성,16.0,10대,3등석,S,North America,United States,2673.0,20.05,1.0,1.0,no
+3,3,"Abbott, Mrs. Rhoda Mary 'Rosa'",335,여성,39.0,30대,3등석,S,UK,England,2673.0,20.05,1.0,1.0,yes
+4,4,"Abelseth, Miss. Karen Marie",26,여성,16.0,10대,3등석,S,Northern Europe,Norway,348125.0,7.13,0.0,0.0,yes
+5,5,"Abelseth, Mr. Olaus Jørgensen",259,남성,25.0,20대,3등석,S,North America,United States,348122.0,7.13,0.0,0.0,yes
+6,6,"Abelson, Mr. Samuel",24,남성,30.0,30대,2등석,C,Western Europe,France,3381.0,24.0,1.0,0.0,no
+7,7,"Abelson, Mrs. Hannah",24,여성,28.0,20대,2등석,C,Western Europe,France,3381.0,24.0,1.0,0.0,yes
+8,8,"Abrahamsson, Mr. Abraham August Johannes",54,남성,20.0,20대,3등석,S,Northern Europe,Finland,3101284.0,7.1806,0.0,0.0,yes
+9,9,"Abī-Al-Munà, Mr. Nāsīf Qāsim",70,남성,27.0,20대,3등석,C,Middle East,Lebanon,2699.0,18.1509,0.0,0.0,yes
+10,10,"Adams, Mr. John",335,남성,27.0,20대,3등석,S,UK,England,341826.0,8.01,0.0,0.0,no
+11,11,"Ahlin, Mrs. Johanna Persdotter",105,여성,40.0,40대,3등석,S,Northern Europe,Sweden,7546.0,9.0906,1.0,0.0,no
+12,12,"Aks, Master. Frank Philip",335,남성,0.8333333333,10대 미만,3등석,S,UK,England,392091.0,9.07,0.0,1.0,yes
+13,13,"Aks, Mrs. Leah",335,여성,18.0,10대,3등석,S,UK,England,392091.0,9.07,0.0,1.0,yes
+14,14,"Al-Munà, Mr. Farīd Husayn Qāsim",70,남성,19.0,10대,3등석,C,Middle East,Lebanon,2700.0,7.0407,0.0,0.0,no
+15,15,"Aldworth, Mr. Augustus Henry",335,남성,35.0,30대,2등석,S,UK,England,248744.0,13.0,0.0,0.0,no
+16,16,"Alexander, Mr. William Albert",335,남성,25.0,20대,3등석,S,UK,England,3474.0,7.1709,0.0,0.0,no
+17,17,"Alhomäki, Mr. Ilmari Rudolf",54,남성,19.0,10대,3등석,S,Northern Europe,Finland,3101287.0,7.1806,0.0,0.0,no
+18,18,"Ali, Mr. Ahmed",7,남성,24.0,20대,3등석,S,Others,Argentina,3101311.0,7.01,0.0,0.0,no
+19,19,"Ali, Mr. William",7,남성,25.0,20대,3등석,S,Others,Argentina,3101312.0,7.01,0.0,0.0,no
+20,20,"Allen, Miss. Elisabeth Walton",259,여성,29.0,20대,1등석,S,North America,United States,24160.0,211.6009,0.0,0.0,yes
+21,21,"Allen, Mr. William Henry",335,남성,39.0,30대,3등석,S,UK,England,373450.0,8.01,0.0,0.0,no
+22,22,"Allison, Master. Hudson Trevor",33,남성,0.9166666667,10대 미만,1등석,S,North America,Canada,113781.0,151.16,1.0,2.0,yes
+23,23,"Allison, Miss. Helen Loraine",33,여성,2.0,10대 미만,1등석,S,North America,Canada,113781.0,151.16,1.0,2.0,no
+24,24,"Allison, Mr. Hudson Joshua Creighton",33,남성,30.0,30대,1등석,S,North America,Canada,113781.0,151.16,1.0,2.0,no
+25,25,"Allison, Mrs. Bessie Waldo",259,여성,25.0,20대,1등석,S,North America,United States,113781.0,151.16,1.0,2.0,no
+26,26,"Allum, Mr. Owen George",335,남성,18.0,10대,3등석,S,UK,England,2223.0,8.06,0.0,0.0,no
+27,27,"Andersen, Mr. Albert Karvin",26,남성,33.0,30대,3등석,S,Northern Europe,Norway,4001.0,22.1006,0.0,0.0,no
+28,28,"Andersen-Jensen, Miss. Carla Christine Nielsine",7,여성,19.0,10대,3등석,S,Northern Europe,Denmark,350046.0,7.1701,1.0,0.0,yes
+29,29,"Anderson, Mr. Harry",259,남성,47.0,40대,1등석,S,North America,United States,19952.0,26.11,0.0,0.0,yes
+30,30,"Andersson, Master. Sigvard Harald Elias",105,남성,4.0,10대 미만,3등석,S,Northern Europe,Sweden,347082.0,31.0506,4.0,2.0,no
+31,31,"Andersson, Miss. Ebba Iris Alfrida",105,여성,6.0,10대 미만,3등석,S,Northern Europe,Sweden,347082.0,31.0506,4.0,2.0,no
+32,32,"Andersson, Miss. Ellis Anna Maria",105,여성,2.0,10대 미만,3등석,S,Northern Europe,Sweden,347082.0,31.0506,4.0,2.0,no
+33,33,"Andersson, Miss. Erna Alexandra",54,여성,16.0,10대,3등석,S,Northern Europe,Finland,3101281.0,7.1806,4.0,2.0,yes
+34,34,"Andersson, Miss. Ida Augusta Margareta",105,여성,38.0,30대,3등석,S,Northern Europe,Sweden,347091.0,7.1506,4.0,2.0,no
+35,35,"Andersson, Miss. Ingeborg Constanzia",105,여성,9.0,10대 미만,3등석,S,Northern Europe,Sweden,347082.0,31.0506,4.0,2.0,no
+36,36,"Andersson, Miss. Sigrid Elisabeth",105,여성,11.0,10대,3등석,S,Northern Europe,Sweden,347082.0,31.0506,4.0,2.0,no
+37,37,"Andersson, Mr. Anders Johan",105,남성,39.0,30대,3등석,S,Northern Europe,Sweden,347082.0,31.0506,1.0,5.0,no
+38,38,"Andersson, Mr. Johan Samuel",105,남성,26.0,20대,3등석,S,Northern Europe,Sweden,347075.0,7.1506,0.0,0.0,no
+39,39,"Andersson, Mrs. Alfrida Konstantia Brogren",105,여성,39.0,30대,3등석,S,Northern Europe,Sweden,347082.0,31.0506,1.0,5.0,no
+40,40,"Andreasson, Mr. Pål Edvin",105,남성,20.0,20대,3등석,S,Northern Europe,Sweden,347466.0,7.1701,0.0,0.0,no
+41,41,"Andrew, Mr. Edgar Samuel",7,남성,17.0,10대,2등석,S,Others,Argentina,231945.0,11.1,0.0,0.0,no
+42,42,"Andrew, Mr. Frank Thomas",335,남성,27.0,20대,2등석,S,UK,England,34050.0,10.1,0.0,0.0,no
+43,43,"Andrews, Miss. Kornelia Theodosia",259,여성,62.0,60대,1등석,C,North America,United States,13502.0,77.1902,1.0,0.0,yes
+44,44,"Andrews, Mr. Thomas",6,남성,39.0,30대,1등석,B,UK,Northern Ireland,112050.0,,0.0,0.0,no
+45,45,"Angheloff, Mr. Minko",17,남성,26.0,20대,3등석,S,Eastern Europe,Bulgaria,349202.0,7.1711,0.0,0.0,no
+46,46,"Angle, Mr. William",335,남성,31.0,30대,2등석,S,UK,England,226875.0,26.0,1.0,0.0,no
+47,47,"Angle, Mrs. Florence Agnes",335,여성,36.0,30대,2등석,S,UK,England,226875.0,26.0,1.0,0.0,yes
+48,48,"Appleton, Mrs. Charlotte",259,여성,53.0,50대,1등석,S,North America,United States,11769.0,51.0907,2.0,0.0,yes
+49,49,"Arnold-Franchi, Mr. Josef",17,남성,25.0,20대,3등석,S,Western Europe,Switzerland,349237.0,17.16,1.0,0.0,no
+50,50,"Arnold-Franchi, Mrs. Josefine",17,여성,18.0,10대,3등석,S,Western Europe,Switzerland,349237.0,17.16,1.0,0.0,no
+51,51,"Aronsson, Mr. Ernst Axel Algot",105,남성,25.0,20대,3등석,S,Northern Europe,Sweden,349911.0,7.1506,0.0,0.0,no
+52,52,"Artagaveytia, Mr. Ramon",7,남성,71.0,70대,1등석,C,Others,Argentina,17609.0,49.1001,0.0,0.0,no
+53,53,"Ashby, Mr. John",335,남성,57.0,50대,2등석,S,UK,England,244346.0,13.0,0.0,0.0,no
+54,54,"Asim, Mr. Adola",7,남성,35.0,30대,3등석,S,Others,Argentina,3101310.0,7.01,0.0,0.0,no
+55,55,"Asplund, Master. Carl Edgar",105,남성,5.0,10대 미만,3등석,S,Northern Europe,Sweden,347077.0,31.0709,4.0,2.0,no
+56,56,"Asplund, Master. Clarence Gustaf Hugo",105,남성,9.0,10대 미만,3등석,S,Northern Europe,Sweden,347077.0,31.0709,4.0,2.0,no
+57,57,"Asplund, Master. Edvin Rojj Felix",105,남성,3.0,10대 미만,3등석,S,Northern Europe,Sweden,347077.0,31.0709,4.0,2.0,yes
+58,58,"Asplund, Master. Filip Oscar",105,남성,13.0,10대,3등석,S,Northern Europe,Sweden,347077.0,31.0709,4.0,2.0,no
+59,59,"Asplund, Miss. Lillian Gertrud",105,여성,5.0,10대 미만,3등석,S,Northern Europe,Sweden,347077.0,31.0709,4.0,2.0,yes
+60,60,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",105,남성,40.0,40대,3등석,S,Northern Europe,Sweden,347077.0,31.0709,1.0,5.0,no
+61,61,"Asplund, Mr. Johan Charles",105,남성,23.0,20대,3등석,S,Northern Europe,Sweden,350054.0,7.1511,0.0,0.0,yes
+62,62,"Asplund, Mrs. Selma Augusta Emilia",105,여성,38.0,30대,3등석,S,Northern Europe,Sweden,347077.0,31.0709,1.0,5.0,yes
+63,63,"Assaf, Mrs. Mariana",70,여성,45.0,40대,3등석,C,Middle East,Lebanon,2696.0,7.0406,0.0,0.0,yes
+64,64,"Assam, Mr. Ali",7,남성,23.0,20대,3등석,S,Others,Argentina,3101309.0,7.01,0.0,0.0,no
+65,65,"Astor, Colonel. John Jacob",259,남성,47.0,40대,1등석,C,North America,United States,17757.0,247.1006,1.0,0.0,no
+66,66,"Astor, Mrs. Madeleine Talmage",259,여성,18.0,10대,1등석,C,North America,United States,17757.0,247.1006,1.0,0.0,yes
+67,67,"Attala, Mr. Sleiman",33,남성,27.0,20대,3등석,C,North America,Canada,2694.0,7.0406,0.0,0.0,no
+68,68,"Attalah, Miss. Malake",70,여성,17.0,10대,3등석,C,Middle East,Lebanon,2627.0,14.0902,0.0,0.0,no
+69,69,"Aubart, Mme. Léontine Pauline",24,여성,24.0,20대,1등석,C,Western Europe,France,17477.0,69.06,0.0,0.0,yes
+70,70,"Augustsson, Mr. Albert",105,남성,23.0,20대,3등석,S,Northern Europe,Sweden,347468.0,7.1701,0.0,0.0,no
+71,71,"Ayoub Daher, Miss. Banoura",70,여성,15.0,10대,3등석,C,Middle East,Lebanon,2687.0,7.0407,0.0,0.0,yes
+72,72,"Backström, Mr. Karl Alfred",54,남성,32.0,30대,3등석,S,Northern Europe,Finland,3101278.0,15.17,1.0,0.0,no
+73,73,"Backström, Mrs. Maria Mathilda",54,여성,33.0,30대,3등석,S,Northern Europe,Finland,3101278.0,15.17,3.0,0.0,yes
+74,74,"Baclini, Miss. Eugenie",70,여성,3.0,10대 미만,3등석,C,Middle East,Lebanon,2666.0,19.0502,2.0,1.0,yes
+75,75,"Baclini, Miss. Helene Barbara",70,여성,0.75,10대 미만,3등석,C,Middle East,Lebanon,2666.0,19.0502,2.0,1.0,yes
+76,76,"Baclini, Miss. Marie Catherine",70,여성,5.0,10대 미만,3등석,C,Middle East,Lebanon,2666.0,19.0502,2.0,1.0,yes
+77,77,"Baclini, Mrs. Latifa",70,여성,23.0,20대,3등석,C,Middle East,Lebanon,2666.0,19.0502,0.0,3.0,yes
+78,78,"Badman, Miss. Emily Louisa",335,여성,18.0,10대,3등석,S,UK,England,31416.0,8.01,0.0,0.0,yes
+79,79,"Badt, Mr. Mohamed",70,남성,40.0,40대,3등석,C,Middle East,Lebanon,2623.0,7.0406,0.0,0.0,no
+80,80,"Bailey, Mr. Percy",335,남성,18.0,10대,2등석,S,UK,England,29108.0,11.1,0.0,0.0,no
+81,81,"Bainbrigge, Mr. Charles Robert",10,남성,22.0,20대,2등석,S,UK,Channel Islands,31030.0,10.1,0.0,0.0,no
+82,82,"Balkic, Mr. Cerin",4,남성,26.0,20대,3등석,S,Southern Europe,Bosnia,349248.0,7.1711,0.0,0.0,no
+83,83,"Balls, Mrs. Ada E.",335,여성,36.0,30대,2등석,S,UK,England,28551.0,13.0,0.0,0.0,yes
+84,84,"Banfield, Mr. Frederick James",335,남성,28.0,20대,2등석,S,UK,England,34068.0,10.1,0.0,0.0,no
+85,85,"Banski, Mrs. Mara",7,여성,31.0,30대,3등석,S,Eastern Europe,Hungary,349244.0,8.1308,0.0,0.0,yes
+86,86,"Barbara, Miss. Saiide",70,여성,18.0,10대,3등석,C,Middle East,Lebanon,2691.0,14.0901,0.0,1.0,no
+87,87,"Barbara, Mrs. Catherine David",70,여성,45.0,40대,3등석,C,Middle East,Lebanon,2691.0,14.0901,0.0,1.0,no
+88,88,"Barkworth, Mr. Algernon Henry",335,남성,47.0,40대,1등석,S,UK,England,27042.0,30.0,0.0,0.0,yes
+89,89,"Barry, Miss. Julia",120,여성,30.0,30대,3등석,Q,Northern Europe,Ireland,330844.0,7.1707,0.0,0.0,no
+90,90,"Barton, Mr. David John",335,남성,22.0,20대,3등석,S,UK,England,324669.0,8.01,0.0,0.0,no
+91,91,"Bassani, Mrs. Albina",4,여성,32.0,30대,1등석,C,Southern Europe,Italy,11813.0,76.051,0.0,0.0,yes
+92,92,"Bateman, Revd. Robert James",335,남성,52.0,50대,2등석,S,UK,England,1166.0,12.1006,0.0,0.0,no
+93,93,"Batoshev, Mr. Hristo Lalev",17,남성,23.0,20대,3등석,S,Eastern Europe,Bulgaria,349217.0,7.1711,0.0,0.0,no
+94,94,"Baumann, Mr. John D.",259,남성,60.0,60대,1등석,C,North America,United States,17318.0,25.1806,0.0,0.0,no
+95,95,"Baxter, Mr. Quigg Edmond",33,남성,24.0,20대,1등석,C,North America,Canada,17558.0,247.1005,0.0,1.0,no
+96,96,"Baxter, Mrs. Hélène",33,여성,50.0,50대,1등석,C,North America,Canada,17558.0,247.1005,0.0,1.0,yes
+97,97,"Beane, Mr. Edward",335,남성,32.0,30대,2등석,S,UK,England,2908.0,26.0,1.0,0.0,yes
+98,98,"Beane, Mrs. Ethel",335,여성,22.0,20대,2등석,S,UK,England,2908.0,26.0,1.0,0.0,yes
+99,99,"Beattie, Mr. Thomson",33,남성,36.0,30대,1등석,S,North America,Canada,13050.0,75.041,0.0,0.0,no
+100,100,"Beauchamp, Mr. Henry James",335,남성,44.0,40대,2등석,S,UK,England,244358.0,26.0,0.0,0.0,no
+101,101,"Beavan, Mr. William Thomas",335,남성,20.0,20대,3등석,S,UK,England,323951.0,8.01,0.0,0.0,no
+102,102,"Becker, Master. Richard F.",7,남성,1.0,10대 미만,2등석,S,Others,India,230136.0,39.0,2.0,1.0,yes
+103,103,"Becker, Miss. Marion Louise",7,여성,4.0,10대 미만,2등석,S,Others,India,230136.0,39.0,2.0,1.0,yes
+104,104,"Becker, Miss. Ruth Elizabeth",7,여성,12.0,10대,2등석,S,Others,India,230136.0,39.0,2.0,1.0,yes
+105,105,"Becker, Mrs. Nellie E.",259,여성,35.0,30대,2등석,S,North America,United States,230136.0,39.0,0.0,3.0,yes
+106,106,"Beckwith, Mr. Richard Leonard",259,남성,37.0,30대,1등석,S,North America,United States,11751.0,52.1101,1.0,1.0,yes
+107,107,"Beckwith, Mrs. Sallie",259,여성,46.0,40대,1등석,S,North America,United States,11751.0,52.1101,1.0,1.0,yes
+108,108,"Beesley, Mr. Lawrence",335,남성,34.0,30대,2등석,S,UK,England,248698.0,13.0,0.0,0.0,yes
+109,109,"Behr, Mr. Karl Howell",259,남성,26.0,20대,1등석,C,North America,United States,111369.0,30.0,0.0,0.0,yes
+110,110,"Bengtsson, Mr. Johan Viktor",105,남성,26.0,20대,3등석,S,Northern Europe,Sweden,347068.0,7.1506,0.0,0.0,no
+111,111,"Bentham, Miss. Lillian W.",259,여성,19.0,10대,2등석,S,North America,United States,28404.0,13.0,0.0,0.0,yes
+112,112,"Berglund, Mr. Karl Ivar Sven",54,남성,22.0,20대,3등석,S,Northern Europe,Finland,4348.0,9.07,0.0,0.0,no
+113,113,"Berriman, Mr. William John",335,남성,23.0,20대,2등석,S,UK,England,28425.0,13.0,0.0,0.0,no
+114,114,"Bessette, Miss. Nellie Mayo",259,여성,39.0,30대,1등석,C,North America,United States,17760.0,63.0702,0.0,0.0,yes
+115,115,"Bird, Miss. Ellen",335,여성,31.0,30대,1등석,S,UK,England,17483.0,221.1507,0.0,0.0,yes
+116,116,"Birkeland, Mr. Hans Martin Monsen",26,남성,21.0,20대,3등석,S,Northern Europe,Norway,312992.0,7.1506,0.0,0.0,no
+117,117,"Bishop, Mr. Dickinson H.",259,남성,25.0,20대,1등석,C,North America,United States,11967.0,91.0107,1.0,0.0,yes
+118,118,"Bishop, Mrs. Helen",259,여성,19.0,10대,1등석,C,North America,United States,11967.0,91.0107,1.0,0.0,yes
+119,119,"Björklund, Mr. Ernst Herbert",105,남성,18.0,10대,3등석,S,Northern Europe,Sweden,347090.0,7.15,0.0,0.0,no
+120,120,"Björnström-Steffansson, Mr. Mauritz Hokan",105,남성,28.0,20대,1등석,S,Northern Europe,Sweden,110564.0,26.11,0.0,0.0,yes
+121,121,"Blackwell, Mr. Stephen Weart",259,남성,45.0,40대,1등석,S,North America,United States,113784.0,35.1,0.0,0.0,no
+122,122,"Blank, Mr. Henry",259,남성,39.0,30대,1등석,C,North America,United States,112277.0,31.0,0.0,0.0,yes
+123,123,"Bonnell, Miss. Caroline",259,여성,30.0,30대,1등석,S,North America,United States,36928.0,164.1704,0.0,0.0,yes
+124,124,"Bonnell, Miss. Elizabeth",335,여성,61.0,60대,1등석,S,UK,England,113783.0,26.11,0.0,0.0,yes
+125,125,"Borebank, Mr. John James",335,남성,41.0,40대,1등석,S,UK,England,110489.0,26.11,0.0,0.0,no
+126,126,"Botsford, Mr. William Hull",259,남성,25.0,20대,2등석,S,North America,United States,237670.0,13.0,0.0,0.0,no
+127,127,"Bourke, Miss. Mary",120,여성,40.0,40대,3등석,Q,Northern Europe,Ireland,364848.0,7.15,0.0,2.0,no
+128,128,"Bourke, Mr. John",120,남성,42.0,40대,3등석,Q,Northern Europe,Ireland,364849.0,15.1,1.0,1.0,no
+129,129,"Bourke, Mrs. Catherine",120,여성,32.0,30대,3등석,Q,Northern Europe,Ireland,364849.0,15.1,1.0,1.0,no
+130,130,"Bowen, Miss. Grace Scott",259,여성,45.0,40대,1등석,C,North America,United States,17608.0,262.0706,0.0,0.0,yes
+131,131,"Bowen, Mr. David John 'Dai'",8,남성,26.0,20대,3등석,S,UK,Wales,54636.0,16.02,0.0,0.0,no
+132,132,"Bowerman, Miss. Elsie Edith",335,여성,22.0,20대,1등석,S,UK,England,113505.0,55.0,0.0,1.0,yes
+133,133,"Bracken, Mr. James Hollen",259,남성,30.0,30대,2등석,S,North America,United States,220367.0,13.0,0.0,0.0,no
+134,134,"Bradley, Miss. Bridget Delia",120,여성,22.0,20대,3등석,Q,Northern Europe,Ireland,334914.0,7.1406,0.0,0.0,yes
+135,135,"Brady, Mr. John Bertram",259,남성,41.0,40대,1등석,S,North America,United States,113054.0,30.1,0.0,0.0,no
+136,136,"Braf, Miss. Elin Ester Maria",105,여성,20.0,20대,3등석,S,Northern Europe,Sweden,347471.0,7.1701,0.0,0.0,no
+137,137,"Brailey, Mr. William Theodore Ronald",335,남성,24.0,20대,2등석,S,UK,England,250654.0,,,,no
+138,138,"Brandeis, Mr. Emil Franklin",259,남성,48.0,40대,1등석,C,North America,United States,17591.0,50.0911,0.0,0.0,no
+139,139,"Braund, Mr. Lewis Richard",335,남성,29.0,20대,3등석,S,UK,England,3460.0,7.0,1.0,0.0,no
+140,140,"Braund, Mr. Owen Harris",335,남성,23.0,20대,3등석,S,UK,England,21171.0,7.05,1.0,0.0,no
+141,141,"Brereton, Mr. George Andrew",259,남성,37.0,30대,1등석,S,North America,United States,111427.0,26.11,0.0,0.0,yes
+142,142,"Brewe, Dr. Arthur Jackson",259,남성,46.0,40대,1등석,C,North America,United States,112379.0,39.12,0.0,0.0,no
+143,143,"Bricoux, Mr. Roger Marie",24,남성,20.0,20대,2등석,S,Western Europe,France,250654.0,,,,no
+144,144,"Brobäck, Mr. Karl Rudolf",105,남성,22.0,20대,3등석,S,Northern Europe,Sweden,350045.0,7.1511,0.0,0.0,no
+145,145,"Brocklebank, Mr. William Alfred",335,남성,40.0,40대,3등석,S,UK,England,364512.0,8.01,0.0,0.0,no
+146,146,"Brown, Miss. Amelia Mary",335,여성,18.0,10대,2등석,S,UK,England,248733.0,13.0,0.0,0.0,yes
+147,147,"Brown, Miss. Edith Eileen",6,여성,15.0,10대,2등석,S,Others,South Africa,29750.0,39.0,0.0,2.0,yes
+148,148,"Brown, Mr. Thomas William Solomon",6,남성,60.0,60대,2등석,S,Others,South Africa,29750.0,39.0,1.0,1.0,no
+149,149,"Brown, Mrs. Caroline Lane",259,여성,59.0,50대,1등석,S,North America,United States,11769.0,51.0907,2.0,0.0,yes
+150,150,"Brown, Mrs. Elizabeth Catherine",6,여성,40.0,40대,2등석,S,Others,South Africa,29750.0,39.0,1.0,1.0,yes
+151,151,"Brown, Mrs. Margaret",259,여성,44.0,40대,1등석,C,North America,United States,17610.0,27.1405,0.0,0.0,yes
+152,152,"Bryhl, Miss. Dagmar Jenny Ingeborg",105,여성,20.0,20대,2등석,S,Northern Europe,Sweden,236853.0,26.0,1.0,0.0,yes
+153,153,"Bryhl, Mr. Kurt Arnold Gottfrid",105,남성,25.0,20대,2등석,S,Northern Europe,Sweden,236853.0,26.0,1.0,0.0,no
+154,154,"Buckley, Miss. Katherine",120,여성,22.0,20대,3등석,Q,Northern Europe,Ireland,329944.0,7.0508,0.0,0.0,no
+155,155,"Buckley, Mr. Daniel",120,남성,21.0,20대,3등석,Q,Northern Europe,Ireland,330920.0,7.1517,0.0,0.0,yes
+156,156,"Bucknell, Mrs. Emma Eliza",7,여성,58.0,50대,1등석,C,Others,India,11813.0,76.051,0.0,0.0,yes
+157,157,"Burke, Mr. Jeremiah",120,남성,19.0,10대,3등석,Q,Northern Europe,Ireland,365222.0,6.15,0.0,0.0,no
+158,158,"Burns, Miss. Mary Delia",120,여성,17.0,10대,3등석,Q,Northern Europe,Ireland,330963.0,7.1707,0.0,0.0,no
+159,159,"Buss, Miss. Kate",335,여성,36.0,30대,2등석,S,UK,England,27849.0,13.0,0.0,0.0,yes
+160,160,"Butler, Mr. Reginald Fenton",335,남성,26.0,20대,2등석,S,UK,England,234686.0,13.0,0.0,0.0,no
+161,161,"Butrus-Ka'wī, Mr. Tannūs",70,남성,21.0,20대,3등석,C,Middle East,Lebanon,2648.0,7.0407,0.0,0.0,no
+162,162,"Butt, Major. Archibald Willingham",259,남성,46.0,40대,1등석,S,North America,United States,113050.0,26.11,0.0,0.0,no
+163,163,"Byles, Fr. Thomas Roussel Davids",335,남성,42.0,40대,2등석,S,UK,England,244310.0,13.0,0.0,0.0,no
+164,164,"Byström, Mrs. Karolina",259,여성,40.0,40대,2등석,S,North America,United States,236852.0,13.0,0.0,0.0,yes
+165,165,"Būlus, Master. Akar",70,남성,7.0,10대 미만,3등석,C,Middle East,Lebanon,2678.0,15.0411,1.0,1.0,no
+166,166,"Būlus, Miss. Nūr al-'ayn",70,여성,10.0,10대,3등석,C,Middle East,Lebanon,2678.0,15.0411,1.0,1.0,no
+167,167,"Būlus, Mrs. Sultānah",70,여성,40.0,40대,3등석,C,Middle East,Lebanon,2678.0,15.0411,0.0,2.0,no
+168,168,"Cacic, Miss. Manda",23,여성,21.0,20대,3등석,S,Southern Europe,Croatia,315087.0,8.1303,0.0,0.0,no
+169,169,"Cacic, Miss. Marija",23,여성,30.0,30대,3등석,S,Southern Europe,Croatia,315084.0,8.1303,0.0,0.0,no
+170,170,"Cacic, Mr. Jego Grga",23,남성,18.0,10대,3등석,S,Southern Europe,Croatia,315091.0,8.1303,0.0,0.0,no
+171,171,"Cacic, Mr. Luka",23,남성,38.0,30대,3등석,S,Southern Europe,Croatia,315089.0,8.1303,0.0,0.0,no
+172,172,"Cairns, Mr. Alexander Milne",17,남성,28.0,20대,1등석,S,UK,Scotland,113798.0,31.0,0.0,0.0,no
+173,173,"Calderhead, Mr. Edward Pennington",259,남성,42.0,40대,1등석,S,North America,United States,17476.0,26.0509,0.0,0.0,yes
+174,174,"Caldwell, Master. Alden Gates",2,남성,0.8333333333,10대 미만,2등석,S,Others,Siam,248738.0,29.0,0.0,2.0,yes
+175,175,"Caldwell, Mr. Albert Francis",2,남성,26.0,20대,2등석,S,Others,Siam,248738.0,29.0,1.0,1.0,yes
+176,176,"Caldwell, Mrs. Sylvia Mae",259,여성,28.0,20대,2등석,S,North America,United States,248738.0,29.0,1.0,1.0,yes
+177,177,"Calic, Mr. Jovo",23,남성,17.0,10대,3등석,S,Southern Europe,Croatia,315093.0,8.1303,0.0,0.0,no
+178,178,"Calic, Mr. Petar",23,남성,17.0,10대,3등석,S,Southern Europe,Croatia,315086.0,8.1303,0.0,0.0,no
+179,179,"Cameron, Miss. Clear Annie",335,여성,35.0,30대,2등석,S,UK,England,13528.0,21.0,0.0,0.0,yes
+180,180,"Campbell, Mr. William Henry",6,남성,21.0,20대,2등석,B,UK,Northern Ireland,239853.0,,0.0,0.0,no
+181,181,"Canavan, Miss. Mary",120,여성,22.0,20대,3등석,Q,Northern Europe,Ireland,364846.0,7.15,0.0,0.0,no
+182,182,"Canavan, Mr. Patrick",120,남성,21.0,20대,3등석,Q,Northern Europe,Ireland,364858.0,7.15,0.0,0.0,no
+183,183,"Candee, Mrs. Helen Churchill",259,여성,52.0,50대,1등석,C,North America,United States,17606.0,27.0811,0.0,0.0,yes
+184,184,"Cann, Mr. Ernest",335,남성,29.0,20대,3등석,S,UK,England,2152.0,8.01,0.0,0.0,no
+185,185,"Caram, Mr. Joseph",33,남성,28.0,20대,3등석,C,North America,Canada,2689.0,14.0902,1.0,0.0,no
+186,186,"Caram, Mrs. Maria Elias",70,여성,18.0,10대,3등석,C,Middle East,Lebanon,2689.0,14.0902,1.0,0.0,no
+187,187,"Carbines, Mr. William",335,남성,19.0,10대,2등석,S,UK,England,28424.0,13.0,0.0,0.0,no
+188,188,"Cardeza, Mr. Thomas Drake Martinez",259,남성,36.0,30대,1등석,C,North America,United States,17755.0,512.0607,0.0,1.0,yes
+189,189,"Cardeza, Mrs. Charlotte Wardle",259,여성,58.0,50대,1등석,C,North America,United States,17755.0,512.0607,0.0,1.0,yes
+190,190,"Carlsson, Mr. August Sigfrid",105,남성,28.0,20대,3등석,S,Northern Europe,Sweden,350042.0,7.1511,0.0,0.0,no
+191,191,"Carlsson, Mr. Carl Robert",105,남성,24.0,20대,3등석,S,Northern Europe,Sweden,350409.0,7.1701,0.0,0.0,no
+192,192,"Carlsson, Mr. Frans Olof",259,남성,33.0,30대,1등석,S,North America,United States,695.0,5.0,0.0,0.0,no
+193,193,"Carr, Miss. Jane",120,여성,45.0,40대,3등석,Q,Northern Europe,Ireland,368364.0,7.15,0.0,0.0,no
+194,194,"Carrau, Mr. Francisco Mauro Severiano",2,남성,27.0,20대,1등석,S,Others,Uruguay,113059.0,47.02,0.0,0.0,no
+195,195,"Carraú-Esteves, Mr. José Pedro",2,남성,17.0,10대,1등석,S,Others,Uruguay,113059.0,47.02,0.0,0.0,no
+196,196,"Carter, Fr. Ernest Courtenay",335,남성,54.0,50대,2등석,S,UK,England,244252.0,26.0,1.0,0.0,no
+197,197,"Carter, Master. William Thornton II",259,남성,11.0,10대,1등석,S,North America,United States,113760.0,120.0,1.0,2.0,yes
+198,198,"Carter, Miss. Lucile Polk",259,여성,13.0,10대,1등석,S,North America,United States,113760.0,120.0,1.0,2.0,yes
+199,199,"Carter, Mr. William Ernest",259,남성,36.0,30대,1등석,S,North America,United States,113760.0,120.0,1.0,2.0,yes
+200,200,"Carter, Mrs. Lilian",335,여성,45.0,40대,2등석,S,UK,England,244252.0,26.0,1.0,0.0,no
+201,201,"Carter, Mrs. Lucile",259,여성,36.0,30대,1등석,S,North America,United States,113760.0,120.0,1.0,2.0,yes
+202,202,"Carver, Mr. Alfred John",335,남성,28.0,20대,3등석,S,UK,England,370160.0,7.05,0.0,0.0,no
+203,203,"Case, Mr. Howard Brown",259,남성,49.0,40대,1등석,S,North America,United States,19924.0,26.0,0.0,0.0,no
+204,204,"Cassebeer, Mrs. Eleanor Genevieve",259,여성,36.0,30대,1등석,C,North America,United States,17770.0,27.1405,0.0,0.0,yes
+205,205,"Cavendish, Mr. Tyrell William",335,남성,36.0,30대,1등석,S,UK,England,19877.0,78.17,1.0,0.0,no
+206,206,"Cavendish, Mrs. Julia Florence",259,여성,25.0,20대,1등석,S,North America,United States,19877.0,78.17,1.0,0.0,yes
+207,207,"Chaffee, Mr. Herbert Fuller",259,남성,46.0,40대,1등석,S,North America,United States,5734.0,61.0306,1.0,0.0,no
+208,208,"Chaffee, Mrs. Carrie Constance",259,여성,47.0,40대,1등석,S,North America,United States,5734.0,61.0306,1.0,0.0,yes
+209,209,"Chambers, Mr. Norman Campbell",259,남성,27.0,20대,1등석,S,North America,United States,113806.0,53.02,1.0,0.0,yes
+210,210,"Chambers, Mrs. Bertha",259,여성,32.0,30대,1등석,S,North America,United States,113806.0,53.02,1.0,0.0,yes
+211,211,"Chapman, Mr. Charles Henry",259,남성,52.0,50대,2등석,S,North America,United States,248731.0,13.1,0.0,0.0,no
+212,212,"Chapman, Mr. John Henry",335,남성,37.0,30대,2등석,S,UK,England,29037.0,26.0,1.0,0.0,no
+213,213,"Chapman, Mrs. Sara Elizabeth",335,여성,29.0,20대,2등석,S,UK,England,29037.0,26.0,1.0,0.0,no
+214,214,"Charters, Mr. David",120,남성,20.0,20대,3등석,Q,Northern Europe,Ireland,13032.0,7.1408,0.0,0.0,no
+215,215,"Cherry, Miss. Gladys",335,여성,30.0,30대,1등석,S,UK,England,110152.0,86.1,0.0,0.0,yes
+216,216,"Chevré, Mr. Paul Romaine Marie Léonce",22,남성,45.0,40대,1등석,C,Western Europe,Belgium,17594.0,29.14,0.0,0.0,yes
+217,217,"Chibnall, Mrs. Edith Martha Bowerman",335,여성,48.0,40대,1등석,S,UK,England,113505.0,55.0,0.0,1.0,yes
+218,218,"Chisholm, Mr. Roderick Robert Crispin",17,남성,43.0,40대,1등석,B,UK,Scotland,112051.0,,0.0,0.0,no
+219,219,"Christmann, Mr. Emil",335,남성,29.0,20대,3등석,S,UK,England,343276.0,8.01,0.0,0.0,no
+220,220,"Christy, Miss. Rachel Juli Cohen",335,여성,25.0,20대,2등석,S,UK,England,237789.0,30.0,1.0,1.0,yes
+221,221,"Christy, Mrs. Alice Frances",335,여성,52.0,50대,2등석,S,UK,England,237789.0,30.0,0.0,2.0,yes
+222,222,"Clark, Mr. Walter Miller",259,남성,27.0,20대,1등석,C,North America,United States,13508.0,136.1507,1.0,0.0,no
+223,223,"Clark, Mrs. Virginia Estelle",259,여성,26.0,20대,1등석,C,North America,United States,13508.0,136.1507,1.0,0.0,yes
+224,224,"Clarke, Mr. Charles Valentine",335,남성,29.0,20대,2등석,S,UK,England,2003.0,26.0,1.0,0.0,no
+225,225,"Clarke, Mr. John Frederick Preston",335,남성,28.0,20대,2등석,S,UK,England,250654.0,,,,no
+226,226,"Clarke, Mrs. Ada Maria",335,여성,28.0,20대,2등석,S,UK,England,2003.0,27.0,1.0,0.0,yes
+227,227,"Cleaver, Miss. Alice Catherine",335,여성,22.0,20대,1등석,S,UK,England,113781.0,151.16,0.0,0.0,yes
+228,228,"Clifford, Mr. George Quincy",259,남성,40.0,40대,1등석,S,North America,United States,110465.0,52.0,0.0,0.0,no
+229,229,"Cohen, Mr. Gurshon",335,남성,18.0,10대,3등석,S,UK,England,3540.0,8.01,0.0,0.0,yes
+230,230,"Colbert, Mr. Patrick",120,남성,24.0,20대,3등석,Q,Northern Europe,Ireland,371109.0,7.05,0.0,0.0,no
+231,231,"Coleff, Mr. Satio",17,남성,24.0,20대,3등석,S,Eastern Europe,Bulgaria,349209.0,7.1711,0.0,0.0,no
+232,232,"Coleridge, Mr. Reginald Charles",335,남성,29.0,20대,2등석,S,UK,England,14263.0,10.1,0.0,0.0,no
+233,233,"Collander, Mr. Erik Gustaf",54,남성,27.0,20대,2등석,S,Northern Europe,Finland,248740.0,13.0,0.0,0.0,no
+234,234,"Collett, Mr. Sidney Clarence Stuart",335,남성,25.0,20대,2등석,S,UK,England,28034.0,10.1,0.0,0.0,yes
+235,235,"Colley, Mr. Edward Pomeroy",120,남성,37.0,30대,1등석,S,Northern Europe,Ireland,5727.0,25.1109,0.0,0.0,no
+236,236,"Collyer, Miss. Marjorie Lottie",335,여성,8.0,10대 미만,2등석,S,UK,England,31921.0,26.05,0.0,2.0,yes
+237,237,"Collyer, Mr. Harvey",335,남성,31.0,30대,2등석,S,UK,England,31921.0,26.05,1.0,1.0,no
+238,238,"Collyer, Mrs. Charlotte Caroline",335,여성,30.0,30대,2등석,S,UK,England,31921.0,26.05,1.0,1.0,yes
+239,239,"Coltcheff, Mr. Peju",17,남성,36.0,30대,3등석,S,Eastern Europe,Bulgaria,349210.0,7.1711,0.0,0.0,no
+240,240,"Compton, Miss. Sara Rebecca",259,여성,39.0,30대,1등석,C,North America,United States,17756.0,83.0302,1.0,1.0,yes
+241,241,"Compton, Mr. Alexander Taylor jr",259,남성,37.0,30대,1등석,C,North America,United States,17756.0,83.0302,1.0,1.0,no
+242,242,"Compton, Mrs. Mary Eliza",259,여성,64.0,60대,1등석,C,North America,United States,17756.0,83.0302,0.0,2.0,yes
+243,243,"Conlin, Mr. Thomas Henry",259,남성,31.0,30대,3등석,Q,North America,United States,21332.0,7.1408,0.0,0.0,no
+244,244,"Connaughton, Mr. Michael",120,남성,40.0,40대,3등석,Q,Northern Europe,Ireland,335097.0,7.15,0.0,0.0,no
+245,245,"Connolly, Miss. Catherine",120,여성,23.0,20대,3등석,Q,Northern Europe,Ireland,370373.0,7.15,0.0,0.0,yes
+246,246,"Connolly, Miss. Kate",120,여성,41.0,40대,3등석,Q,Northern Europe,Ireland,330972.0,7.1207,0.0,0.0,no
+247,247,"Connors, Mr. Patrick",120,남성,66.0,60대,3등석,Q,Northern Europe,Ireland,370369.0,7.15,0.0,0.0,no
+248,248,"Cook, Mrs. Selena",335,여성,22.0,20대,2등석,S,UK,England,14266.0,10.1,0.0,0.0,yes
+249,249,"Cor, Mr. Bartol",23,남성,35.0,30대,3등석,S,Southern Europe,Croatia,349230.0,7.1711,0.0,0.0,no
+250,250,"Cor, Mr. Ivan",7,남성,27.0,20대,3등석,S,Eastern Europe,Hungary,349229.0,7.1711,0.0,0.0,no
+251,251,"Cor, Mr. Liudevit",7,남성,19.0,10대,3등석,S,Eastern Europe,Hungary,349231.0,7.1711,0.0,0.0,no
+252,252,"Corbett, Mrs. Irene",259,여성,30.0,30대,2등석,S,North America,United States,237249.0,13.0,0.0,0.0,no
+253,253,"Cornblatt, Mr. Harris",3,남성,30.0,30대,3등석,S,Eastern Europe,Poland,392090.0,8.01,0.0,0.0,no
+254,254,"Cornell, Mrs. Malvina Helen",259,여성,55.0,50대,1등석,S,North America,United States,11770.0,25.141,2.0,0.0,yes
+255,255,"Corr, Miss. Ellen",120,여성,16.0,10대,3등석,Q,Northern Europe,Ireland,367231.0,7.15,0.0,0.0,yes
+256,256,"Cotterill, Mr. Henry",335,남성,21.0,20대,2등석,S,UK,England,29107.0,11.1,0.0,0.0,no
+257,257,"Coutts, Master. Neville Leslie",335,남성,3.0,10대 미만,3등석,S,UK,England,37671.0,15.18,1.0,1.0,yes
+258,258,"Coutts, Master. William Loch",335,남성,9.0,10대 미만,3등석,S,UK,England,37671.0,15.18,1.0,1.0,yes
+259,259,"Coutts, Mrs. Winnie",335,여성,36.0,30대,3등석,S,UK,England,37671.0,15.18,0.0,2.0,yes
+260,260,"Coxon, Mr. Daniel",335,남성,58.0,50대,3등석,S,UK,England,364500.0,7.05,0.0,0.0,no
+261,261,"Crafton, Mr. John Bertram",259,남성,59.0,50대,1등석,S,North America,United States,113791.0,26.11,0.0,0.0,no
+262,262,"Crease, Mr. Ernest James",259,남성,20.0,20대,3등석,S,North America,United States,3464.0,8.0302,0.0,0.0,no
+263,263,"Cribb, Miss. Laura Mae",259,여성,16.0,10대,3등석,S,North America,United States,371362.0,16.02,0.0,1.0,yes
+264,264,"Cribb, Mr. John Hatfield",2,남성,43.0,40대,3등석,S,Others,Australia,371362.0,16.02,0.0,1.0,no
+265,265,"Crosby, Captain. Edward Gifford",259,남성,70.0,70대,1등석,S,North America,United States,5735.0,71.0,1.0,1.0,no
+266,266,"Crosby, Miss. Harriette Rebecca",259,여성,39.0,30대,1등석,S,North America,United States,112901.0,26.11,0.0,2.0,yes
+267,267,"Crosby, Mrs. Catherine Elizabeth",259,여성,64.0,60대,1등석,S,North America,United States,5735.0,71.0,1.0,1.0,yes
+268,268,"Culumovic, Mr. Jeso",23,남성,17.0,10대,3등석,S,Southern Europe,Croatia,315090.0,8.1303,0.0,0.0,no
+269,269,"Cumings, Mr. John Bradley",259,남성,39.0,30대,1등석,C,North America,United States,17599.0,71.0508,1.0,0.0,no
+270,270,"Cumings, Mrs. Florence Briggs",2,여성,35.0,30대,1등석,C,Others,Peru,17599.0,71.0508,1.0,0.0,yes
+271,271,"Cunningham, Mr. Alfred Fleming",6,남성,22.0,20대,2등석,B,UK,Northern Ireland,239853.0,,0.0,0.0,no
+272,272,"Dahlberg, Miss. Gerda Ulrika",105,여성,22.0,20대,3등석,S,Northern Europe,Sweden,7552.0,10.1004,0.0,0.0,no
+273,273,"Daly, Miss. Margaret Marcella",120,여성,33.0,30대,3등석,Q,Northern Europe,Ireland,382650.0,6.19,0.0,0.0,yes
+274,274,"Daly, Mr. Eugene Patrick",120,남성,29.0,20대,3등석,Q,Northern Europe,Ireland,382651.0,7.15,0.0,0.0,yes
+275,275,"Daly, Mr. Peter Dennis",335,남성,51.0,50대,1등석,S,UK,England,113055.0,26.11,0.0,0.0,yes
+276,276,"Danbom, Master. Gilbert Sigvard Emanuel",105,남성,0.3333333333,10대 미만,3등석,S,Northern Europe,Sweden,347080.0,14.08,0.0,2.0,no
+277,277,"Danbom, Mr. Ernst Gilbert",105,남성,34.0,30대,3등석,S,Northern Europe,Sweden,347080.0,14.08,1.0,1.0,no
+278,278,"Danbom, Mrs. Anna Sigrid Maria",105,여성,28.0,20대,3등석,S,Northern Europe,Sweden,347080.0,14.08,1.0,1.0,no
+279,279,"Daniel, Mr. Robert Williams",259,남성,27.0,20대,1등석,S,North America,United States,113804.0,30.1,0.0,0.0,yes
+280,280,"Daniels, Miss. Sarah Rebecca",335,여성,36.0,30대,1등석,S,UK,England,113781.0,151.16,0.0,0.0,yes
+281,281,"Davidson, Mr. Thornton",33,남성,31.0,30대,1등석,C,North America,Canada,12750.0,52.0,1.0,0.0,no
+282,282,"Davidson, Mrs. Orian",33,여성,27.0,20대,1등석,C,North America,Canada,12750.0,52.0,1.0,2.0,yes
+283,283,"Davies, Master. John Morgan jr",335,남성,8.0,10대 미만,2등석,S,UK,England,33112.0,36.15,1.0,1.0,yes
+284,284,"Davies, Mr. Alfred James",335,남성,24.0,20대,3등석,S,UK,England,48871.0,24.03,2.0,0.0,no
+285,285,"Davies, Mr. Charles Henry",335,남성,19.0,10대,2등석,S,UK,England,14879.0,73.1,0.0,0.0,no
+286,286,"Davies, Mr. Evan Lewis",8,남성,22.0,20대,3등석,S,UK,Wales,23568.0,8.01,0.0,0.0,no
+287,287,"Davies, Mr. John",335,남성,22.0,20대,3등석,S,UK,England,48871.0,24.03,2.0,0.0,no
+288,288,"Davies, Mr. Joseph",335,남성,17.0,10대,3등석,S,UK,England,48873.0,8.01,2.0,0.0,no
+289,289,"Davies, Mrs. Agnes",335,여성,48.0,40대,2등석,S,UK,England,33112.0,36.15,0.0,2.0,yes
+290,290,"Davis, Miss. Mary Ann Charlotte",335,여성,28.0,20대,2등석,S,UK,England,237668.0,13.0,0.0,0.0,yes
+291,291,"Davison, Mr. Thomas Henry",335,남성,32.0,30대,3등석,S,UK,England,386525.0,16.02,1.0,0.0,no
+292,292,"Davison, Mrs. Mary Elizabeth",335,여성,34.0,30대,3등석,S,UK,England,386525.0,16.02,1.0,0.0,yes
+293,293,"Deacon, Mr. Percy William",335,남성,18.0,10대,2등석,S,UK,England,14879.0,73.1,0.0,0.0,no
+294,294,"Dean, Master. Bertram Vere",335,남성,1.0,10대 미만,3등석,S,UK,England,2315.0,20.1106,1.0,2.0,yes
+295,295,"Dean, Miss. Elizabeth Gladys 'Millvina'",335,여성,0.1666666667,10대 미만,3등석,S,UK,England,2315.0,20.1106,1.0,2.0,yes
+296,296,"Dean, Mr. Bertram Frank",335,남성,25.0,20대,3등석,S,UK,England,2315.0,20.1106,1.0,2.0,no
+297,297,"Dean, Mrs. Eva Georgetta",335,여성,32.0,30대,3등석,S,UK,England,2315.0,20.1106,1.0,2.0,yes
+298,298,"Delalic, Mr. Redjo",4,남성,25.0,20대,3등석,S,Southern Europe,Bosnia,349250.0,7.1711,0.0,0.0,no
+299,299,"Del Carlo, Mr. Sebastiano",4,남성,29.0,20대,2등석,C,Southern Europe,Italy,2167.0,27.1405,1.0,0.0,no
+300,300,"Del Carlo, Mrs. Argene",4,여성,24.0,20대,2등석,C,Southern Europe,Italy,2167.0,27.1405,1.0,0.0,yes
+301,301,"De Messemaeker, Mr. Guillaume Joseph",259,남성,36.0,30대,3등석,S,North America,United States,345572.0,17.08,1.0,0.0,yes
+302,302,"De Messemaeker, Mrs. Anna",259,여성,36.0,30대,3등석,S,North America,United States,345572.0,17.08,1.0,0.0,yes
+303,303,"De Mulder, Mr. Theodoor",22,남성,30.0,30대,3등석,S,Western Europe,Belgium,345774.0,9.1,0.0,0.0,yes
+304,304,"Denbuoy, Mr. Albert Joseph",10,남성,25.0,20대,2등석,S,UK,Channel Islands,31029.0,31.1,0.0,0.0,no
+305,305,"Dennis, Mr. Samuel",335,남성,22.0,20대,3등석,S,UK,England,21172.0,7.05,0.0,0.0,no
+306,306,"Dennis, Mr. William",335,남성,26.0,20대,3등석,S,UK,England,21175.0,7.05,0.0,0.0,no
+307,307,"De Pelsmaeker, Mr. Alfons",22,남성,16.0,10대,3등석,S,Western Europe,Belgium,345778.0,9.1,0.0,0.0,no
+308,308,"Devaney, Miss. Margaret Delia",120,여성,19.0,10대,3등석,Q,Northern Europe,Ireland,330958.0,7.1707,0.0,0.0,yes
+309,309,"Dibden, Mr. William",335,남성,18.0,10대,2등석,S,UK,England,14879.0,73.1,0.0,0.0,no
+310,310,"Dick, Mr. Albert Adrian",33,남성,31.0,30대,1등석,S,North America,Canada,17474.0,57.0,1.0,0.0,yes
+311,311,"Dick, Mrs. Vera",259,여성,17.0,10대,1등석,S,North America,United States,17474.0,57.0,1.0,0.0,yes
+312,312,"Dika, Mr. Mirko",23,남성,17.0,10대,3등석,S,Southern Europe,Croatia,349232.0,7.1711,0.0,0.0,no
+313,313,"Dimic, Mr. Jovan",7,남성,42.0,40대,3등석,S,Eastern Europe,Hungary,315088.0,8.1303,0.0,0.0,no
+314,314,"Dodge, Dr. Washington",259,남성,52.0,50대,1등석,S,North America,United States,33638.0,81.1702,1.0,1.0,yes
+315,315,"Dodge, Master. Washington",259,남성,4.0,10대 미만,1등석,S,North America,United States,33638.0,81.1702,0.0,2.0,yes
+316,316,"Dodge, Mrs. Ruth",259,여성,34.0,30대,1등석,S,North America,United States,33638.0,81.1702,1.0,1.0,yes
+317,317,"Doling, Miss. Elsie",335,여성,18.0,10대,2등석,S,UK,England,231919.0,23.0,0.0,1.0,yes
+318,318,"Doling, Mrs. Ada Julia Elizabeth",335,여성,34.0,30대,2등석,S,UK,England,231919.0,23.0,0.0,1.0,yes
+319,319,"Donohoe, Miss. Bridget",120,여성,21.0,20대,3등석,Q,Northern Europe,Ireland,364856.0,7.15,0.0,0.0,no
+320,320,"Dooly, Mr. Patrick",120,남성,37.0,30대,3등석,Q,Northern Europe,Ireland,370376.0,7.15,0.0,0.0,no
+321,321,"Dorking, Mr. Edward Arthur",335,남성,18.0,10대,3등석,S,UK,England,10482.0,8.01,0.0,0.0,yes
+322,322,"Dougherty, Mr. William John",120,남성,22.0,20대,3등석,Q,Northern Europe,Ireland,330877.0,8.0902,0.0,0.0,no
+323,323,"Douglas, Mr. Walter Donald",259,남성,50.0,50대,1등석,C,North America,United States,17761.0,106.0806,1.0,0.0,no
+324,324,"Douglas, Mrs. Mahala",259,여성,48.0,40대,1등석,C,North America,United States,17761.0,106.0806,1.0,0.0,yes
+325,325,"Douglas, Mrs. Mary Hélène",33,여성,27.0,20대,1등석,C,North America,Canada,17558.0,247.1005,1.0,1.0,yes
+326,326,"Douton, Mr. William Joseph",335,남성,55.0,50대,2등석,S,UK,England,28403.0,26.0,0.0,0.0,no
+327,327,"Dowdell, Miss. Elizabeth",259,여성,31.0,30대,3등석,S,North America,United States,364516.0,12.0906,0.0,0.0,yes
+328,328,"Doyle, Miss. Elizabeth",120,여성,28.0,20대,3등석,Q,Northern Europe,Ireland,368702.0,7.15,0.0,0.0,no
+329,329,"Drazenovic, Mr. Jozef",23,남성,33.0,30대,3등석,C,Southern Europe,Croatia,349241.0,7.1711,0.0,0.0,no
+330,330,"Drew, Master. Marshall Brines",259,남성,8.0,10대 미만,2등석,S,North America,United States,28220.0,32.1,0.0,2.0,yes
+331,331,"Drew, Mr. James Vivian",335,남성,42.0,40대,2등석,S,UK,England,28220.0,32.1,1.0,1.0,no
+332,332,"Drew, Mrs. Maria Louisa Thorne",259,여성,34.0,30대,2등석,S,North America,United States,28220.0,32.1,1.0,1.0,yes
+333,333,"Driscoll, Miss. Bridget",120,여성,27.0,20대,3등석,Q,Northern Europe,Ireland,14311.0,7.15,0.0,0.0,yes
+334,334,"Dropkin, Miss. Jennie",335,여성,24.0,20대,3등석,S,UK,England,392083.0,8.01,0.0,0.0,yes
+335,335,"Duff Gordon, Lucy Christiana, Lady",335,여성,48.0,40대,1등석,C,UK,England,17485.0,56.1807,1.0,0.0,yes
+336,336,"Duff Gordon, Sir. Cosmo Edmund",335,남성,49.0,40대,1등석,C,UK,England,11755.0,39.12,1.0,0.0,yes
+337,337,"Dulles, Mr. William Crothers",259,남성,39.0,30대,1등석,C,North America,United States,17580.0,29.14,0.0,0.0,no
+338,338,"Duquemin, Mr. Joseph Pierre",10,남성,24.0,20대,3등석,S,UK,Channel Islands,752.0,7.11,0.0,0.0,yes
+339,339,"Durán i Moné, Sra. Asuncion",8,여성,27.0,20대,2등석,C,Southern Europe,Spain,2149.0,13.1702,1.0,0.0,yes
+340,340,"Durán i Moné, Sra. Florentina",8,여성,30.0,30대,2등석,C,Southern Europe,Spain,2148.0,13.1702,1.0,0.0,yes
+341,341,"Dwan, Mr. Frank",120,남성,65.0,60대,3등석,Q,Northern Europe,Ireland,336439.0,7.15,0.0,0.0,no
+342,342,"Dyker, Mr. Adolf Fredrik",259,남성,23.0,20대,3등석,S,North America,United States,347072.0,13.18,1.0,0.0,no
+343,343,"Dyker, Mrs. Anna Elisabeth Judith",259,여성,22.0,20대,3등석,S,North America,United States,347072.0,13.18,1.0,0.0,yes
+344,344,"Earnshaw, Mrs. Olive",259,여성,23.0,20대,1등석,C,North America,United States,11767.0,83.0302,0.0,1.0,yes
+345,345,"Edvardsson, Mr. Gustaf Hjalmar",105,남성,18.0,10대,3등석,S,Northern Europe,Sweden,349912.0,7.1506,0.0,0.0,no
+346,346,"Eitemiller, Mr. George Floyd",259,남성,25.0,20대,2등석,S,North America,United States,29751.0,13.0,0.0,0.0,no
+347,347,"Eklund, Mr. Hans Linus",105,남성,16.0,10대,3등석,S,Northern Europe,Sweden,347074.0,7.1506,0.0,0.0,no
+348,348,"Ekström, Mr. Amandus",105,남성,45.0,40대,3등석,S,Northern Europe,Sweden,347061.0,6.1906,0.0,0.0,no
+349,349,"Elias, Mr. Joseph jr.",70,남성,15.0,10대,3등석,C,Middle East,Lebanon,2690.0,7.0407,1.0,1.0,no
+350,350,"Elias Nasrallah, Mr. Tannous",70,남성,22.0,20대,3등석,C,Middle East,Lebanon,2695.0,7.0407,1.0,1.0,no
+351,351,"Elsbury, Mr. William James",335,남성,48.0,40대,3등석,S,UK,England,3902.0,7.05,0.0,0.0,no
+352,352,"Emanuel, Miss. Virginia Ethel",259,여성,5.0,10대 미만,3등석,S,North America,United States,364516.0,12.0906,0.0,0.0,yes
+353,353,"Enander, Mr. Ingvar",105,남성,21.0,20대,2등석,S,Northern Europe,Sweden,236854.0,13.0,0.0,0.0,no
+354,354,"Endres, Miss. Caroline Louise",259,여성,39.0,30대,1등석,C,North America,United States,17757.0,247.1006,0.0,0.0,yes
+355,355,"Eustis, Miss. Elizabeth Mussey",259,여성,54.0,50대,1등석,C,North America,United States,36947.0,78.0504,1.0,0.0,yes
+356,356,"Evans, Miss. Edith Corse",259,여성,36.0,30대,1등석,C,North America,United States,17531.0,31.1307,0.0,0.0,no
+357,357,"Everett, Mr. Thomas James",335,남성,38.0,30대,3등석,S,UK,England,6212.0,15.02,0.0,0.0,no
+358,358,"Fahlstrøm, Mr. Arne Joma",26,남성,18.0,10대,2등석,S,Northern Europe,Norway,236171.0,13.0,0.0,0.0,no
+359,359,"Fardon, Mr. Charles Richard",335,남성,46.0,40대,3등석,S,UK,England,3101314.0,7.05,0.0,0.0,no
+360,360,"Farrell, Mr. James",120,남성,26.0,20대,3등석,Q,Northern Europe,Ireland,367232.0,7.15,0.0,0.0,no
+361,361,"Farthing, Mr. John",335,남성,49.0,40대,1등석,S,UK,England,17483.0,221.1507,0.0,0.0,no
+362,362,"Faunthorpe, Mr. Harry Bartram",335,남성,32.0,30대,2등석,S,UK,England,2926.0,26.0,1.0,0.0,no
+363,363,"Fillbrook, Mr. Joseph Charles",335,남성,18.0,10대,2등석,S,UK,England,15185.0,10.1,0.0,0.0,no
+364,364,"Fischer, Mr. Eberhard Thelander",105,남성,18.0,10대,3등석,S,Northern Europe,Sweden,350036.0,7.1511,0.0,0.0,no
+365,365,"Flegenheim, Mrs. Antoinette",259,여성,48.0,40대,1등석,C,North America,United States,17598.0,31.1308,0.0,0.0,yes
+366,366,"Fleming, Miss. Honor",120,여성,22.0,20대,3등석,Q,Northern Europe,Ireland,364859.0,7.15,0.0,0.0,no
+367,367,"Fleming, Miss. Margaret",259,여성,42.0,40대,1등석,C,North America,United States,17421.0,110.1708,0.0,0.0,yes
+368,368,"Flynn, Mr. James",120,남성,28.0,20대,3등석,Q,Northern Europe,Ireland,364851.0,7.15,0.0,0.0,no
+369,369,"Flynn, Mr. John",120,남성,48.0,40대,3등석,Q,Northern Europe,Ireland,368323.0,6.19,0.0,0.0,no
+370,370,"Flynn, Mr. John Irwin",33,남성,36.0,30대,1등석,S,North America,Canada,14474.0,26.0509,0.0,0.0,yes
+371,371,"Foley, Mr. Joseph",120,남성,19.0,10대,3등석,Q,Northern Europe,Ireland,330910.0,7.1707,0.0,0.0,no
+372,372,"Foley, Mr. William",120,남성,20.0,20대,3등석,Q,Northern Europe,Ireland,365235.0,7.15,0.0,0.0,no
+373,373,"Ford, Miss. Dollina Margaret",335,여성,20.0,20대,3등석,S,UK,England,6608.0,34.0706,2.0,2.0,no
+374,374,"Ford, Miss. Robina Maggie",335,여성,7.0,10대 미만,3등석,S,UK,England,6608.0,34.0706,2.0,2.0,no
+375,375,"Ford, Mr. Arthur",335,남성,23.0,20대,3등석,S,UK,England,1478.0,8.01,0.0,0.0,no
+376,376,"Ford, Mr. Edward Watson",335,남성,18.0,10대,3등석,S,UK,England,6608.0,34.0706,2.0,2.0,no
+377,377,"Ford, Mr. William Neal Thomas",335,남성,14.0,10대,3등석,S,UK,England,6608.0,34.0706,1.0,3.0,no
+378,378,"Ford, Mrs. Margaret Ann Watson",17,여성,54.0,50대,3등석,S,UK,Scotland,6608.0,34.0706,1.0,3.0,no
+379,379,"Foreman, Mr. Benjamin Laventall",259,남성,30.0,30대,1등석,S,North America,United States,113051.0,27.15,0.0,0.0,no
+380,380,"Fortune, Miss. Alice Elizabeth",33,여성,24.0,20대,1등석,S,North America,Canada,19950.0,263.0,3.0,2.0,yes
+381,381,"Fortune, Miss. Ethel Flora",33,여성,28.0,20대,1등석,S,North America,Canada,19950.0,263.0,3.0,2.0,yes
+382,382,"Fortune, Miss. Mabel Helen",33,여성,23.0,20대,1등석,S,North America,Canada,19950.0,263.0,3.0,2.0,yes
+383,383,"Fortune, Mr. Charles Alexander",33,남성,19.0,10대,1등석,S,North America,Canada,19950.0,263.0,3.0,2.0,no
+384,384,"Fortune, Mr. Mark",33,남성,64.0,60대,1등석,S,North America,Canada,19950.0,263.0,1.0,4.0,no
+385,385,"Fortune, Mrs. Mary",33,여성,60.0,60대,1등석,S,North America,Canada,19950.0,263.0,1.0,4.0,yes
+386,386,"Fox, Mr. Patrick",120,남성,28.0,20대,3등석,Q,Northern Europe,Ireland,368573.0,7.15,0.0,0.0,no
+387,387,"Fox, Mr. Stanley Harrington",259,남성,38.0,30대,2등석,S,North America,United States,229236.0,13.0,0.0,0.0,no
+388,388,"Francatelli, Miss. Laura Mabel",335,여성,32.0,30대,1등석,C,UK,England,17485.0,56.1807,0.0,0.0,yes
+389,389,"Franklin, Mr. Thomas Parnham",335,남성,37.0,30대,1등석,S,UK,England,113778.0,26.11,0.0,0.0,no
+390,390,"Frauenthal, Dr. Henry William",259,남성,49.0,40대,1등석,S,North America,United States,17611.0,133.13,2.0,0.0,yes
+391,391,"Frauenthal, Mr. Isaac Gerald",259,남성,43.0,40대,1등석,C,North America,United States,17765.0,27.1405,1.0,0.0,yes
+392,392,"Frauenthal, Mrs. Clara",259,여성,42.0,40대,1등석,S,North America,United States,17611.0,133.13,1.0,0.0,yes
+393,393,"Frost, Mr. Anthony Wood",335,남성,39.0,30대,2등석,B,UK,England,239854.0,,0.0,0.0,no
+394,394,"Fry, Mr. Richard",335,남성,39.0,30대,1등석,S,UK,England,112058.0,,0.0,0.0,no
+395,395,"Frölicher, Miss. Hedwig Margaritha",17,여성,22.0,20대,1등석,C,Western Europe,Switzerland,13568.0,49.1,0.0,2.0,yes
+396,396,"Frölicher-Stehli, Mr. Maximilian Josef",17,남성,60.0,60대,1등석,C,Western Europe,Switzerland,13567.0,79.04,1.0,1.0,yes
+397,397,"Frölicher-Stehli, Mrs. Margaretha Emerentia",17,여성,48.0,40대,1등석,C,Western Europe,Switzerland,13567.0,79.04,1.0,1.0,yes
+398,398,"Funk, Miss. Annie Clemmer",7,여성,38.0,30대,2등석,S,Others,India,237671.0,13.0,0.0,0.0,no
+399,399,"Futrelle, Mr. Jacques Heath",335,남성,37.0,30대,1등석,S,UK,England,113803.0,53.02,1.0,0.0,no
+400,400,"Futrelle, Mrs. Lily May",335,여성,35.0,30대,1등석,S,UK,England,113803.0,53.02,1.0,0.0,yes
+401,401,"Fynney, Mr. Joseph J.",335,남성,36.0,30대,2등석,S,UK,England,239865.0,26.0,0.0,0.0,no
+402,402,"Gale, Mr. Harry",335,남성,38.0,30대,2등석,S,UK,England,28664.0,21.0,1.0,0.0,no
+403,403,"Gale, Mr. Shadrach",335,남성,33.0,30대,2등석,S,UK,England,28664.0,21.0,1.0,0.0,no
+404,404,"Gallagher, Mr. Martin",120,남성,29.0,20대,3등석,Q,Northern Europe,Ireland,36864.0,7.141,0.0,0.0,no
+405,405,"Garfirth, Mr. John",335,남성,23.0,20대,3등석,S,UK,England,358585.0,14.1,0.0,0.0,no
+406,406,"Garside, Miss. Ethel",335,여성,39.0,30대,2등석,S,UK,England,243880.0,13.0,0.0,0.0,yes
+407,407,"Gaskell, Mr. William Alfred",335,남성,19.0,10대,2등석,S,UK,England,239865.0,26.0,0.0,0.0,no
+408,408,"Gavey, Mr. Laurence",10,남성,26.0,20대,2등석,S,UK,Channel Islands,31028.0,10.1,0.0,0.0,no
+409,409,"Gee, Mr. Arthur H.",335,남성,47.0,40대,1등석,S,UK,England,111320.0,38.1,0.0,0.0,no
+410,410,"George/Joseph, Mrs. Shawneene",259,여성,38.0,30대,3등석,C,North America,United States,2688.0,7.0407,0.0,0.0,yes
+411,411,"Gerios Thamah, Mr. Assaf",70,남성,21.0,20대,3등석,C,Middle East,Lebanon,2692.0,7.0406,0.0,0.0,no
+412,412,"Gibson, Miss. Dorothy Winifred",259,여성,22.0,20대,1등석,C,North America,United States,112378.0,59.08,0.0,1.0,yes
+413,413,"Gibson, Mrs. Pauline Caroline",259,여성,44.0,40대,1등석,C,North America,United States,112378.0,59.08,0.0,1.0,yes
+414,414,"Gilbert, Mr. William",335,남성,47.0,40대,2등석,S,UK,England,30769.0,10.1,0.0,0.0,no
+415,415,"Giles, Mr. Edgar",335,남성,19.0,10대,2등석,S,UK,England,28133.0,11.1,1.0,0.0,no
+416,416,"Giles, Mr. Frederick Edward",335,남성,21.0,20대,2등석,S,UK,England,28134.0,11.1,1.0,0.0,no
+417,417,"Giles, Mr. Ralph",335,남성,24.0,20대,2등석,S,UK,England,248726.0,13.1,0.0,0.0,no
+418,418,"Gilinski, Mr. Eliezer",8,남성,23.0,20대,3등석,S,UK,Wales,14973.0,8.01,0.0,0.0,no
+419,419,"Gill, Mr. John",335,남성,24.0,20대,2등석,S,UK,England,233866.0,13.0,0.0,0.0,no
+420,420,"Gillespie, Mr. William Henry",120,남성,31.0,30대,2등석,S,Northern Europe,Ireland,12233.0,13.0,0.0,0.0,no
+421,421,"Gilnagh, Miss. Katherine",120,여성,17.0,10대,3등석,Q,Northern Europe,Ireland,35851.0,7.1408,0.0,0.0,yes
+422,422,"Givard, Mr. Hans Kristensen",7,남성,30.0,30대,2등석,S,Others,Argentina,250646.0,13.0,0.0,0.0,no
+423,423,"Glynn, Miss. Mary Agatha",120,여성,18.0,10대,3등석,Q,Northern Europe,Ireland,335677.0,7.15,0.0,0.0,yes
+424,424,"Goldenberg, Mr. Samuel L.",259,남성,47.0,40대,1등석,C,North America,United States,17453.0,89.0201,1.0,0.0,yes
+425,425,"Goldenberg, Mrs. Nella",259,여성,40.0,40대,1등석,C,North America,United States,17453.0,89.0201,1.0,0.0,yes
+426,426,"Goldschmidt, Mr. George B.",259,남성,71.0,70대,1등석,C,North America,United States,17754.0,34.1301,0.0,0.0,no
+427,427,"Goldsmith, Master. Frank John William",335,남성,9.0,10대 미만,3등석,S,UK,England,363291.0,20.1006,0.0,2.0,yes
+428,428,"Goldsmith, Mr. Frank John",335,남성,33.0,30대,3등석,S,UK,England,363291.0,20.1006,1.0,1.0,no
+429,429,"Goldsmith, Mrs. Emily Alice",335,여성,31.0,30대,3등석,S,UK,England,363291.0,20.1006,1.0,1.0,yes
+430,430,"Goodwin, Master. Harold Victor",335,남성,9.0,10대 미만,3등석,S,UK,England,2144.0,46.18,5.0,2.0,no
+431,431,"Goodwin, Master. Sidney Leslie",335,남성,1.0,10대 미만,3등석,S,UK,England,2144.0,46.18,5.0,2.0,no
+432,432,"Goodwin, Master. William Frederick",335,남성,11.0,10대,3등석,S,UK,England,2144.0,46.18,5.0,2.0,no
+433,433,"Goodwin, Miss. Jessie Allis",335,여성,10.0,10대,3등석,S,UK,England,2144.0,46.18,5.0,2.0,no
+434,434,"Goodwin, Miss. Lillian Amy",335,여성,16.0,10대,3등석,S,UK,England,2144.0,46.18,5.0,2.0,no
+435,435,"Goodwin, Mr. Charles Edward",335,남성,14.0,10대,3등석,S,UK,England,2144.0,46.18,5.0,2.0,no
+436,436,"Goodwin, Mr. Frederick Joseph",335,남성,42.0,40대,3등석,S,UK,England,2144.0,46.18,1.0,6.0,no
+437,437,"Goodwin, Mrs. Augusta",335,여성,43.0,40대,3등석,S,UK,England,2144.0,46.18,1.0,6.0,no
+438,438,"Gracie, Colonel. Archibald",259,남성,53.0,50대,1등석,S,North America,United States,113780.0,28.1,0.0,0.0,yes
+439,439,"Graham, Miss. Margaret Edith",335,여성,19.0,10대,1등석,S,UK,England,17582.0,153.0903,0.0,0.0,yes
+440,440,"Graham, Mr. George Edward",33,남성,38.0,30대,1등석,S,North America,Canada,112053.0,30.0,0.0,1.0,no
+441,441,"Graham, Mrs. Edith",335,여성,59.0,50대,1등석,S,UK,England,17582.0,153.0903,0.0,1.0,yes
+442,442,"Green, Mr. George",335,남성,41.0,40대,3등석,S,UK,England,21440.0,8.01,0.0,0.0,no
+443,443,"Greenberg, Mr. Samuel",6,남성,52.0,50대,2등석,S,Others,South Africa,250647.0,13.0,0.0,0.0,no
+444,444,"Greenfield, Mr. William Bertram",259,남성,23.0,20대,1등석,C,North America,United States,17759.0,63.0702,0.0,1.0,yes
+445,445,"Greenfield, Mrs. Blanche",259,여성,45.0,40대,1등석,C,North America,United States,17759.0,63.0702,0.0,1.0,yes
+446,446,"Grønnestad, Mr. Daniel Danielsen",26,남성,32.0,30대,3등석,S,Northern Europe,Norway,8471.0,8.0615,0.0,0.0,no
+447,447,"Guest, Mr. Charles Robert",335,남성,25.0,20대,3등석,S,UK,England,376563.0,8.01,0.0,0.0,no
+448,448,"Guggenheim, Mr. Benjamin",24,남성,46.0,40대,1등석,C,Western Europe,France,17593.0,79.04,0.0,0.0,no
+449,449,"Gustafsson, Mr. Alfred Ossian",54,남성,19.0,10대,3등석,S,Northern Europe,Finland,7534.0,9.1611,0.0,0.0,no
+450,450,"Gustafsson, Mr. Anders Vilhelm",54,남성,37.0,30대,3등석,S,Northern Europe,Finland,3101276.0,7.1806,2.0,0.0,no
+451,451,"Gustafsson, Mr. Johan Birger",54,남성,28.0,20대,3등석,S,Northern Europe,Finland,3101277.0,7.1806,2.0,0.0,no
+452,452,"Gustafsson, Mr. Karl Gideon",105,남성,19.0,10대,3등석,S,Northern Europe,Sweden,347069.0,7.1506,0.0,0.0,no
+453,453,"Haas, Miss. Aloisia",17,여성,24.0,20대,3등석,S,Western Europe,Switzerland,349236.0,8.17,0.0,0.0,no
+454,454,"Hagland, Mr. Ingvald Olai Olsen",26,남성,28.0,20대,3등석,S,Northern Europe,Norway,65303.0,6.1904,1.0,0.0,no
+455,455,"Hagland, Mr. Konrad Mathias Reiersen",26,남성,19.0,10대,3등석,S,Northern Europe,Norway,65304.0,6.1904,1.0,0.0,no
+456,456,"Hakkarainen, Mr. Pekka Pietari",54,남성,28.0,20대,3등석,S,Northern Europe,Finland,3101279.0,15.17,1.0,0.0,no
+457,457,"Hakkarainen, Mrs. Elin Matilda",54,여성,24.0,20대,3등석,S,Northern Europe,Finland,3101279.0,15.17,1.0,0.0,yes
+458,458,"Hale, Mr. Reginald",335,남성,30.0,30대,2등석,S,UK,England,250653.0,13.0,0.0,0.0,no
+459,459,"Hampe, Mr. Léon Jérome",22,남성,19.0,10대,3등석,S,Western Europe,Belgium,345769.0,9.1,0.0,0.0,no
+460,460,"Hanna, Mr. Boulos",70,남성,18.0,10대,3등석,C,Middle East,Lebanon,2664.0,7.0406,0.0,0.0,no
+461,461,"Hanna, Mr. Mansour",70,남성,35.0,30대,3등석,C,Middle East,Lebanon,2693.0,7.0407,0.0,0.0,no
+462,462,"Hannah, Mr. Borak",70,남성,27.0,20대,3등석,C,Middle East,Lebanon,2663.0,7.0407,0.0,0.0,yes
+463,463,"Hansen, Mr. Claus Peter",259,남성,41.0,40대,3등석,S,North America,United States,350026.0,14.0202,2.0,0.0,no
+464,464,"Hansen, Mr. Henrik Juul",7,남성,26.0,20대,3등석,S,Northern Europe,Denmark,350025.0,7.1701,1.0,0.0,no
+465,465,"Hansen, Mr. Henry Damsgaard",7,남성,21.0,20대,3등석,S,Northern Europe,Denmark,350029.0,7.1701,0.0,0.0,no
+466,466,"Hansen, Mrs. Jennie Louise",259,여성,45.0,40대,3등석,S,North America,United States,350026.0,14.0202,1.0,0.0,yes
+467,467,"Harbeck, Mr. William H.",259,남성,45.0,40대,2등석,S,North America,United States,248746.0,13.0,0.0,0.0,no
+468,468,"Harder, Mr. George Achilles",259,남성,25.0,20대,1등석,C,North America,United States,11765.0,55.081,1.0,0.0,yes
+469,469,"Harder, Mrs. Dorothy",259,여성,21.0,20대,1등석,C,North America,United States,11765.0,55.081,1.0,0.0,yes
+470,470,"Hargadon, Miss. Catherine",120,여성,17.0,10대,3등석,Q,Northern Europe,Ireland,30631.0,7.1408,0.0,0.0,no
+471,471,"Harknett, Miss. Alice Phoebe",335,여성,21.0,20대,3등석,S,UK,England,6609.0,7.11,0.0,0.0,no
+472,472,"Harper, Miss. Annie Jessie",17,여성,6.0,10대 미만,2등석,S,UK,Scotland,248727.0,33.0,0.0,1.0,yes
+473,473,"Harper, Mr. Henry Sleeper",259,남성,48.0,40대,1등석,C,North America,United States,17572.0,76.1407,1.0,0.0,yes
+474,474,"Harper, Mrs. Myra Raymond",259,여성,49.0,40대,1등석,C,North America,United States,17572.0,76.1407,1.0,0.0,yes
+475,475,"Harper, Rev. John",17,남성,39.0,30대,2등석,S,UK,Scotland,248727.0,33.0,0.0,1.0,no
+476,476,"Harrington, Mr. Charles Henry",335,남성,37.0,30대,1등석,S,UK,England,113796.0,42.08,0.0,0.0,no
+477,477,"Harris, Mr. George",335,남성,62.0,60대,2등석,S,UK,England,752.0,10.1,0.0,0.0,yes
+478,478,"Harris, Mr. Henry Birkhardt",259,남성,45.0,40대,1등석,S,North America,United States,36973.0,83.0906,1.0,0.0,no
+479,479,"Harris, Mr. Walter",335,남성,45.0,40대,2등석,S,UK,England,14208.0,10.1,0.0,0.0,no
+480,480,"Harris, Mrs. Irene",259,여성,35.0,30대,1등석,S,North America,United States,36973.0,83.0906,1.0,0.0,yes
+481,481,"Harrison, Mr. William Henry",335,남성,46.0,40대,1등석,S,UK,England,112059.0,,0.0,0.0,no
+482,482,"Hart, Miss. Eva Miriam",335,여성,7.0,10대 미만,2등석,S,UK,England,13529.0,26.05,0.0,2.0,yes
+483,483,"Hart, Mr. Benjamin",335,남성,47.0,40대,2등석,S,UK,England,13529.0,26.05,1.0,1.0,no
+484,484,"Hart, Mr. Henry",120,남성,29.0,20대,3등석,Q,Northern Europe,Ireland,394140.0,6.1702,0.0,0.0,no
+485,485,"Hart, Mrs. Esther Ada",335,여성,48.0,40대,2등석,S,UK,England,13529.0,26.05,1.0,1.0,yes
+486,486,"Hartley, Mr. Wallace Henry",335,남성,33.0,30대,2등석,S,UK,England,250654.0,,,,no
+487,487,"Hassab, Mr. Hammad",1,남성,27.0,20대,1등석,C,Others,Egypt,17572.0,76.1407,0.0,0.0,yes
+488,488,"Hawksford, Mr. Walter James",335,남성,45.0,40대,1등석,S,UK,England,16988.0,30.0,0.0,0.0,yes
+489,489,"Hays, Miss. Margaret Bechstein",259,여성,24.0,20대,1등석,C,North America,United States,11767.0,83.0302,0.0,0.0,yes
+490,490,"Hays, Mr. Charles Melville",33,남성,55.0,50대,1등석,S,North America,Canada,12749.0,93.1,1.0,1.0,no
+491,491,"Hays, Mrs. Clara Jennings",33,여성,52.0,50대,1등석,S,North America,Canada,12749.0,93.1,1.0,1.0,yes
+492,492,"Head, Mr. Christopher",335,남성,42.0,40대,1등석,S,UK,England,113038.0,42.1,0.0,0.0,no
+493,493,"Healy, Miss. Honor",120,여성,33.0,30대,3등석,Q,Northern Europe,Ireland,370375.0,7.15,0.0,0.0,yes
+494,494,"Hedman, Mr. Oskar Arvid",105,남성,27.0,20대,3등석,S,Northern Europe,Sweden,347089.0,6.1906,0.0,0.0,yes
+495,495,"Hegarty, Miss. Hanora",120,여성,20.0,20대,3등석,Q,Northern Europe,Ireland,365226.0,6.15,0.0,0.0,no
+496,496,"Heikkinen, Miss. Laina",54,여성,16.0,10대,3등석,S,Northern Europe,Finland,3101282.0,7.1806,0.0,0.0,yes
+497,497,"Heininen, Miss. Wendla Maria",54,여성,23.0,20대,3등석,S,Northern Europe,Finland,3101290.0,7.1806,0.0,0.0,no
+498,498,"Hellström, Miss. Hilda Maria",105,여성,22.0,20대,3등석,S,Northern Europe,Sweden,7548.0,8.1903,0.0,0.0,yes
+499,499,"Hendekovic, Mr. Ignjac",7,남성,30.0,30대,3등석,S,Eastern Europe,Hungary,349243.0,7.1711,0.0,0.0,no
+500,500,"Henriksson, Miss. Jenny Lovisa",105,여성,28.0,20대,3등석,S,Northern Europe,Sweden,347086.0,7.1506,0.0,0.0,no
+501,501,"Henry, Miss. Bridget Delia",120,여성,21.0,20대,3등석,Q,Northern Europe,Ireland,382649.0,7.15,0.0,0.0,no
+502,502,"Herman, Miss. Alice",335,여성,24.0,20대,2등석,S,UK,England,220845.0,65.0,1.0,2.0,yes
+503,503,"Herman, Miss. Kate",335,여성,24.0,20대,2등석,S,UK,England,220845.0,65.0,1.0,2.0,yes
+504,504,"Herman, Mr. Samuel",335,남성,50.0,50대,2등석,S,UK,England,220845.0,65.0,1.0,2.0,no
+505,505,"Herman, Mrs. Jane",7,여성,50.0,50대,2등석,S,Others,India,220845.0,65.0,1.0,2.0,yes
+506,506,"Hewlett, Mrs. Mary Dunbar",7,여성,56.0,50대,2등석,S,Others,India,248706.0,16.0,0.0,0.0,yes
+507,507,"Hickman, Mr. Leonard Mark",335,남성,24.0,20대,2등석,S,UK,England,14879.0,73.1,2.0,0.0,no
+508,508,"Hickman, Mr. Lewis",335,남성,30.0,30대,2등석,S,UK,England,14879.0,73.1,2.0,0.0,no
+509,509,"Hickman, Mr. Stanley George",335,남성,21.0,20대,2등석,S,UK,England,14879.0,73.1,2.0,0.0,no
+510,510,"Hilliard, Mr. Herbert Henry",335,남성,44.0,40대,1등석,S,UK,England,17463.0,51.1703,0.0,0.0,no
+511,511,"Hiltunen, Miss. Marta",54,여성,18.0,10대,2등석,S,Northern Europe,Finland,250650.0,13.0,1.0,1.0,no
+512,512,"Hipkins, Mr. William Edward",335,남성,55.0,50대,1등석,S,UK,England,680.0,50.0,0.0,0.0,no
+513,513,"Hippach, Miss. Jean Gertrude",259,여성,17.0,10대,1등석,C,North America,United States,111361.0,57.1907,0.0,1.0,yes
+514,514,"Hippach, Mrs. Ida Sophia",259,여성,44.0,40대,1등석,C,North America,United States,111361.0,57.1907,0.0,1.0,yes
+515,515,"Hirvonen, Miss. Hildur Elisabeth",54,여성,2.0,10대 미만,3등석,S,Northern Europe,Finland,3101298.0,12.0509,0.0,1.0,yes
+516,516,"Hirvonen, Mrs. Helga Elisabeth Lindqvist",54,여성,22.0,20대,3등석,S,Northern Europe,Finland,3101298.0,12.0509,1.0,1.0,yes
+517,517,"Hocking, Miss. Ellen",335,여성,20.0,20대,2등석,S,UK,England,29105.0,23.0,2.0,1.0,yes
+518,518,"Hocking, Mr. Richard George",335,남성,24.0,20대,2등석,S,UK,England,29104.0,11.1,2.0,1.0,no
+519,519,"Hocking, Mr. Samuel James Metcalfe",335,남성,36.0,30대,2등석,S,UK,England,242963.0,13.0,0.0,0.0,no
+520,520,"Hocking, Mrs. Eliza",335,여성,54.0,50대,2등석,S,UK,England,29105.0,23.0,1.0,3.0,yes
+521,521,"Hodges, Mr. Henry Price",335,남성,50.0,50대,2등석,S,UK,England,250643.0,13.0,0.0,0.0,no
+522,522,"Hogeboom, Mrs. Anna Louisa",259,여성,51.0,50대,1등석,C,North America,United States,13502.0,77.1902,1.0,0.0,yes
+523,523,"Hold, Mr. Stephen",335,남성,44.0,40대,2등석,S,UK,England,26707.0,26.0,1.0,0.0,no
+524,524,"Hold, Mrs. Annie Margaret",335,여성,29.0,20대,2등석,S,UK,England,26707.0,26.0,1.0,0.0,yes
+525,525,"Holm, Mr. John Fredrik Alexander",105,남성,43.0,40대,3등석,S,Northern Europe,Sweden,7075.0,6.09,0.0,0.0,no
+526,526,"Holthen, Mr. Johan Martin",26,남성,18.0,10대,3등석,S,Northern Europe,Norway,4001.0,22.1006,0.0,0.0,no
+527,527,"Holverson, Mr. Alexander Oskar",259,남성,42.0,40대,1등석,S,North America,United States,113789.0,52.0,1.0,0.0,no
+528,528,"Holverson, Mrs. Mary Aline",259,여성,35.0,30대,1등석,S,North America,United States,113789.0,52.0,1.0,0.0,yes
+529,529,"Homer, Mr. Harry",259,남성,40.0,40대,1등석,S,North America,United States,111426.0,26.11,0.0,0.0,yes
+530,530,"Honkanen, Miss. Eliina",54,여성,27.0,20대,3등석,S,Northern Europe,Finland,3101283.0,7.1806,0.0,0.0,yes
+531,531,"Hood, Mr. Ambrose Jr",335,남성,21.0,20대,2등석,S,UK,England,14879.0,73.1,0.0,0.0,no
+532,532,"Hosono, Mr. Masabumi",1,남성,41.0,40대,2등석,S,Others,Japan,237798.0,13.0,0.0,0.0,yes
+533,533,"Howard, Miss. May Elizabeth",335,여성,26.0,20대,3등석,S,UK,England,39186.0,8.01,0.0,0.0,yes
+534,534,"Howard, Mr. Benjamin",335,남성,63.0,60대,2등석,S,UK,England,24065.0,26.0,1.0,0.0,no
+535,535,"Howard, Mrs. Ellen Truelove",335,여성,61.0,60대,2등석,S,UK,England,24065.0,26.0,1.0,0.0,no
+536,536,"Hoyt, Mr. Frederick Maxfield",259,남성,38.0,30대,1등석,S,North America,United States,19943.0,100.0,1.0,0.0,yes
+537,537,"Hoyt, Mr. William Fisher",259,남성,43.0,40대,1등석,C,North America,United States,17600.0,30.1311,0.0,0.0,no
+538,538,"Hoyt, Mrs. Jane Anne",259,여성,31.0,30대,1등석,S,North America,United States,19943.0,100.0,1.0,0.0,yes
+539,539,"Humblen, Mr. Adolf Mathias Nicolai Olsen",26,남성,42.0,40대,3등석,S,Northern Europe,Norway,348121.0,7.13,0.0,0.0,no
+540,540,"Hunt, Mr. George Henry",335,남성,34.0,30대,2등석,S,UK,England,1585.0,12.0506,0.0,0.0,no
+541,541,"Hyman, Mr. Abraham Joseph",335,남성,34.0,30대,3등석,S,UK,England,3470.0,7.1709,0.0,0.0,yes
+542,542,"Hämäläinen, Master. Viljo Unto Johannes",259,남성,0.5833333333,10대 미만,2등석,S,North America,United States,250649.0,14.1,1.0,1.0,yes
+543,543,"Hämäläinen, Mrs. Anna",259,여성,23.0,20대,2등석,S,North America,United States,250649.0,14.1,0.0,2.0,yes
+544,544,"Ibrahim Shawah, Mr. Yousseff",70,남성,33.0,30대,3등석,C,Middle East,Lebanon,2627.0,14.0902,0.0,0.0,no
+545,545,"Ibrāhīm, Mrs. Sāfiyah",1,여성,18.0,10대,3등석,C,Middle East,Syria,2657.0,7.0407,0.0,0.0,yes
+546,546,"Ilett, Miss. Bertha",10,여성,17.0,10대,2등석,S,UK,Channel Islands,14885.0,10.1,0.0,0.0,yes
+547,547,"Ilmakangas, Miss. Ida Livija",259,여성,17.0,10대,3등석,S,North America,United States,3101270.0,7.1806,1.0,0.0,no
+548,548,"Ilmakangas, Miss. Pieta Sofia",54,여성,25.0,20대,3등석,S,Northern Europe,Finland,3101271.0,7.1806,1.0,0.0,no
+549,549,"Isham, Miss. Ann Elizabeth",259,여성,50.0,50대,1등석,C,North America,United States,17595.0,28.1403,0.0,0.0,no
+550,550,"Ismay, Mr. Joseph Bruce",335,남성,49.0,40대,1등석,S,UK,England,112058.0,,0.0,0.0,yes
+551,551,"Ivanoff, Mr. Kanio",17,남성,20.0,20대,3등석,S,Eastern Europe,Bulgaria,349201.0,7.1711,0.0,0.0,no
+552,552,"Jacobsohn, Mr. Sidney Samuel",6,남성,42.0,40대,2등석,S,Others,South Africa,243847.0,27.0,1.0,0.0,no
+553,553,"Jacobsohn, Mrs. Amy Frances Christy",335,여성,24.0,20대,2등석,S,UK,England,243847.0,27.0,2.0,1.0,yes
+554,554,"Jalševac, Mr. Ivan",23,남성,30.0,30대,3등석,C,Southern Europe,Croatia,349240.0,7.1711,0.0,0.0,yes
+555,555,"Jansson, Mr. Carl Olof",105,남성,21.0,20대,3등석,S,Northern Europe,Sweden,350034.0,7.1511,0.0,0.0,yes
+556,556,"Jarvis, Mr. Denzil John",8,남성,46.0,40대,2등석,S,UK,Wales,237565.0,15.0,0.0,0.0,no
+557,557,"Jefferys, Mr. Clifford Thomas",335,남성,24.0,20대,2등석,S,UK,England,31029.0,31.1,2.0,0.0,no
+558,558,"Jefferys, Mr. Ernest Wilfred",335,남성,21.0,20대,2등석,S,UK,England,31029.0,31.1,2.0,0.0,no
+559,559,"Jenkin, Mr. Stephen Curnow",335,남성,32.0,30대,2등석,S,UK,England,33111.0,10.1,0.0,0.0,no
+560,560,"Jensen, Mr. Hans Peder",7,남성,20.0,20대,3등석,S,Northern Europe,Denmark,350050.0,7.1701,0.0,0.0,no
+561,561,"Jensen, Mr. Niels Rasmus",7,남성,48.0,40대,3등석,S,Northern Europe,Denmark,350048.0,7.0101,0.0,0.0,no
+562,562,"Jensen, Mr. Svend Lauritz",7,남성,17.0,10대,3등석,S,Northern Europe,Denmark,350047.0,7.1701,1.0,0.0,no
+563,563,"Jermyn, Miss. Annie Jane",120,여성,26.0,20대,3등석,Q,Northern Europe,Ireland,14313.0,7.15,0.0,0.0,yes
+564,564,"Jerwan, Mrs. Marie Marthe",259,여성,23.0,20대,2등석,C,North America,United States,541.0,13.151,0.0,0.0,yes
+565,565,"Johannesen, Mr. Bernt Johannes",26,남성,29.0,20대,3등석,S,Northern Europe,Norway,65306.0,8.0203,0.0,0.0,yes
+566,566,"Johanson, Mr. Jakob Alfred",54,남성,34.0,30대,3등석,S,Northern Europe,Finland,3101264.0,6.0911,0.0,0.0,no
+567,567,"Johansson, Mr. Erik",105,남성,22.0,20대,3등석,S,Northern Europe,Sweden,350052.0,7.1511,0.0,0.0,no
+568,568,"Johansson, Mr. Gustaf Joel",105,남성,33.0,30대,3등석,S,Northern Europe,Sweden,7540.0,8.1301,0.0,0.0,no
+569,569,"Johansson, Mr. Karl Johan",259,남성,31.0,30대,3등석,S,North America,United States,347063.0,7.1506,0.0,0.0,no
+570,570,"Johansson, Mr. Nils",259,남성,29.0,20대,3등석,S,North America,United States,347467.0,7.1701,0.0,0.0,no
+571,571,"Johansson Palmquist, Mr. Oskar Leander",105,남성,26.0,20대,3등석,S,Northern Europe,Sweden,347070.0,7.1506,0.0,0.0,yes
+572,572,"Johnson, Mr. August",259,남성,49.0,40대,3등석,S,North America,United States,370160.0,,,,no
+573,573,"Johnson, Mr. Malkolm Joackim",259,남성,33.0,30대,3등석,S,North America,United States,347062.0,7.1506,0.0,0.0,no
+574,574,"Johnson, Mr. William Cahoone Jr.",259,남성,19.0,10대,3등석,S,North America,United States,370160.0,,0.0,0.0,no
+575,575,"Johnston, Master. William Andrew",335,남성,8.0,10대 미만,3등석,S,UK,England,6607.0,23.09,1.0,2.0,no
+576,576,"Johnston, Miss. Catherine Nellie",335,여성,7.0,10대 미만,3등석,S,UK,England,6607.0,23.09,1.0,2.0,no
+577,577,"Johnston, Mr. Andrew Emslie",17,남성,35.0,30대,3등석,S,UK,Scotland,6607.0,23.09,1.0,2.0,no
+578,578,"Johnston, Mrs. Eliza",17,여성,36.0,30대,3등석,S,UK,Scotland,6607.0,23.09,1.0,2.0,no
+579,579,"Jones, Mr. Charles Cresson",259,남성,46.0,40대,1등석,S,North America,United States,694.0,26.0,0.0,0.0,no
+580,580,"Jonkoff, Mr. Lalio",17,남성,23.0,20대,3등석,S,Eastern Europe,Bulgaria,349204.0,7.1711,0.0,0.0,no
+581,581,"Jonsson, Mr. Carl",105,남성,25.0,20대,3등석,S,Northern Europe,Sweden,350417.0,7.1701,0.0,0.0,yes
+582,582,"Joseph (Shahin), Mr. Elias",70,남성,39.0,30대,3등석,C,Middle East,Lebanon,2675.0,7.0407,0.0,2.0,no
+583,583,"Julian, Mr. Henry Forbes",335,남성,50.0,50대,1등석,S,UK,England,113044.0,26.0,0.0,0.0,no
+584,584,"Jussila, Miss. Katriina",54,여성,20.0,20대,3등석,S,Northern Europe,Finland,4136.0,9.161,1.0,0.0,no
+585,585,"Jussila, Miss. Mari Aina",54,여성,21.0,20대,3등석,S,Northern Europe,Finland,4137.0,9.161,1.0,0.0,no
+586,586,"Jussila, Mr. Eiriik",54,남성,32.0,30대,3등석,S,Northern Europe,Finland,3101286.0,7.1806,0.0,0.0,yes
+587,587,"Jönsson, Mr. Nils Hilding",105,남성,27.0,20대,3등석,S,Northern Europe,Sweden,350408.0,7.1701,0.0,0.0,no
+588,588,"Kallio, Mr. Nikolai Erland",54,남성,17.0,10대,3등석,S,Northern Europe,Finland,3101274.0,7.0206,0.0,0.0,no
+589,589,"Kalvik, Mr. Johannes Halvorsen",26,남성,21.0,20대,3등석,S,Northern Europe,Norway,8475.0,8.0808,0.0,0.0,no
+590,590,"Kantor, Mr. Sinai",2,남성,34.0,30대,2등석,S,Eastern Europe,Russia,244367.0,26.0,1.0,0.0,no
+591,591,"Kantor, Mrs. Miriam",2,여성,24.0,20대,2등석,S,Eastern Europe,Russia,244367.0,26.0,1.0,0.0,yes
+592,592,"Karajic, Mr. Milan",7,남성,30.0,30대,3등석,S,Eastern Europe,Hungary,349246.0,7.1711,0.0,0.0,no
+593,593,"Karlsson, Mr. Einar Gervasius",105,남성,21.0,20대,3등석,S,Northern Europe,Sweden,350053.0,7.1511,0.0,0.0,yes
+594,594,"Karlsson, Mr. Julius Konrad Eugen",105,남성,33.0,30대,3등석,S,Northern Europe,Sweden,347465.0,7.1701,0.0,0.0,no
+595,595,"Karlsson, Mr. Nils August",105,남성,22.0,20대,3등석,S,Northern Europe,Sweden,350060.0,7.1005,0.0,0.0,no
+596,596,"Karnes, Mrs. Claire",259,여성,22.0,20대,2등석,S,North America,United States,13534.0,21.0,0.0,0.0,no
+597,597,"Karun, Miss. Manca",4,여성,5.0,10대 미만,3등석,C,Southern Europe,Slovenia,349256.0,13.0804,0.0,1.0,yes
+598,598,"Karun, Mr. Franz",259,남성,39.0,30대,3등석,C,North America,United States,349256.0,13.0804,0.0,1.0,yes
+599,599,"Katavelos, Mr. Vasilios G.",2,남성,19.0,10대,3등석,C,Southern Europe,Greece,2682.0,7.0407,0.0,0.0,no
+600,600,"Keane, Miss. Nora Agnes",120,여성,46.0,40대,2등석,Q,Northern Europe,Ireland,226593.0,12.07,0.0,0.0,yes
+601,601,"Keane, Mr. Andrew",120,남성,23.0,20대,3등석,Q,Northern Europe,Ireland,12460.0,7.15,0.0,0.0,no
+602,602,"Keane, Mr. Daniel",120,남성,35.0,30대,2등석,Q,Northern Europe,Ireland,233734.0,12.07,0.0,0.0,no
+603,603,"Keefe, Mr. Arthur",259,남성,39.0,30대,3등석,S,North America,United States,323592.0,7.05,0.0,0.0,no
+604,604,"Keeping, Mr. Edwin Herbert",335,남성,33.0,30대,1등석,S,UK,England,113503.0,211.1,0.0,0.0,no
+605,605,"Kelly, Miss. Anna Katherine",120,여성,20.0,20대,3등석,Q,Northern Europe,Ireland,9234.0,7.15,0.0,0.0,yes
+606,606,"Kelly, Miss. Mary",120,여성,22.0,20대,3등석,Q,Northern Europe,Ireland,14312.0,7.15,0.0,0.0,yes
+607,607,"Kelly, Mr. James",120,남성,44.0,40대,3등석,Q,Northern Europe,Ireland,330911.0,7.1607,0.0,0.0,no
+608,608,"Kelly, Mr. James",17,남성,19.0,10대,3등석,S,UK,Scotland,363592.0,8.01,0.0,0.0,no
+609,609,"Kelly, Mrs. Fanny Maria",335,여성,49.0,40대,2등석,S,UK,England,223596.0,13.1,0.0,0.0,yes
+610,610,"Kennedy, Mr. John",120,남성,24.0,20대,3등석,Q,Northern Europe,Ireland,368783.0,7.15,0.0,0.0,yes
+611,611,"Kent, Mr. Edward Austin",259,남성,58.0,50대,1등석,C,North America,United States,11771.0,29.14,0.0,0.0,no
+612,612,"Kenyon, Mr. Frederick Roland",259,남성,41.0,40대,1등석,S,North America,United States,17464.0,51.1703,1.0,0.0,no
+613,613,"Kenyon, Mrs. Marion Estelle",259,여성,40.0,40대,1등석,S,North America,United States,17464.0,51.1703,1.0,0.0,yes
+614,614,"Khalil, Mr. Betros",70,남성,25.0,20대,3등석,C,Middle East,Lebanon,2660.0,14.0901,1.0,0.0,no
+615,615,"Khalil, Mrs. Zahie",70,여성,20.0,20대,3등석,C,Middle East,Lebanon,2660.0,14.0901,1.0,0.0,no
+616,616,"Kiernan, Mr. John Joseph",120,남성,25.0,20대,3등석,Q,Northern Europe,Ireland,367227.0,7.15,1.0,0.0,no
+617,617,"Kiernan, Mr. Philip",120,남성,22.0,20대,3등석,Q,Northern Europe,Ireland,367229.0,7.15,1.0,0.0,no
+618,618,"Kilgannon, Mr. Thomas",120,남성,22.0,20대,3등석,Q,Northern Europe,Ireland,36865.0,7.1409,0.0,0.0,no
+619,619,"Kimball, Mr. Edwin Nelson Jr.",259,남성,42.0,40대,1등석,S,North America,United States,11753.0,52.1101,1.0,0.0,yes
+620,620,"Kimball, Mrs. Susan Gertrude",259,여성,45.0,40대,1등석,S,North America,United States,11753.0,52.1101,1.0,0.0,yes
+621,621,"Kink, Miss. Maria",17,여성,23.0,20대,3등석,S,Western Europe,Switzerland,315152.0,8.1303,2.0,0.0,no
+622,622,"Kink, Mr. Anton",17,남성,29.0,20대,3등석,S,Western Europe,Switzerland,315153.0,22.0,3.0,1.0,yes
+623,623,"Kink, Mr. Vincenz",17,남성,26.0,20대,3등석,S,Western Europe,Switzerland,315151.0,8.1303,2.0,0.0,no
+624,624,"Kink-Heilmann, Miss. Luise Gretchen",17,여성,4.0,10대 미만,3등석,S,Western Europe,Switzerland,315153.0,22.0,0.0,2.0,yes
+625,625,"Kink-Heilmann, Mrs. Luise",17,여성,26.0,20대,3등석,S,Western Europe,Switzerland,315153.0,22.0,1.0,1.0,yes
+626,626,"Kirkland, Fr. Charles Leonard",259,남성,52.0,50대,2등석,Q,North America,United States,219533.0,12.07,0.0,0.0,no
+627,627,"Klaber, Mr. Herman",259,남성,41.0,40대,1등석,S,North America,United States,113028.0,26.11,0.0,0.0,no
+628,628,"Klasén, Miss. Gertrud Emilia",105,여성,1.0,10대 미만,3등석,S,Northern Europe,Sweden,350405.0,12.0308,1.0,1.0,no
+629,629,"Klasén, Mr. Klas Albin",105,남성,18.0,10대,3등석,S,Northern Europe,Sweden,350404.0,7.1701,1.0,1.0,no
+630,630,"Klasén, Mrs. Hulda Kristina Eugenia",105,여성,36.0,30대,3등석,S,Northern Europe,Sweden,350405.0,12.0308,0.0,2.0,no
+631,631,"Knight, Mr. Robert",6,남성,41.0,40대,2등석,B,UK,Northern Ireland,239855.0,,0.0,0.0,no
+632,632,"Krekorian, Mr. Neshan",6,남성,25.0,20대,3등석,C,Southern Europe,Turkey,2654.0,7.0407,0.0,0.0,yes
+633,633,"Krins, Mr. Georges Alexandre",335,남성,23.0,20대,2등석,S,UK,England,250654.0,,,,no
+634,634,"Kutscher (Lithman), Mr. Simon",17,남성,26.0,20대,3등석,S,UK,Scotland,251.0,7.11,0.0,0.0,no
+635,635,"Kvillner, Mr. Johan Henrik Johannesson",105,남성,31.0,30대,2등석,S,Northern Europe,Sweden,18723.0,10.1,0.0,0.0,no
+636,636,"Lahhūd Ishaq Mu'awwad, Mr. Sarkīs",70,남성,35.0,30대,3등석,C,Middle East,Lebanon,2624.0,7.0406,0.0,0.0,no
+637,637,"Lahtinen, Fr. William",259,남성,35.0,30대,2등석,S,North America,United States,250651.0,26.0,1.0,1.0,no
+638,638,"Lahtinen, Mrs. Anna Amelia",259,여성,34.0,30대,2등석,S,North America,United States,250651.0,26.0,1.0,1.0,no
+639,639,"Laitinen, Miss. Kristina Sofia",54,여성,37.0,30대,3등석,S,Northern Europe,Finland,4135.0,9.1109,0.0,0.0,no
+640,640,"Lam, Mr. Ali",1,남성,38.0,30대,3등석,S,Others,China,1601.0,56.0911,0.0,0.0,yes
+641,641,"Lamb, Mr. John J.",120,남성,31.0,30대,2등석,Q,Northern Europe,Ireland,240261.0,10.1402,0.0,0.0,no
+642,642,"Landergren, Miss. Aurora Adelia",105,여성,22.0,20대,3등석,S,Northern Europe,Sweden,7077.0,7.05,0.0,0.0,yes
+643,643,"Lane, Mr. Patrick",120,남성,17.0,10대,3등석,Q,Northern Europe,Ireland,7935.0,7.15,0.0,0.0,no
+644,644,"Laroche, Miss. Louise",24,여성,1.0,10대 미만,2등석,C,Western Europe,France,2123.0,41.1107,1.0,2.0,yes
+645,645,"Laroche, Miss. Simonne Marie Anne Andrée",24,여성,3.0,10대 미만,2등석,C,Western Europe,France,2123.0,41.1107,1.0,2.0,yes
+646,646,"Laroche, Mr. Joseph Philippe Lemercier",24,남성,25.0,20대,2등석,C,Western Europe,France,2123.0,41.1107,1.0,2.0,no
+647,647,"Laroche, Mrs. Juliette Marie Louise",24,여성,22.0,20대,2등석,C,Western Europe,France,2123.0,41.1107,1.0,2.0,yes
+648,648,"Larsson, Mr. August Viktor",259,남성,29.0,20대,3등석,S,North America,United States,7545.0,9.0908,0.0,0.0,no
+649,649,"Larsson, Mr. Bengt Edvin",105,남성,29.0,20대,3등석,S,Northern Europe,Sweden,347067.0,7.1506,0.0,0.0,no
+650,650,"Larsson, Mr. Edvard",105,남성,22.0,20대,3등석,S,Northern Europe,Sweden,347065.0,7.1506,0.0,0.0,no
+651,651,"Leader, Dr. Alice May",259,여성,49.0,40대,1등석,S,North America,United States,17465.0,25.1807,0.0,0.0,yes
+652,652,"Lehmann, Miss. Bertha",17,여성,17.0,10대,2등석,C,Western Europe,Switzerland,1748.0,12.0,0.0,0.0,yes
+653,653,"Leinonen, Mr. Antti Gustaf",54,남성,32.0,30대,3등석,S,Northern Europe,Finland,3101292.0,7.1806,0.0,0.0,no
+654,654,"Leitch, Miss. Jessie Wills",17,여성,31.0,30대,2등석,S,UK,Scotland,248727.0,33.0,0.0,0.0,yes
+655,655,"Lemore, Mrs. Amelia",335,여성,39.0,30대,2등석,S,UK,England,34260.0,10.1,0.0,0.0,yes
+656,656,"Lennon, Miss. Mary",120,여성,18.0,10대,3등석,Q,Northern Europe,Ireland,370371.0,15.1,1.0,0.0,no
+657,657,"Lennon, Mr. Denis",120,남성,20.0,20대,3등석,Q,Northern Europe,Ireland,370371.0,15.1,1.0,0.0,no
+658,658,"Leroy, Miss. Berthe",24,여성,27.0,20대,1등석,C,Western Europe,France,17761.0,106.0806,0.0,0.0,yes
+659,659,"Lester, Mr. James",335,남성,41.0,40대,3등석,S,UK,England,48871.0,24.03,0.0,0.0,no
+660,660,"Lewy, Mr. Ervin G.",259,남성,30.0,30대,1등석,C,North America,United States,17612.0,27.1405,0.0,0.0,no
+661,661,"Leyson, Mr. Robert William Norman",335,남성,25.0,20대,2등석,S,UK,England,29566.0,10.1,0.0,0.0,no
+662,662,"Lievens, Mr. René Aimé",22,남성,24.0,20대,3등석,S,Western Europe,Belgium,345781.0,9.1,0.0,0.0,no
+663,663,"Lindahl, Miss. Agda Thorilda Viktoria",105,여성,25.0,20대,3등석,S,Northern Europe,Sweden,347071.0,7.1506,0.0,0.0,no
+664,664,"Lindblom, Miss. Augusta Charlotta",335,여성,45.0,40대,3등석,S,UK,England,347073.0,7.15,0.0,0.0,no
+665,665,"Lindeberg-Lind, Mr. Erik Gustaf",105,남성,42.0,40대,1등석,S,Northern Europe,Sweden,17475.0,26.11,0.0,0.0,no
+666,666,"Lindell, Mr. Edvard Bengtsson",105,남성,36.0,30대,3등석,S,Northern Europe,Sweden,349910.0,15.11,1.0,0.0,no
+667,667,"Lindell, Mrs. Elin Gerda",105,여성,30.0,30대,3등석,S,Northern Europe,Sweden,349910.0,15.11,1.0,0.0,no
+668,668,"Lindqvist, Mr. Eino William",54,남성,20.0,20대,3등석,S,Northern Europe,Finland,3101285.0,7.1806,1.0,0.0,yes
+669,669,"Lindström, Mrs. Sigrid",105,여성,55.0,50대,1등석,C,Northern Europe,Sweden,112377.0,27.1405,0.0,0.0,yes
+670,670,"Linehan, Mr. Michael",120,남성,21.0,20대,3등석,Q,Northern Europe,Ireland,330971.0,7.1707,0.0,0.0,no
+671,671,"Lines, Miss. Mary Conover",24,여성,16.0,10대,1등석,C,Western Europe,France,17592.0,39.08,0.0,1.0,yes
+672,672,"Lines, Mrs. Elizabeth Lindsey",259,여성,50.0,50대,1등석,C,North America,United States,17592.0,39.08,0.0,1.0,yes
+673,673,"Lingane, Mr. John",120,남성,61.0,60대,2등석,Q,Northern Europe,Ireland,235509.0,12.07,0.0,0.0,no
+674,674,"Linhart, Mr. Wenzel",2,남성,27.0,20대,3등석,S,Western Europe,Austria,345775.0,9.1,0.0,0.0,no
+675,675,"Livshin, Mr. David",1,남성,25.0,20대,3등석,S,Northern Europe,Latvia,374887.0,7.05,0.0,0.0,no
+676,676,"Lobb, Mr. William Arthur",335,남성,31.0,30대,3등석,S,UK,England,3336.0,16.02,1.0,0.0,no
+677,677,"Lobb, Mrs. Cordelia",335,여성,34.0,30대,3등석,S,UK,England,3336.0,16.02,1.0,0.0,no
+678,678,"Lockyer, Mr. Edward Thomas",335,남성,19.0,10대,3등석,S,UK,England,1222.0,7.1707,0.0,0.0,no
+679,679,"Long, Mr. Milton Clyde",259,남성,29.0,20대,1등석,S,North America,United States,113501.0,30.0,0.0,0.0,no
+680,680,"Longley, Miss. Gretchen Fiske",259,여성,21.0,20대,1등석,C,North America,United States,13502.0,77.1902,0.0,0.0,yes
+681,681,"Loring, Mr. Joseph Holland",259,남성,30.0,30대,1등석,S,North America,United States,113801.0,45.1,0.0,0.0,no
+682,682,"Louch, Mr. Charles",335,남성,50.0,50대,2등석,S,UK,England,3085.0,26.0,1.0,0.0,no
+683,683,"Louch, Mrs. Alice Adelaide",335,여성,43.0,40대,2등석,S,UK,England,3085.0,26.0,1.0,0.0,yes
+684,684,"Lovell, Mr. John Hall",335,남성,20.0,20대,3등석,S,UK,England,21173.0,7.05,0.0,0.0,no
+685,685,"Lulic, Mr. Nikola",23,남성,29.0,20대,3등석,S,Southern Europe,Croatia,315098.0,8.1303,0.0,0.0,yes
+686,686,"Lundahl, Mr. Johan Svensson",105,남성,50.0,50대,3등석,S,Northern Europe,Sweden,347743.0,7.0101,0.0,0.0,no
+687,687,"Lundin, Miss. Olga Elida",259,여성,23.0,20대,3등석,S,North America,United States,347469.0,7.1701,0.0,0.0,yes
+688,688,"Lundström, Mr. Thure Edvin",105,남성,32.0,30대,3등석,S,Northern Europe,Sweden,350403.0,7.1107,0.0,0.0,yes
+689,689,"Lurette, Miss. Eugénie Elise",24,여성,59.0,50대,1등석,C,Western Europe,France,17569.0,146.1005,0.0,0.0,yes
+690,690,"Lymperopoulus, Mr. Panagiotis K.",2,남성,30.0,30대,3등석,C,Southern Europe,Greece,2683.0,6.0809,0.0,0.0,no
+691,691,"Lévy, Mr. René Jacques",33,남성,37.0,30대,2등석,S,North America,Canada,2163.0,12.1706,0.0,0.0,no
+692,692,"Mack, Mrs. Mary",335,여성,57.0,50대,2등석,S,UK,England,3.0,10.1,0.0,0.0,no
+693,693,"MacKay, Mr. George William",17,남성,20.0,20대,3등석,S,UK,Scotland,42795.0,7.11,0.0,0.0,no
+694,694,"Madigan, Miss. Margaret",120,여성,21.0,20대,3등석,Q,Northern Europe,Ireland,370370.0,7.15,0.0,0.0,yes
+695,695,"Madill, Miss. Georgette Alexandra",259,여성,16.0,10대,1등석,S,North America,United States,24160.0,211.0609,0.0,1.0,yes
+696,696,"Madsen, Mr. Fridtjof Arne",26,남성,24.0,20대,3등석,S,Northern Europe,Norway,17369.0,7.021,0.0,0.0,yes
+697,697,"Maguire, Mr. John Edward",259,남성,30.0,30대,1등석,S,North America,United States,110469.0,26.0,0.0,0.0,no
+698,698,"Mahon, Miss. Bridget Delia",120,여성,20.0,20대,3등석,Q,Northern Europe,Ireland,330924.0,7.1707,0.0,0.0,no
+699,699,"Maioni, Miss. Roberta Elizabeth Mary",335,여성,20.0,20대,1등석,S,UK,England,110152.0,86.1,0.0,0.0,yes
+700,700,"Maisner, Mr. Simon",335,남성,34.0,30대,3등석,S,UK,England,2816.0,8.01,0.0,0.0,no
+701,701,"Malachard, Mr. Jean-Noël",24,남성,25.0,20대,2등석,C,Western Europe,France,237735.0,15.0,0.0,0.0,no
+702,702,"Mallet, Master. André Clement",24,남성,1.0,10대 미만,2등석,C,Western Europe,France,2079.0,37.0,0.0,2.0,yes
+703,703,"Mallet, Mr. Albert Denis Pierre",24,남성,45.0,40대,2등석,C,Western Europe,France,2079.0,37.0,1.0,1.0,no
+704,704,"Mallet, Mrs. Antonine Marie",24,여성,24.0,20대,2등석,C,Western Europe,France,2079.0,37.0,1.0,1.0,yes
+705,705,"Mangan, Miss. Mary",120,여성,32.0,30대,3등석,Q,Northern Europe,Ireland,364850.0,7.15,0.0,0.0,no
+706,706,"Mangiavacchi, Mr. Serafino Emilio",259,남성,30.0,30대,2등석,C,North America,United States,32861.0,15.1107,0.0,0.0,no
+707,707,"Mannion, Miss. Margaret",120,여성,28.0,20대,3등석,Q,Northern Europe,Ireland,36866.0,7.1409,0.0,0.0,yes
+708,708,"Mardirosian, Mr. Sarkis",6,남성,25.0,20대,3등석,C,Southern Europe,Turkey,2655.0,7.0407,0.0,0.0,no
+709,709,"Marinko, Mr. Dmitri",1,남성,23.0,20대,3등석,S,Southern Europe,Yugoslavia,349238.0,7.1711,0.0,0.0,no
+710,710,"Markoff, Mr. Marin",17,남성,35.0,30대,3등석,S,Eastern Europe,Bulgaria,349213.0,7.1711,0.0,0.0,no
+711,711,"Markun, Mr. Johann",4,남성,33.0,30대,3등석,C,Southern Europe,Slovenia,349257.0,7.1711,0.0,0.0,no
+712,712,"Marvin, Mr. Daniel Warner",259,남성,18.0,10대,1등석,S,North America,United States,113773.0,53.02,1.0,0.0,no
+713,713,"Marvin, Mrs. Mary Graham Carmichael",17,여성,18.0,10대,1등석,S,UK,Scotland,113773.0,53.02,1.0,0.0,yes
+714,714,"Maréchal, Mr. Pierre",24,남성,29.0,20대,1등석,C,Western Europe,France,11774.0,29.14,0.0,0.0,yes
+715,715,"Matinoff, Mr. Nicola",17,남성,30.0,30대,3등석,C,Eastern Europe,Bulgaria,349255.0,7.1711,0.0,0.0,no
+716,716,"Matthews, Mr. William John",335,남성,23.0,20대,2등석,S,UK,England,28228.0,13.0,0.0,0.0,no
+717,717,"Maybery, Mr. Frank Hubert",335,남성,36.0,30대,2등석,S,UK,England,239059.0,16.0,0.0,0.0,no
+718,718,"Mayné, Mlle. Berthe Antonine",22,여성,24.0,20대,1등석,C,Western Europe,Belgium,17482.0,49.1001,0.0,0.0,yes
+719,719,"McCaffry, Mr. Thomas Francis",33,남성,46.0,40대,1등석,S,North America,Canada,13050.0,75.041,0.0,0.0,no
+720,720,"McCarthy, Miss. Catherine",120,여성,25.0,20대,3등석,Q,Northern Europe,Ireland,383123.0,7.15,0.0,0.0,yes
+721,721,"McCarthy, Mr. Timothy J.",259,남성,55.0,50대,1등석,S,North America,United States,17463.0,51.1703,0.0,0.0,no
+722,722,"McCormack, Mr. Thomas Joseph",259,남성,19.0,10대,3등석,Q,North America,United States,367228.0,7.15,0.0,0.0,yes
+723,723,"McCoy, Miss. Agnes",120,여성,29.0,20대,3등석,Q,Northern Europe,Ireland,367226.0,23.05,2.0,0.0,yes
+724,724,"McCoy, Miss. Alice",120,여성,26.0,20대,3등석,Q,Northern Europe,Ireland,367226.0,23.05,2.0,0.0,yes
+725,725,"McCoy, Mr. Bernard",120,남성,24.0,20대,3등석,Q,Northern Europe,Ireland,367226.0,23.05,2.0,0.0,yes
+726,726,"McCrae, Mr. Arthur Gordon",2,남성,32.0,30대,2등석,S,Others,Australia,237216.0,13.1,0.0,0.0,no
+727,727,"McCrie, Mr. James Matthew",33,남성,32.0,30대,2등석,S,North America,Canada,233478.0,13.0,0.0,0.0,no
+728,728,"McDermott, Miss. Bridget Delia",120,여성,31.0,30대,3등석,Q,Northern Europe,Ireland,330932.0,7.1508,0.0,0.0,yes
+729,729,"McEvoy, Mr. Michael",120,남성,20.0,20대,3등석,Q,Northern Europe,Ireland,36568.0,15.1,0.0,0.0,no
+730,730,"McGough, Mr. James Robert",120,남성,35.0,30대,1등석,S,Northern Europe,Ireland,17473.0,26.0509,0.0,0.0,yes
+731,731,"McGovern, Ms. Mary",120,여성,22.0,20대,3등석,Q,Northern Europe,Ireland,330931.0,7.1707,0.0,0.0,yes
+732,732,"McGowan, Miss. Anna Louise",259,여성,17.0,10대,3등석,Q,North America,United States,330923.0,8.0,0.0,0.0,yes
+733,733,"McGowan, Miss. Catherine",120,여성,42.0,40대,3등석,Q,Northern Europe,Ireland,9232.0,7.15,0.0,0.0,no
+734,734,"McKane, Mr. Peter Daniel",10,남성,46.0,40대,2등석,S,UK,Channel Islands,28403.0,26.0,0.0,0.0,no
+735,735,"McMahon, Mr. Martin",120,남성,19.0,10대,3등석,Q,Northern Europe,Ireland,370372.0,7.15,0.0,0.0,no
+736,736,"McNamee, Mr. Neal",335,남성,27.0,20대,3등석,S,UK,England,376566.0,16.02,1.0,0.0,no
+737,737,"McNamee, Mrs. Eileen",335,여성,19.0,10대,3등석,S,UK,England,376566.0,16.02,1.0,0.0,no
+738,738,"McNeill, Miss. Bridget",120,여성,32.0,30대,3등석,Q,Northern Europe,Ireland,370368.0,7.15,0.0,0.0,no
+739,739,"Meanwell, Mrs. Marian",335,여성,62.0,60대,3등석,S,UK,England,392087.0,8.01,0.0,0.0,no
+740,740,"Meehan, Mr. John",120,남성,22.0,20대,3등석,Q,Northern Europe,Ireland,3130.0,7.15,0.0,0.0,no
+741,741,"Meek, Mrs. Annie Louisa",335,여성,32.0,30대,3등석,S,UK,England,343095.0,8.01,0.0,0.0,no
+742,742,"Mellinger, Miss. Violet Madeline",335,여성,13.0,10대,2등석,S,UK,England,250644.0,19.1,0.0,1.0,yes
+743,743,"Mellinger, Mrs. Elizabeth Anne",335,여성,42.0,40대,2등석,S,UK,England,250644.0,19.1,0.0,1.0,yes
+744,744,"Mellors, Mr. William John",335,남성,19.0,10대,2등석,S,UK,England,751.0,10.1,0.0,0.0,yes
+745,745,"Meo (Martino), Mr. Alfonzo",4,남성,48.0,40대,3등석,S,Southern Europe,Italy,11206.0,8.01,0.0,0.0,no
+746,746,"Mernagh, Mr. Robert",120,남성,28.0,20대,3등석,Q,Northern Europe,Ireland,368703.0,7.15,0.0,0.0,no
+747,747,"Meyer, Mr. August",335,남성,31.0,30대,2등석,S,UK,England,248723.0,13.0,0.0,0.0,no
+748,748,"Meyer, Mr. Edgar Joseph",259,남성,28.0,20대,1등석,C,North America,United States,17604.0,82.0305,1.0,0.0,no
+749,749,"Meyer, Mrs. Leila",259,여성,25.0,20대,1등석,C,North America,United States,17604.0,82.0305,1.0,0.0,yes
+750,750,"Midtsjø, Mr. Karl Albert",26,남성,21.0,20대,3등석,S,Northern Europe,Norway,345501.0,7.1506,0.0,0.0,yes
+751,751,"Mihoff, Mr. Stoytcho",17,남성,28.0,20대,3등석,S,Eastern Europe,Bulgaria,349207.0,7.1711,0.0,0.0,no
+752,752,"Miles, Mr. Frank",335,남성,23.0,20대,3등석,S,UK,England,359306.0,8.01,0.0,0.0,no
+753,753,"Millet, Mr. Francis Davis",259,남성,65.0,60대,1등석,C,North America,United States,13509.0,26.11,0.0,0.0,no
+754,754,"Milling, Mr. Jacob Christian",7,남성,48.0,40대,2등석,S,Northern Europe,Denmark,234360.0,13.0,0.0,0.0,no
+755,755,"Minahan, Dr. William Edward",259,남성,44.0,40대,1등석,Q,North America,United States,19928.0,90.0,2.0,0.0,no
+756,756,"Minahan, Miss. Daisy E.",259,여성,33.0,30대,1등석,Q,North America,United States,19928.0,90.0,1.0,0.0,yes
+757,757,"Minahan, Mrs. Lillian E.",259,여성,37.0,30대,1등석,Q,North America,United States,19928.0,90.0,1.0,0.0,yes
+758,758,"Minkoff, Mr. Lazar",17,남성,21.0,20대,3등석,S,Eastern Europe,Bulgaria,349211.0,7.1711,0.0,0.0,no
+759,759,"Mitchell, Mr. Henry Michael",335,남성,72.0,70대,2등석,S,UK,England,24580.0,10.1,0.0,0.0,no
+760,760,"Mock, Mr. Philipp Edmund",259,남성,30.0,30대,1등석,C,North America,United States,13236.0,57.15,1.0,0.0,yes
+761,761,"Mockler, Miss. Ellen Mary",120,여성,23.0,20대,3등석,Q,Northern Europe,Ireland,330980.0,7.1707,0.0,0.0,yes
+762,762,"Moen, Mr. Sigurd Hansen",26,남성,27.0,20대,3등석,S,Northern Europe,Norway,348123.0,7.13,0.0,0.0,no
+763,763,"Molson, Mr. Harry Markland",33,남성,55.0,50대,1등석,S,North America,Canada,113787.0,30.1,0.0,0.0,no
+764,764,"Montvila, Fr. Juozas",335,남성,27.0,20대,2등석,S,UK,England,211536.0,13.0,0.0,0.0,no
+765,765,"Moore, Mr. Clarence Bloomfield",259,남성,47.0,40대,1등석,S,North America,United States,113796.0,42.08,0.0,0.0,no
+766,766,"Moore, Mr. Leonard Charles",335,남성,19.0,10대,3등석,S,UK,England,54510.0,8.01,0.0,0.0,no
+767,767,"Moran, Miss. Bridget",120,여성,28.0,20대,3등석,Q,Northern Europe,Ireland,371110.0,24.03,1.0,0.0,yes
+768,768,"Moran, Mr. Daniel J.",120,남성,28.0,20대,3등석,Q,Northern Europe,Ireland,371110.0,24.03,1.0,0.0,no
+769,769,"Moraweck, Dr. Ernest",259,남성,54.0,50대,2등석,S,North America,United States,29011.0,14.0,0.0,0.0,no
+770,770,"Morley, Mr. Henry Samuel",335,남성,38.0,30대,2등석,S,UK,England,250655.0,26.0,0.0,0.0,no
+771,771,"Morley, Mr. William",335,남성,34.0,30대,3등석,S,UK,England,364506.0,8.01,0.0,0.0,no
+772,772,"Morrow, Mr. Thomas Rowan",120,남성,30.0,30대,3등석,Q,Northern Europe,Ireland,372622.0,7.15,0.0,0.0,no
+773,773,"Moss, Mr. Albert Johan",26,남성,29.0,20대,3등석,S,Northern Europe,Norway,312991.0,7.1506,0.0,0.0,yes
+774,774,"Moussa, Mrs. Mantoura Boulos",70,여성,35.0,30대,3등석,C,Middle East,Lebanon,2626.0,7.0407,0.0,0.0,yes
+775,775,"Moutal, Mr. Rahamin Haim",335,남성,28.0,20대,3등석,S,UK,England,374746.0,8.01,0.0,0.0,no
+776,776,"Mubārik, Master. Halīm",70,남성,4.0,10대 미만,3등석,C,Middle East,Lebanon,2661.0,15.0411,1.0,1.0,yes
+777,777,"Mubārik, Master. Jirjis",70,남성,7.0,10대 미만,3등석,C,Middle East,Lebanon,2661.0,15.0411,1.0,1.0,yes
+778,778,"Mubārik, Mrs. Amīnah",70,여성,25.0,20대,3등석,C,Middle East,Lebanon,2661.0,15.0411,0.0,2.0,yes
+779,779,"Mudd, Mr. Thomas Cupper",335,남성,17.0,10대,2등석,S,UK,England,3.0,10.1,0.0,0.0,no
+780,780,"Mullin, Miss. Catherine",120,여성,21.0,20대,3등석,Q,Northern Europe,Ireland,35852.0,7.1408,0.0,0.0,yes
+781,781,"Mulvihill, Miss. Bridget Elizabeth",120,여성,25.0,20대,3등석,Q,Northern Europe,Ireland,382653.0,7.15,0.0,0.0,yes
+782,782,"Murdlin, Mr. Joseph",335,남성,22.0,20대,3등석,S,UK,England,3235.0,8.01,0.0,0.0,no
+783,783,"Murphy, Miss. Catherine",120,여성,18.0,10대,3등석,Q,Northern Europe,Ireland,367230.0,15.1,1.0,0.0,yes
+784,784,"Murphy, Miss. Margaret Jane",120,여성,25.0,20대,3등석,Q,Northern Europe,Ireland,367230.0,15.1,1.0,0.0,yes
+785,785,"Murphy, Miss. Nora",120,여성,31.0,30대,3등석,Q,Northern Europe,Ireland,36568.0,15.1,0.0,0.0,yes
+786,786,"Muslamānī, Mrs. Fatīmah Muhammad",70,여성,22.0,20대,3등석,C,Middle East,Lebanon,2649.0,7.0406,0.0,0.0,yes
+787,787,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",105,남성,18.0,10대,3등석,S,Northern Europe,Sweden,347078.0,7.15,0.0,0.0,no
+788,788,"Myles, Mr. Thomas Francis",120,남성,63.0,60대,2등석,Q,Northern Europe,Ireland,240276.0,9.1309,0.0,0.0,no
+789,789,"Mäenpää, Mr. Matti Alexanteri",54,남성,22.0,20대,3등석,S,Northern Europe,Finland,3101275.0,7.0206,0.0,0.0,no
+790,790,"Mäkinen, Mr. Kalle Edvard",54,남성,29.0,20대,3등석,S,Northern Europe,Finland,3101268.0,7.1806,0.0,0.0,no
+791,791,"Māmā, Mr. Hannā Mikā'īl",70,남성,18.0,10대,3등석,C,Middle East,Lebanon,2677.0,7.0407,0.0,0.0,yes
+792,792,"Naidenoff, Mr. Penko",17,남성,22.0,20대,3등석,S,Eastern Europe,Bulgaria,349206.0,7.1711,0.0,0.0,no
+793,793,"Najib Kiamie, Miss. Adele",70,여성,15.0,10대,3등석,C,Middle East,Lebanon,2667.0,7.0406,0.0,0.0,yes
+794,794,"Nakhli, Mr. Toufik",70,남성,17.0,10대,3등석,C,Middle East,Lebanon,2641.0,7.0407,0.0,0.0,no
+795,795,"Nakid, Miss. Maria",70,여성,1.0,10대 미만,3등석,C,Middle East,Lebanon,2653.0,15.141,0.0,2.0,yes
+796,796,"Nakid, Mr. Sahid",70,남성,21.0,20대,3등석,C,Middle East,Lebanon,2653.0,15.141,1.0,1.0,yes
+797,797,"Nakid, Mrs. Waika",70,여성,19.0,10대,3등석,C,Middle East,Lebanon,2653.0,15.141,1.0,1.0,yes
+798,798,"Nancarrow, Mr. William Henry",335,남성,36.0,30대,3등석,S,UK,England,3338.0,8.01,0.0,0.0,no
+799,799,"Nasr 'Almā, Mr. Mustafà",70,남성,20.0,20대,3등석,C,Middle East,Lebanon,2652.0,7.0407,0.0,0.0,no
+800,800,"Nasser, Mr. Nicholas",259,남성,28.0,20대,2등석,C,North America,United States,237736.0,30.0105,1.0,0.0,no
+801,801,"Nasser, Mrs. Adele",70,여성,14.0,10대,2등석,C,Middle East,Lebanon,237736.0,30.0105,1.0,0.0,yes
+802,802,"Nassr Rizq, Mr. Saade",70,남성,20.0,20대,3등석,C,Middle East,Lebanon,2676.0,7.0406,0.0,0.0,no
+803,803,"Natsch, Mr. Charles",259,남성,36.0,30대,1등석,C,North America,United States,17596.0,29.14,0.0,1.0,no
+804,804,"Naughton, Miss. Hannah",120,여성,21.0,20대,3등석,Q,Northern Europe,Ireland,365237.0,7.15,0.0,0.0,no
+805,805,"Navratil, Master. Edmond Roger",24,남성,2.0,10대 미만,2등석,S,Western Europe,France,230080.0,26.0,1.0,1.0,yes
+806,806,"Navratil, Master. Michel Marcel",24,남성,3.0,10대 미만,2등석,S,Western Europe,France,230080.0,26.0,1.0,1.0,yes
+807,807,"Navratil, Mr. Michel",1,남성,32.0,30대,2등석,S,Eastern Europe,Slovakia,230080.0,26.0,0.0,2.0,no
+808,808,"Nesson, Mr. Israel",335,남성,26.0,20대,2등석,S,UK,England,244368.0,13.0,0.0,0.0,no
+809,809,"Newell, Miss. Madeleine",259,여성,31.0,30대,1등석,C,North America,United States,35273.0,113.0506,1.0,0.0,yes
+810,810,"Newell, Miss. Marjorie Anne",259,여성,23.0,20대,1등석,C,North America,United States,35273.0,113.0506,1.0,0.0,yes
+811,811,"Newell, Mr. Arthur Webster",259,남성,58.0,50대,1등석,C,North America,United States,35273.0,113.0506,0.0,2.0,no
+812,812,"Newsom, Miss. Helen Monypeny",259,여성,19.0,10대,1등석,S,North America,United States,11752.0,26.0508,0.0,2.0,yes
+813,813,"Nicholls, Mr. Joseph Charles",335,남성,19.0,10대,2등석,S,UK,England,33112.0,36.15,1.0,1.0,no
+814,814,"Nicholson, Mr. Arthur Ernest",335,남성,60.0,60대,1등석,S,UK,England,693.0,26.0,0.0,0.0,no
+815,815,"Nieminen, Miss. Manta Josefina",54,여성,29.0,20대,3등석,S,Northern Europe,Finland,3101297.0,7.1806,0.0,0.0,no
+816,816,"Niklasson, Mr. Samuel",105,남성,28.0,20대,3등석,S,Northern Europe,Sweden,363611.0,8.01,0.0,0.0,no
+817,817,"Nilsson, Miss. Berta Olivia",105,여성,18.0,10대,3등석,S,Northern Europe,Sweden,347066.0,7.1506,0.0,0.0,yes
+818,818,"Nilsson, Miss. Helmina Josefina",105,여성,26.0,20대,3등석,S,Northern Europe,Sweden,347470.0,7.1701,0.0,0.0,yes
+819,819,"Nilsson, Mr. August Ferdinand",105,남성,21.0,20대,3등석,S,Northern Europe,Sweden,350410.0,7.1701,0.0,0.0,no
+820,820,"Nirva, Mr. Iisakki Antino Äijö",54,남성,41.0,40대,3등석,S,Northern Europe,Finland,3101272.0,7.0206,0.0,0.0,no
+821,821,"Niskänen, Mr. Juha",259,남성,39.0,30대,3등석,S,North America,United States,3101289.0,7.1806,0.0,0.0,yes
+822,822,"Nofal, Mr. Mansouer",70,남성,20.0,20대,3등석,C,Middle East,Lebanon,2697.0,7.0407,0.0,0.0,no
+823,823,"Norman, Mr. Robert Douglas",17,남성,27.0,20대,2등석,S,UK,Scotland,218629.0,13.1,0.0,0.0,no
+824,824,"Nosworthy, Mr. Richard Cater",335,남성,21.0,20대,3등석,S,UK,England,39886.0,7.16,0.0,0.0,no
+825,825,"Nourney, Mr. Alfred",5,남성,20.0,20대,1등석,C,Western Europe,Germany,2166.0,13.1703,0.0,0.0,yes
+826,826,"Nye, Mrs. Elizabeth",259,여성,29.0,20대,2등석,S,North America,United States,29395.0,10.1,0.0,0.0,yes
+827,827,"Nysten, Miss. Anna Sofia",105,여성,22.0,20대,3등석,S,Northern Europe,Sweden,347081.0,7.15,0.0,0.0,yes
+828,828,"Nysveen, Mr. Johan Hansen",26,남성,60.0,60대,3등석,S,Northern Europe,Norway,345364.0,6.0409,0.0,0.0,no
+829,829,"Nīqūla Yārid, Master. Ilyās",70,남성,11.0,10대,3등석,C,Middle East,Lebanon,2651.0,11.041,1.0,0.0,yes
+830,830,"Nīqūla Yārid, Miss. Jamilah",70,여성,14.0,10대,3등석,C,Middle East,Lebanon,2651.0,11.041,1.0,0.0,yes
+831,831,"O'Brien, Mr. Denis",120,남성,21.0,20대,3등석,Q,Northern Europe,Ireland,330979.0,7.1607,0.0,0.0,no
+832,832,"O'Brien, Mr. Thomas",120,남성,27.0,20대,3등석,Q,Northern Europe,Ireland,370365.0,15.1,1.0,0.0,no
+833,833,"O'Brien, Mrs. Johanna",120,여성,26.0,20대,3등석,Q,Northern Europe,Ireland,370365.0,15.1,1.0,0.0,yes
+834,834,"O'Connell, Mr. Patrick Denis",120,남성,18.0,10대,3등석,Q,Northern Europe,Ireland,334912.0,7.1408,0.0,0.0,no
+835,835,"O'Connor, Mr. Maurice",120,남성,17.0,10대,3등석,Q,Northern Europe,Ireland,371060.0,7.15,0.0,0.0,no
+836,836,"O'Connor, Mr. Patrick",120,남성,23.0,20대,3등석,Q,Northern Europe,Ireland,366713.0,7.15,0.0,0.0,no
+837,837,"O'Dwyer, Miss. Ellen",120,여성,24.0,20대,3등석,Q,Northern Europe,Ireland,330959.0,7.1707,0.0,0.0,yes
+838,838,"O'Keefe, Mr. Patrick",120,남성,21.0,20대,3등석,Q,Northern Europe,Ireland,368402.0,7.15,0.0,0.0,yes
+839,839,"O'Leary, Miss. Hanora",120,여성,16.0,10대,3등석,Q,Northern Europe,Ireland,330919.0,7.1607,0.0,0.0,yes
+840,840,"O'Sullivan, Miss. Bridget Mary",120,여성,21.0,20대,3등석,Q,Northern Europe,Ireland,330909.0,7.1207,0.0,0.0,no
+841,841,"Oliva y Ocana, Doña. Fermina",8,여성,39.0,30대,1등석,C,Southern Europe,Spain,17758.0,108.18,0.0,0.0,yes
+842,842,"Olsen, Master. Artur Karl",26,남성,9.0,10대 미만,3등석,S,Northern Europe,Norway,17368.0,3.0305,0.0,1.0,yes
+843,843,"Olsen, Mr. Henry Margido",26,남성,28.0,20대,3등석,S,Northern Europe,Norway,4001.0,22.1006,0.0,0.0,no
+844,844,"Olsen, Mr. Karl Siegwart Andreas",259,남성,42.0,40대,3등석,S,North America,United States,4579.0,8.0801,0.0,1.0,no
+845,845,"Olsen, Mr. Ole Martin",26,남성,27.0,20대,3등석,S,Northern Europe,Norway,265302.0,7.0603,0.0,0.0,no
+846,846,"Olsson, Miss. Elina",105,여성,31.0,30대,3등석,S,Northern Europe,Sweden,350407.0,7.1701,0.0,0.0,no
+847,847,"Olsson, Mr. Nils Johan Göransson",105,남성,28.0,20대,3등석,S,Northern Europe,Sweden,347464.0,7.1701,0.0,0.0,no
+848,848,"Olsson, Mr. Oscar Wilhelm",105,남성,32.0,30대,3등석,S,Northern Europe,Sweden,347079.0,7.1506,0.0,0.0,yes
+849,849,"Olsvigen, Mr. Thor Anderson",26,남성,20.0,20대,3등석,S,Northern Europe,Norway,6563.0,9.0406,0.0,0.0,no
+850,850,"Omont, Mr. Alfred Fernand",24,남성,29.0,20대,1등석,C,Western Europe,France,12998.0,25.141,0.0,0.0,yes
+851,851,"Oreskovic, Miss. Jelka",23,여성,23.0,20대,3등석,S,Southern Europe,Croatia,315085.0,8.1303,0.0,0.0,no
+852,852,"Oreskovic, Miss. Marija",23,여성,20.0,20대,3등석,S,Southern Europe,Croatia,315096.0,8.1303,0.0,0.0,no
+853,853,"Oreskovic, Mr. Luka",23,남성,20.0,20대,3등석,S,Southern Europe,Croatia,315094.0,8.1303,0.0,0.0,no
+854,854,"Ostby, Mr. Engelhart Cornelius",259,남성,64.0,60대,1등석,S,North America,United States,113509.0,61.1907,0.0,1.0,no
+855,855,"Osén, Mr. Olaf Elon",105,남성,16.0,10대,3등석,S,Northern Europe,Sweden,7534.0,9.0404,0.0,0.0,no
+856,856,"Otter, Mr. Richard",259,남성,38.0,30대,2등석,S,North America,United States,28213.0,13.0,0.0,0.0,no
+857,857,"Oviés y Rodríguez, Mr. Servando José Florentino",1,남성,36.0,30대,1등석,C,Others,Cuba,17562.0,27.1405,0.0,0.0,no
+858,858,"Oxenham, Mr. Percy Thomas",335,남성,22.0,20대,2등석,S,UK,England,14260.0,10.1,0.0,0.0,yes
+859,859,"Padron Manent, Mr. Julian",8,남성,27.0,20대,2등석,C,Southern Europe,Spain,2146.0,13.1703,0.0,0.0,yes
+860,860,"Pain, Dr. Alfred",33,남성,23.0,20대,2등석,S,North America,Canada,244278.0,10.1,0.0,0.0,no
+861,861,"Pallàs i Castelló, Sr. Emili",8,남성,29.0,20대,2등석,C,Southern Europe,Spain,2147.0,13.1702,0.0,0.0,yes
+862,862,"Panula, Master. Eino Viljam",54,남성,1.0,10대 미만,3등석,S,Northern Europe,Finland,3101295.0,39.1309,4.0,1.0,no
+863,863,"Panula, Master. Jaako Arnold",259,남성,15.0,10대,3등석,S,North America,United States,3101295.0,39.1309,4.0,1.0,no
+864,864,"Panula, Master. Juha Niilo",54,남성,7.0,10대 미만,3등석,S,Northern Europe,Finland,3101295.0,39.1309,4.0,1.0,no
+865,865,"Panula, Master. Urho Abraham",54,남성,2.0,10대 미만,3등석,S,Northern Europe,Finland,3101295.0,39.1309,4.0,1.0,no
+866,866,"Panula, Mr. Ernesti Arvid",54,남성,16.0,10대,3등석,S,Northern Europe,Finland,3101295.0,39.1309,4.0,1.0,no
+867,867,"Panula, Mrs. Maija Emelia Abrahamintytar",54,여성,41.0,40대,3등석,S,Northern Europe,Finland,3101295.0,39.1309,0.0,5.0,no
+868,868,"Parker, Mr. Clifford Richard",10,남성,17.0,10대,2등석,S,UK,Channel Islands,14888.0,10.1,0.0,0.0,no
+869,869,"Parkes, Mr. Francis",6,남성,21.0,20대,2등석,B,UK,Northern Ireland,239853.0,,0.0,0.0,no
+870,870,"Parr, Mr. William Henry Marsh",335,남성,30.0,30대,1등석,B,UK,England,112052.0,,0.0,0.0,no
+871,871,"Parrish, Mrs. Lutie Davis",259,여성,59.0,50대,2등석,S,North America,United States,230433.0,26.0,0.0,1.0,yes
+872,872,"Partner, Mr. Austin",335,남성,40.0,40대,1등석,S,UK,England,113043.0,28.1,0.0,0.0,no
+873,873,"Pasic, Mr. Jakob",4,남성,21.0,20대,3등석,S,Southern Europe,Slovenia,315097.0,8.1303,0.0,0.0,no
+874,874,"Patchett, Mr. George",335,남성,20.0,20대,3등석,S,UK,England,358585.0,14.1,0.0,0.0,no
+875,875,"Pavlovic, Mr. Stefo",23,남성,32.0,30대,3등석,S,Southern Europe,Croatia,349242.0,7.1711,0.0,0.0,no
+876,876,"Payne, Mr. Vivian Ponsonby",33,남성,23.0,20대,1등석,S,North America,Canada,12749.0,93.1,0.0,0.0,no
+877,877,"Peacock, Master. Albert Edward",335,남성,0.5833333333,10대 미만,3등석,S,UK,England,3101315.0,13.1506,1.0,1.0,no
+878,878,"Peacock, Miss. Treasteall",335,여성,4.0,10대 미만,3등석,S,UK,England,3101315.0,13.1506,1.0,1.0,no
+879,879,"Peacock, Mrs. Edith",335,여성,26.0,20대,3등석,S,UK,England,3101315.0,13.1506,0.0,2.0,no
+880,880,"Pearce, Mr. Ernest",335,남성,32.0,30대,3등석,S,UK,England,343271.0,7.0,0.0,0.0,no
+881,881,"Pears, Mr. Thomas Clinton",335,남성,29.0,20대,1등석,S,UK,England,113776.0,66.12,1.0,0.0,no
+882,882,"Pears, Mrs. Edith",335,여성,22.0,20대,1등석,S,UK,England,113776.0,66.12,1.0,0.0,yes
+883,883,"Pedersen, Mr. Olaf",26,남성,28.0,20대,3등석,S,Northern Europe,Norway,345498.0,7.1506,0.0,0.0,no
+884,884,"Peduzzi, Mr. Giuseppe",335,남성,24.0,20대,3등석,S,UK,England,2817.0,8.01,0.0,0.0,no
+885,885,"Pekoniemi, Mr. Edvard",54,남성,21.0,20대,3등석,S,Northern Europe,Finland,3101294.0,7.1806,0.0,0.0,no
+886,886,"Peltomäki, Mr. Nikolai Johannes",54,남성,25.0,20대,3등석,S,Northern Europe,Finland,3101291.0,7.1806,0.0,0.0,no
+887,887,"Pengelly, Mr. Frederick William",335,남성,19.0,10대,2등석,S,UK,England,28665.0,10.1,0.0,0.0,no
+888,888,"Perkin, Mr. John Henry",335,남성,24.0,20대,3등석,S,UK,England,21174.0,7.05,0.0,0.0,no
+889,889,"Pernot, Mr. René",24,남성,39.0,30대,2등석,C,Western Europe,France,2131.0,15.01,0.0,0.0,no
+890,890,"Perreault, Miss. Mary Anne",33,여성,33.0,30대,1등석,S,North America,Canada,12749.0,93.1,0.0,0.0,yes
+891,891,"Persson, Mr. Ernst Ulrik",105,남성,25.0,20대,3등석,S,Northern Europe,Sweden,347083.0,7.1506,1.0,0.0,yes
+892,892,"Peruschitz, Fr. Josef",5,남성,41.0,40대,2등석,S,Western Europe,Germany,237393.0,13.0,0.0,0.0,no
+893,893,"Peter / Joseph, Master. Michael J.",70,남성,4.0,10대 미만,3등석,C,Middle East,Lebanon,2668.0,22.0702,1.0,1.0,yes
+894,894,"Peter / Joseph, Miss. Anna",70,여성,2.0,10대 미만,3등석,C,Middle East,Lebanon,2668.0,22.0702,1.0,1.0,yes
+895,895,"Peteranec, Miss. Mathilda",23,여성,28.0,20대,3등석,S,Southern Europe,Croatia,349245.0,7.1711,0.0,0.0,no
+896,896,"Peters, Miss. Catherine",120,여성,28.0,20대,3등석,Q,Northern Europe,Ireland,330935.0,8.0209,0.0,0.0,no
+897,897,"Petersen, Mr. Marius",335,남성,24.0,20대,3등석,S,UK,England,342441.0,8.01,0.0,0.0,no
+898,898,"Petroff, Mr. Nedialco",17,남성,19.0,10대,3등석,S,Eastern Europe,Bulgaria,349212.0,7.1711,0.0,0.0,no
+899,899,"Petroff, Mr. Pastcho",17,남성,29.0,20대,3등석,S,Eastern Europe,Bulgaria,349215.0,7.1711,0.0,0.0,no
+900,900,"Pettersson, Miss. Elin Natalia",105,여성,18.0,10대,3등석,S,Northern Europe,Sweden,347087.0,7.1506,0.0,0.0,no
+901,901,"Pettersson, Mr. Johan Emil",105,남성,25.0,20대,3등석,S,Northern Europe,Sweden,347076.0,7.1506,1.0,0.0,no
+902,902,"Peuchen, Major. Arthur Godfrey",33,남성,52.0,50대,1등석,S,North America,Canada,113786.0,30.1,0.0,0.0,yes
+903,903,"Peñasco y Castellana, Mr. Victor",8,남성,24.0,20대,1등석,C,Southern Europe,Spain,17758.0,108.18,1.0,0.0,no
+904,904,"Peñasco y Castellana, Mrs. Maria Josefa Perezde Soto y Vallejo",8,여성,22.0,20대,1등석,C,Southern Europe,Spain,17758.0,108.18,1.0,0.0,yes
+905,905,"Phillips, Miss. Alice Frances Louisa",335,여성,21.0,20대,2등석,S,UK,England,2.0,21.0,0.0,1.0,yes
+906,906,"Phillips, Miss. Kate Florence",335,여성,19.0,10대,2등석,S,UK,England,250655.0,26.0,0.0,0.0,yes
+907,907,"Phillips, Mr. Escott Robert",335,남성,43.0,40대,2등석,S,UK,England,2.0,21.0,0.0,1.0,no
+908,908,"Picard, Mr. Benoît",3,남성,33.0,30대,3등석,S,Eastern Europe,Poland,392078.0,8.01,0.0,0.0,yes
+909,909,"Pinsky, Mrs. Rosa",3,여성,32.0,30대,2등석,S,Eastern Europe,Poland,234604.0,13.0,0.0,0.0,yes
+910,910,"Pokrnic, Mr. Mate",23,남성,17.0,10대,3등석,S,Southern Europe,Croatia,315095.0,8.1303,0.0,0.0,no
+911,911,"Pokrnic, Mr. Tome",23,남성,24.0,20대,3등석,S,Southern Europe,Croatia,315092.0,8.1303,0.0,0.0,no
+912,912,"Ponesell, Mr. Martin",335,남성,24.0,20대,2등석,S,UK,England,250647.0,13.0,0.0,0.0,no
+913,913,"Portaluppi, Mr. Emilio Ilario Giuseppe",259,남성,30.0,30대,2등석,C,North America,United States,34644.0,12.1409,0.0,0.0,yes
+914,914,"Porter, Mr. Walter Chamberlain",259,남성,46.0,40대,1등석,S,North America,United States,110465.0,52.0,0.0,0.0,no
+915,915,"Potter, Mrs. Lily Alexenia",259,여성,56.0,50대,1등석,C,North America,United States,11767.0,83.0302,0.0,1.0,yes
+916,916,"Pulbaum, Mr. Franz",259,남성,27.0,20대,2등석,C,North America,United States,2168.0,15.0,0.0,0.0,no
+917,917,"Pålsson, Master. Gösta Leonard",105,남성,2.0,10대 미만,3등석,S,Northern Europe,Sweden,349909.0,21.0106,3.0,1.0,no
+918,918,"Pålsson, Master. Paul Folke",105,남성,6.0,10대 미만,3등석,S,Northern Europe,Sweden,349909.0,21.0106,3.0,1.0,no
+919,919,"Pålsson, Miss. Stina Viola",105,여성,3.0,10대 미만,3등석,S,Northern Europe,Sweden,349909.0,21.0106,3.0,1.0,no
+920,920,"Pålsson, Miss. Torborg Danira",105,여성,8.0,10대 미만,3등석,S,Northern Europe,Sweden,349909.0,21.0106,3.0,1.0,no
+921,921,"Pålsson, Mrs. Alma Cornelia",105,여성,29.0,20대,3등석,S,Northern Europe,Sweden,349909.0,21.0106,0.0,4.0,no
+922,922,"Rafūl-Būlus, Mr. Bākhūs",70,남성,21.0,20대,3등석,C,Middle East,Lebanon,2679.0,7.0406,0.0,0.0,no
+923,923,"Rasmussen, Mrs. Lena Jakobsen",26,여성,63.0,60대,3등석,S,Northern Europe,Norway,65305.0,8.0203,0.0,0.0,no
+924,924,"Razi, Mr. Raihed",70,남성,30.0,30대,3등석,C,Middle East,Lebanon,2629.0,7.0407,0.0,0.0,no
+925,925,"Reed, Mr. James George",8,남성,18.0,10대,3등석,S,UK,Wales,362316.0,7.05,0.0,0.0,no
+926,926,"Reeves, Mr. David",335,남성,36.0,30대,2등석,S,UK,England,17248.0,10.1,0.0,0.0,no
+927,927,"Rekic, Mr. Tido",4,남성,38.0,30대,3등석,S,Southern Europe,Bosnia,349249.0,7.1711,0.0,0.0,no
+928,928,"Renouf, Mr. Peter Henry",10,남성,33.0,30대,2등석,S,UK,Channel Islands,31027.0,21.0,1.0,0.0,no
+929,929,"Renouf, Mrs. Lillian",10,여성,30.0,30대,2등석,S,UK,Channel Islands,31027.0,21.0,3.0,0.0,yes
+930,930,"Reuchlin, Mr. Jonkheer Johan George",1,남성,37.0,30대,1등석,C,Western Europe,Netherlands,19972.0,,0.0,0.0,no
+931,931,"Reynalds, Sra. Encarnación",8,여성,29.0,20대,2등석,S,Southern Europe,Spain,230434.0,13.0,0.0,0.0,yes
+932,932,"Reynolds, Mr. Harold",335,남성,21.0,20대,3등석,S,UK,England,342684.0,8.01,0.0,0.0,no
+933,933,"Rheims, Mr. George Alexander Lucien",259,남성,33.0,30대,1등석,C,North America,United States,17607.0,39.12,0.0,0.0,yes
+934,934,"Rice, Master. Albert",120,남성,10.0,10대,3등석,Q,Northern Europe,Ireland,382652.0,29.0206,4.0,1.0,no
+935,935,"Rice, Master. Arthur",120,남성,4.0,10대 미만,3등석,Q,Northern Europe,Ireland,382652.0,29.0206,4.0,1.0,no
+936,936,"Rice, Master. Eric",120,남성,7.0,10대 미만,3등석,Q,Northern Europe,Ireland,382652.0,29.0206,4.0,1.0,no
+937,937,"Rice, Master. Eugene Francis",120,남성,2.0,10대 미만,3등석,Q,Northern Europe,Ireland,382652.0,29.0206,4.0,1.0,no
+938,938,"Rice, Master. George Hugh",120,남성,8.0,10대 미만,3등석,Q,Northern Europe,Ireland,382652.0,29.0206,4.0,1.0,no
+939,939,"Rice, Mrs. Margaret",120,여성,39.0,30대,3등석,Q,Northern Europe,Ireland,382652.0,29.0206,0.0,5.0,no
+940,940,"Richards, Master. Sibley George",335,남성,0.75,10대 미만,2등석,S,UK,England,29106.0,18.15,1.0,1.0,yes
+941,941,"Richards, Master. William Rowe",335,남성,3.0,10대 미만,2등석,S,UK,England,29106.0,18.15,1.0,1.0,yes
+942,942,"Richards, Mrs. Emily",335,여성,24.0,20대,2등석,S,UK,England,29106.0,18.15,2.0,3.0,yes
+943,943,"Ridsdale, Miss. Lucy",335,여성,58.0,50대,2등석,S,UK,England,14258.0,10.1,0.0,0.0,yes
+944,944,"Riihivuori, Miss. Susanna Juhantytär",54,여성,22.0,20대,3등석,S,Northern Europe,Finland,3101295.0,39.1309,0.0,0.0,no
+945,945,"Rintamäki, Mr. Matti",54,남성,35.0,30대,3등석,S,Northern Europe,Finland,3101273.0,7.0206,0.0,0.0,no
+946,946,"Riordan, Miss. Hannah",120,여성,22.0,20대,3등석,Q,Northern Europe,Ireland,334915.0,7.1405,0.0,0.0,yes
+947,947,"Risien, Mr. Samuel Beard",335,남성,69.0,60대,3등석,S,UK,England,364498.0,14.1,0.0,0.0,no
+948,948,"Risien, Mrs. Emma Jane",335,여성,64.0,60대,3등석,S,UK,England,364498.0,14.1,0.0,0.0,no
+949,949,"Robert, Mrs. Elisabeth Walton",259,여성,43.0,40대,1등석,S,North America,United States,24160.0,211.0609,0.0,1.0,yes
+950,950,"Robins, Mr. Alexander A.",335,남성,50.0,50대,3등석,S,UK,England,3337.0,14.1,1.0,0.0,no
+951,951,"Robins, Mr. Victor",335,남성,45.0,40대,1등석,C,UK,England,17757.0,247.1006,0.0,0.0,no
+952,952,"Robins, Mrs. Charity",335,여성,48.0,40대,3등석,S,UK,England,3337.0,14.1,1.0,0.0,no
+953,953,"Roebling, Mr. Washington Augustus II",259,남성,31.0,30대,1등석,S,North America,United States,17590.0,50.0911,0.0,0.0,no
+954,954,"Rogers, Mr. Reginald Harry",335,남성,18.0,10대,2등석,S,UK,England,28004.0,10.1,0.0,0.0,no
+955,955,"Rogers, Mr. William John",8,남성,30.0,30대,3등석,S,UK,Wales,23567.0,8.01,0.0,0.0,no
+956,956,"Romaine, Mr. Charles Hallace",259,남성,45.0,40대,1등석,S,North America,United States,111428.0,26.11,0.0,0.0,yes
+957,957,"Rommetvedt, Mr. Knud Paust",26,남성,49.0,40대,3등석,S,Northern Europe,Norway,312993.0,7.1506,0.0,0.0,no
+958,958,"Rood, Mr. Hugh Roscoe",259,남성,39.0,30대,1등석,S,North America,United States,113767.0,50.0,0.0,0.0,no
+959,959,"Rosblom, Miss. Salli Helena",54,여성,2.0,10대 미만,3등석,S,Northern Europe,Finland,370129.0,20.0403,1.0,1.0,no
+960,960,"Rosblom, Mr. Viktor Richard",54,남성,18.0,10대,3등석,S,Northern Europe,Finland,370129.0,20.0403,1.0,1.0,no
+961,961,"Rosblom, Mrs. Helena Wilhelmina",54,여성,41.0,40대,3등석,S,Northern Europe,Finland,370129.0,20.0403,0.0,2.0,no
+962,962,"Rosenbaum, Miss. Edith Louise",24,여성,33.0,30대,1등석,C,Western Europe,France,17613.0,27.1405,0.0,0.0,yes
+963,963,"Rosenshine, Mr. George",259,남성,46.0,40대,1등석,C,North America,United States,17585.0,79.0,0.0,0.0,no
+964,964,"Ross, Mr. John Hugo",33,남성,36.0,30대,1등석,S,North America,Canada,13049.0,40.0206,0.0,0.0,no
+965,965,"Roth, Miss. Sarah",2,여성,26.0,20대,3등석,S,Western Europe,Austria,342712.0,8.01,0.0,0.0,yes
+966,966,"Rothes, Lucy Noël Martha, Countess of",335,여성,33.0,30대,1등석,S,UK,England,110152.0,86.1,0.0,0.0,yes
+967,967,"Rothschild, Mr. Martin",259,남성,46.0,40대,1등석,C,North America,United States,17603.0,59.08,1.0,0.0,no
+968,968,"Rothschild, Mrs. Elizabeth Jane Anne",259,여성,54.0,50대,1등석,C,North America,United States,17603.0,59.08,1.0,0.0,yes
+969,969,"Rouse, Mr. Richard Henry",335,남성,55.0,50대,3등석,S,UK,England,3594.0,8.01,0.0,0.0,no
+970,970,"Rowe, Mr. Alfred G.",2,남성,59.0,50대,1등석,S,Others,Peru,113790.0,26.11,0.0,0.0,no
+971,971,"Rugg, Miss. Emily",10,여성,22.0,20대,2등석,S,UK,Channel Islands,31026.0,10.1,0.0,0.0,yes
+972,972,"Rush, Mr. Alfred George John",335,남성,17.0,10대,3등석,S,UK,England,20589.0,8.01,0.0,0.0,no
+973,973,"Ryan, Mr. Edward",120,남성,24.0,20대,3등석,Q,Northern Europe,Ireland,383162.0,7.15,0.0,0.0,yes
+974,974,"Ryan, Mr. Patrick",120,남성,30.0,30대,3등석,Q,Northern Europe,Ireland,371110.0,24.03,0.0,0.0,no
+975,975,"Ryerson, Master. John Borie",259,남성,13.0,10대,1등석,C,North America,United States,17608.0,262.0706,2.0,2.0,yes
+976,976,"Ryerson, Miss. Emily Borie",259,여성,18.0,10대,1등석,C,North America,United States,17608.0,262.0706,2.0,2.0,yes
+977,977,"Ryerson, Miss. Susan Parker Suzette",259,여성,21.0,20대,1등석,C,North America,United States,17608.0,262.0706,2.0,2.0,yes
+978,978,"Ryerson, Mr. Arthur Larned",259,남성,61.0,60대,1등석,C,North America,United States,17608.0,262.0706,1.0,3.0,no
+979,979,"Ryerson, Mrs. Emily Maria",259,여성,48.0,40대,1등석,C,North America,United States,17608.0,262.0706,1.0,3.0,yes
+980,980,"Saad, Mr. Amin",70,남성,30.0,30대,3등석,C,Middle East,Lebanon,2671.0,7.0407,0.0,0.0,no
+981,981,"Saad, Mr. Khalil",70,남성,27.0,20대,3등석,C,Middle East,Lebanon,2672.0,7.0406,0.0,0.0,no
+982,982,"Saalfeld, Mr. Adolphe",335,남성,47.0,40대,1등석,S,UK,England,19988.0,30.1,0.0,0.0,yes
+983,983,"Sadlier, Mr. Matthew",120,남성,19.0,10대,3등석,Q,Northern Europe,Ireland,367655.0,7.1407,0.0,0.0,no
+984,984,"Sadowitz, Mr. Henry",335,남성,17.0,10대,3등석,S,UK,England,1855.0,7.111,0.0,0.0,no
+985,985,"Sage, Master. Anthony William",335,남성,13.0,10대,3등석,S,UK,England,2343.0,69.11,8.0,2.0,no
+986,986,"Sage, Master. Thomas Henry",335,남성,5.0,10대 미만,3등석,S,UK,England,2343.0,69.11,8.0,2.0,no
+987,987,"Sage, Miss. Constance Gladys",335,여성,8.0,10대 미만,3등석,S,UK,England,2343.0,69.11,8.0,2.0,no
+988,988,"Sage, Miss. Dorothy",335,여성,14.0,10대,3등석,S,UK,England,2343.0,69.11,8.0,2.0,no
+989,989,"Sage, Miss. Elizabeth Ada",335,여성,10.0,10대,3등석,S,UK,England,2343.0,69.11,8.0,2.0,no
+990,990,"Sage, Miss. Stella Anne",335,여성,21.0,20대,3등석,S,UK,England,2343.0,69.11,8.0,2.0,no
+991,991,"Sage, Mr. Douglas Bullen",335,남성,18.0,10대,3등석,S,UK,England,2343.0,69.11,8.0,2.0,no
+992,992,"Sage, Mr. Frederick",335,남성,17.0,10대,3등석,S,UK,England,2343.0,69.11,8.0,2.0,no
+993,993,"Sage, Mr. George John",335,남성,20.0,20대,3등석,S,UK,England,2343.0,69.11,8.0,2.0,no
+994,994,"Sage, Mr. John George",335,남성,45.0,40대,3등석,S,UK,England,2343.0,69.11,1.0,9.0,no
+995,995,"Sage, Mrs. Annie Elizabeth",335,여성,45.0,40대,3등석,S,UK,England,2343.0,69.11,1.0,9.0,no
+996,996,"Salander, Mr. Karl Johan",105,남성,24.0,20대,3등석,S,Northern Europe,Sweden,7266.0,9.0606,0.0,0.0,no
+997,997,"Salkjelsvik, Miss. Anna Kristine",26,여성,21.0,20대,3등석,S,Northern Europe,Norway,343120.0,7.13,0.0,0.0,yes
+998,998,"Salomon, Mr. Abraham Lincoln",259,남성,43.0,40대,1등석,S,North America,United States,111163.0,26.0,0.0,0.0,yes
+999,999,"Salonen, Mr. Johan Werner",259,남성,29.0,20대,3등석,S,North America,United States,3101296.0,7.1806,0.0,0.0,no
+1000,1000,"Samaan, Mr. Elias",70,남성,17.0,10대,3등석,C,Middle East,Lebanon,2662.0,21.1307,2.0,0.0,no
+1001,1001,"Samaan, Mr. Hanna Elias",70,남성,40.0,40대,3등석,C,Middle East,Lebanon,2662.0,21.1307,2.0,0.0,no
+1002,1002,"Samaan, Mr. Youssef",70,남성,16.0,10대,3등석,C,Middle East,Lebanon,2662.0,21.1307,2.0,0.0,no
+1003,1003,"Sandström, Miss. Beatrice Irene",105,여성,1.0,10대 미만,3등석,S,Northern Europe,Sweden,9549.0,16.14,1.0,1.0,yes
+1004,1004,"Sandström, Miss. Marguerite Rut",105,여성,4.0,10대 미만,3등석,S,Northern Europe,Sweden,9549.0,16.14,1.0,1.0,yes
+1005,1005,"Sandström, Mrs. Agnes Charlotta",105,여성,24.0,20대,3등석,S,Northern Europe,Sweden,9549.0,16.14,0.0,2.0,yes
+1006,1006,"Sap, Mr. Julius",22,남성,21.0,20대,3등석,S,Western Europe,Belgium,345768.0,9.1,0.0,0.0,yes
+1007,1007,"Saundercock, Mr. William Henry",335,남성,19.0,10대,3등석,S,UK,England,2151.0,8.01,0.0,0.0,no
+1008,1008,"Sawyer, Mr. Frederick Charles",335,남성,24.0,20대,3등석,S,UK,England,342826.0,8.01,0.0,0.0,no
+1009,1009,"Scanlan, Mr. James",120,남성,22.0,20대,3등석,Q,Northern Europe,Ireland,36209.0,7.1406,0.0,0.0,no
+1010,1010,"Schabert, Mrs. Emma",5,여성,35.0,30대,1등석,C,Western Europe,Germany,13236.0,57.15,1.0,0.0,yes
+1011,1011,"Scheerlinck, Mr. Jean",22,남성,29.0,20대,3등석,S,Western Europe,Belgium,345779.0,9.1,0.0,0.0,yes
+1012,1012,"Schmidt, Mr. Augustus",335,남성,22.0,20대,2등석,S,UK,England,248659.0,13.0,0.0,0.0,no
+1013,1013,"Sedgwick, Mr. Charles Frederick Waddington",335,남성,28.0,20대,2등석,S,UK,England,244361.0,13.0,0.0,0.0,no
+1014,1014,"Seman, Master. Betros",70,남성,10.0,10대,3등석,C,Middle East,Lebanon,2622.0,4.0,0.0,0.0,no
+1015,1015,"Seward, Mr. Frederic Kimber",259,남성,34.0,30대,1등석,S,North America,United States,113794.0,26.11,0.0,0.0,yes
+1016,1016,"Shannon, Mr. Andrew John",120,남성,35.0,30대,3등석,S,Northern Europe,Ireland,370160.0,,,,no
+1017,1017,"Sharp, Mr. Percival",335,남성,29.0,20대,2등석,S,UK,England,244358.0,26.0,0.0,0.0,no
+1018,1018,"Shaughnessy, Mr. Patrick",120,남성,27.0,20대,3등석,Q,Northern Europe,Ireland,370374.0,7.15,0.0,0.0,no
+1019,1019,"Shellard, Mr. Frederick William Blainey",335,남성,55.0,50대,3등석,S,UK,England,6212.0,15.02,0.0,0.0,no
+1020,1020,"Shelley, Mrs. Imanita Parrish",259,여성,25.0,20대,2등석,S,North America,United States,230433.0,26.0,0.0,1.0,yes
+1021,1021,"Shihāb, Mr. Al-Amīr Fāris",70,남성,26.0,20대,3등석,C,Middle East,Lebanon,2631.0,7.0406,0.0,0.0,no
+1022,1022,"Shine, Miss. Ellen",120,여성,20.0,20대,3등석,Q,Northern Europe,Ireland,330968.0,7.1607,0.0,0.0,yes
+1023,1023,"Shorney, Mr. Charles Joseph",335,남성,22.0,20대,3등석,S,UK,England,374910.0,8.01,0.0,0.0,no
+1024,1024,"Shutes, Miss. Elizabeth Weed",259,여성,40.0,40대,1등석,S,North America,United States,17582.0,153.0903,0.0,0.0,yes
+1025,1025,"Silverthorne, Mr. Spencer Victor",259,남성,35.0,30대,1등석,S,North America,United States,17475.0,26.0509,0.0,0.0,yes
+1026,1026,"Silvey, Mr. William Baird",259,남성,51.0,50대,1등석,C,North America,United States,13507.0,55.18,1.0,0.0,no
+1027,1027,"Silvey, Mrs. Alice Gray",259,여성,39.0,30대,1등석,C,North America,United States,13507.0,55.18,1.0,0.0,yes
+1028,1028,"Silvén, Miss. Lyyli Karoliina",54,여성,17.0,10대,2등석,S,Northern Europe,Finland,250652.0,13.0,0.0,2.0,yes
+1029,1029,"Simmons, Mr. John",335,남성,40.0,40대,3등석,S,UK,England,392082.0,8.01,0.0,0.0,no
+1030,1030,"Simonius-Blumer, Mr. Colonel (Oberst) Alfons",17,남성,56.0,50대,1등석,S,Western Europe,Switzerland,13213.0,35.1,0.0,0.0,yes
+1031,1031,"Sincock, Miss. Maude",335,여성,20.0,20대,2등석,S,UK,England,33112.0,36.15,0.0,0.0,yes
+1032,1032,"Sinkkonen, Miss. Anna",54,여성,30.0,30대,2등석,S,Northern Europe,Finland,250648.0,13.0,0.0,0.0,yes
+1033,1033,"Sirayanian, Mr. Orsen",6,남성,22.0,20대,3등석,C,Southern Europe,Turkey,2669.0,7.0407,0.0,0.0,no
+1034,1034,"Sirota, Mr. Morris",335,남성,20.0,20대,3등석,S,UK,England,392092.0,8.01,0.0,0.0,no
+1035,1035,"Sivic, Mr. Husein",4,남성,40.0,40대,3등석,S,Southern Europe,Bosnia,349251.0,7.1711,0.0,0.0,no
+1036,1036,"Sivola, Mr. Antti Wilhelm",259,남성,21.0,20대,3등석,S,North America,United States,3101280.0,7.1806,0.0,0.0,no
+1037,1037,"Sjöblom, Miss. Anna Sofia",54,여성,18.0,10대,3등석,S,Northern Europe,Finland,3101265.0,6.0911,0.0,0.0,yes
+1038,1038,"Sjöstedt, Mr. Ernst Adolf",105,남성,59.0,50대,2등석,S,Northern Europe,Sweden,237442.0,13.1,0.0,0.0,no
+1039,1039,"Skoog, Master. Harald",259,남성,5.0,10대 미만,3등석,S,North America,United States,347088.0,27.18,3.0,2.0,no
+1040,1040,"Skoog, Master. Karl Thorsten",259,남성,11.0,10대,3등석,S,North America,United States,347088.0,27.18,3.0,2.0,no
+1041,1041,"Skoog, Miss. Mabel",259,여성,9.0,10대 미만,3등석,S,North America,United States,347088.0,27.18,3.0,2.0,no
+1042,1042,"Skoog, Miss. Margit Elizabeth",259,여성,2.0,10대 미만,3등석,S,North America,United States,347088.0,27.18,3.0,2.0,no
+1043,1043,"Skoog, Mr. Wilhelm Johansson",105,남성,40.0,40대,3등석,S,Northern Europe,Sweden,347088.0,27.18,1.0,4.0,no
+1044,1044,"Skoog, Mrs. Anna Bernhardina",105,여성,43.0,40대,3등석,S,Northern Europe,Sweden,347088.0,27.18,1.0,4.0,no
+1045,1045,"Slayter, Miss. Hilda Mary",33,여성,30.0,30대,2등석,Q,North America,Canada,234818.0,12.07,0.0,0.0,yes
+1046,1046,"Slemen, Mr. Richard James",335,남성,35.0,30대,2등석,S,UK,England,28206.0,10.1,0.0,0.0,no
+1047,1047,"Slocovski, Mr. Selman Francis",335,남성,20.0,20대,3등석,S,UK,England,392086.0,8.01,0.0,0.0,no
+1048,1048,"Sloper, Mr. William Thompson",259,남성,28.0,20대,1등석,S,North America,United States,113788.0,35.1,0.0,0.0,yes
+1049,1049,"Smart, Mr. John Montgomery",335,남성,56.0,50대,1등석,S,UK,England,113792.0,26.11,0.0,0.0,no
+1050,1050,"Smiljanic, Mr. Mile",23,남성,37.0,30대,3등석,S,Southern Europe,Croatia,315037.0,8.1303,0.0,0.0,no
+1051,1051,"Smith, Miss. Marion Elsie",335,여성,49.0,40대,2등석,S,UK,England,31418.0,13.0,0.0,0.0,yes
+1052,1052,"Smith, Mr. James Clinch",24,남성,56.0,50대,1등석,C,Western Europe,France,17764.0,30.1311,0.0,0.0,no
+1053,1053,"Smith, Mr. Lucian Philip",259,남성,24.0,20대,1등석,C,North America,United States,13695.0,60.0,1.0,0.0,no
+1054,1054,"Smith, Mr. Richard William",335,남성,57.0,50대,1등석,S,UK,England,113056.0,26.0,0.0,0.0,no
+1055,1055,"Smith, Mrs. Mary Eloise",259,여성,18.0,10대,1등석,C,North America,United States,13695.0,60.0,1.0,0.0,yes
+1056,1056,"Smyth, Miss. Julia",120,여성,18.0,10대,3등석,Q,Northern Europe,Ireland,335432.0,7.1408,0.0,0.0,yes
+1057,1057,"Smyth, Mr. Thomas",120,남성,27.0,20대,3등석,Q,Northern Europe,Ireland,384461.0,7.15,0.0,0.0,no
+1058,1058,"Snyder, Mr. John Pillsbury",259,남성,24.0,20대,1등석,S,North America,United States,21228.0,82.0504,1.0,0.0,yes
+1059,1059,"Snyder, Mrs. Nelle",259,여성,23.0,20대,1등석,S,North America,United States,21228.0,82.0504,1.0,0.0,yes
+1060,1060,"Sobey, Mr. Samuel James Hayden",335,남성,25.0,20대,2등석,S,UK,England,29178.0,13.0,0.0,0.0,no
+1061,1061,"Somerton, Mr. Francis William",335,남성,31.0,30대,3등석,S,UK,England,18509.0,8.01,0.0,0.0,no
+1062,1062,"Spector, Mr. Woolf",335,남성,23.0,20대,3등석,S,UK,England,3236.0,8.01,0.0,0.0,no
+1063,1063,"Spedden, Master. Robert Douglas",259,남성,6.0,10대 미만,1등석,C,North America,United States,16966.0,134.1,0.0,2.0,yes
+1064,1064,"Spedden, Mr. Frederic Oakley",259,남성,45.0,40대,1등석,C,North America,United States,16966.0,134.1,1.0,1.0,yes
+1065,1065,"Spedden, Mrs. Margaretta Corning",259,여성,39.0,30대,1등석,C,North America,United States,16966.0,134.1,1.0,1.0,yes
+1066,1066,"Spencer, Mr. William Augustus",259,남성,57.0,50대,1등석,C,North America,United States,17569.0,146.1005,1.0,0.0,no
+1067,1067,"Spencer, Mrs. Marie Eugenie",259,여성,48.0,40대,1등석,C,North America,United States,17569.0,146.1005,1.0,0.0,yes
+1068,1068,"Spinner, Mr. Henry John",335,남성,31.0,30대,3등석,S,UK,England,369943.0,8.01,0.0,0.0,no
+1069,1069,"Staneff, Mr. Ivan",17,남성,23.0,20대,3등석,S,Eastern Europe,Bulgaria,349208.0,7.1711,0.0,0.0,no
+1070,1070,"Stankovic, Mr. Ivan",23,남성,33.0,30대,3등석,C,Southern Europe,Croatia,349239.0,8.1309,0.0,0.0,no
+1071,1071,"Stanley, Miss. Amy Zillah Elsie",335,여성,24.0,20대,3등석,S,UK,England,2314.0,7.11,0.0,0.0,yes
+1072,1072,"Stanley, Mr. Rowland Edwin",335,남성,22.0,20대,3등석,S,UK,England,45380.0,8.01,0.0,0.0,no
+1073,1073,"Stanton, Mr. Samuel Ward",259,남성,42.0,40대,2등석,C,North America,United States,237734.0,15.0,0.0,0.0,no
+1074,1074,"Stead, Mr. William Thomas",335,남성,62.0,60대,1등석,S,UK,England,113514.0,26.11,0.0,0.0,no
+1075,1075,"Stengel, Mr. Charles Emil Henry",259,남성,54.0,50대,1등석,C,North America,United States,11778.0,55.081,1.0,0.0,yes
+1076,1076,"Stengel, Mrs. Annie May",120,여성,43.0,40대,1등석,C,Northern Europe,Ireland,11778.0,55.081,1.0,0.0,yes
+1077,1077,"Stephenson, Mrs. Martha",259,여성,52.0,50대,1등석,C,North America,United States,36947.0,78.0504,1.0,0.0,yes
+1078,1078,"Stewart, Mr. Albert Ankeny",259,남성,64.0,60대,1등석,C,North America,United States,17605.0,27.1405,0.0,0.0,no
+1079,1079,"Stokes, Mr. Philip Joseph",335,남성,24.0,20대,2등석,S,UK,England,13540.0,10.1,0.0,0.0,no
+1080,1080,"Stone, Mrs. Martha Evelyn",259,여성,61.0,60대,1등석,S,North America,United States,113572.0,80.0,0.0,0.0,yes
+1081,1081,"Storey, Mr. Thomas",335,남성,59.0,50대,3등석,S,UK,England,370160.0,,0.0,0.0,no
+1082,1082,"Stoytcheff, Mr. Ilia",17,남성,19.0,10대,3등석,S,Eastern Europe,Bulgaria,349205.0,7.1711,0.0,0.0,no
+1083,1083,"Strandberg, Miss. Ida Sofia",54,여성,22.0,20대,3등석,S,Northern Europe,Finland,7553.0,9.1609,0.0,0.0,no
+1084,1084,"Strandén, Mr. Juho Niilosson",54,남성,30.0,30대,3등석,S,Northern Europe,Finland,3101288.0,7.1806,0.0,0.0,yes
+1085,1085,"Straus, Mr. Isidor",259,남성,67.0,60대,1등석,S,North America,United States,17483.0,221.1507,1.0,0.0,no
+1086,1086,"Straus, Mrs. Rosalie Ida",5,여성,63.0,60대,1등석,S,Western Europe,Germany,17483.0,221.1507,1.0,0.0,no
+1087,1087,"Strilic, Mr. Ivan",23,남성,27.0,20대,3등석,S,Southern Europe,Croatia,315083.0,8.1303,0.0,0.0,no
+1088,1088,"Ström, Miss. Telma Matilda",259,여성,2.0,10대 미만,3등석,S,North America,United States,347054.0,10.0903,0.0,1.0,no
+1089,1089,"Ström, Mrs. Elna Matilda",105,여성,29.0,20대,3등석,S,Northern Europe,Sweden,347054.0,10.0903,1.0,1.0,no
+1090,1090,"Stähelin-Maeglin, Dr. Max",17,남성,32.0,30대,1등석,S,Western Europe,Switzerland,13214.0,30.1,0.0,0.0,yes
+1091,1091,"Sunderland, Mr. Victor Francis",335,남성,20.0,20대,3등석,S,UK,England,392089.0,8.01,0.0,0.0,yes
+1092,1092,"Sundman, Mr. Johan Julian",54,남성,44.0,40대,3등석,S,Northern Europe,Finland,3101269.0,7.1806,0.0,0.0,yes
+1093,1093,"Sutehall, Mr. Henry Jr",335,남성,25.0,20대,3등석,S,UK,England,392076.0,7.01,0.0,0.0,no
+1094,1094,"Sutton, Mr. Frederick",335,남성,61.0,60대,1등석,S,UK,England,36963.0,32.0605,0.0,0.0,no
+1095,1095,"Svensson, Mr. Johan",105,남성,74.0,70대,3등석,S,Northern Europe,Sweden,347060.0,7.1506,0.0,0.0,no
+1096,1096,"Svensson, Mr. Johan Cervin",105,남성,14.0,10대,3등석,S,Northern Europe,Sweden,7538.0,9.0406,0.0,0.0,yes
+1097,1097,"Svensson, Mr. Olof",105,남성,24.0,20대,3등석,S,Northern Europe,Sweden,350035.0,7.1511,0.0,0.0,no
+1098,1098,"Swane, Mr. George",335,남성,19.0,10대,2등석,S,UK,England,248734.0,13.0,0.0,0.0,no
+1099,1099,"Sweet, Mr. George Frederick",335,남성,14.0,10대,2등석,S,UK,England,220845.0,65.0,0.0,0.0,no
+1100,1100,"Swift, Mrs. Margaret Welles",259,여성,46.0,40대,1등석,S,North America,United States,17466.0,25.1807,0.0,0.0,yes
+1101,1101,"Sæther, Mr. Simon Sivertsen",26,남성,43.0,40대,3등석,S,Northern Europe,Norway,3101262.0,7.05,0.0,0.0,no
+1102,1102,"Søholt, Mr. Peter Andreas Lauritz Andersen",26,남성,19.0,10대,3등석,S,Northern Europe,Norway,348124.0,7.13,0.0,0.0,no
+1103,1103,"Tannūs, Master. As'ad",70,남성,0.4166666667,10대 미만,3등석,C,Middle East,Lebanon,2625.0,8.1004,0.0,1.0,yes
+1104,1104,"Tannūs, Mr. Bashīr",70,남성,30.0,30대,3등석,C,Middle East,Lebanon,2621.0,6.0809,1.0,0.0,no
+1105,1105,"Tannūs, Mrs. Thamīn",70,여성,16.0,10대,3등석,C,Middle East,Lebanon,2625.0,8.1004,1.0,1.0,yes
+1106,1106,"Taussig, Miss. Ruth",259,여성,18.0,10대,1등석,S,North America,United States,110413.0,79.13,0.0,2.0,yes
+1107,1107,"Taussig, Mr. Emil",259,남성,52.0,50대,1등석,S,North America,United States,110413.0,79.13,1.0,1.0,no
+1108,1108,"Taussig, Mrs. Tillie",259,여성,39.0,30대,1등석,S,North America,United States,110413.0,79.13,1.0,1.0,yes
+1109,1109,"Taylor, Mr. Elmer Zebley",259,남성,48.0,40대,1등석,S,North America,United States,19996.0,52.0,1.0,0.0,yes
+1110,1110,"Taylor, Mr. Percy Cornelius",335,남성,40.0,40대,2등석,S,UK,England,250654.0,,,,no
+1111,1111,"Taylor, Mrs. Juliet Cummins",259,여성,49.0,40대,1등석,S,North America,United States,19996.0,52.0,1.0,0.0,yes
+1112,1112,"Tenglin, Mr. Gunnar Isidor",105,남성,25.0,20대,3등석,S,Northern Europe,Sweden,350033.0,7.1511,0.0,0.0,yes
+1113,1113,"Thayer, Mr. John Borland",259,남성,49.0,40대,1등석,C,North America,United States,17421.0,110.1708,1.0,1.0,no
+1114,1114,"Thayer, Mr. John Borland jr",259,남성,17.0,10대,1등석,C,North America,United States,17421.0,110.1708,0.0,2.0,yes
+1115,1115,"Thayer, Mrs. Marian Longstreth",259,여성,39.0,30대,1등석,C,North America,United States,17421.0,110.1708,1.0,1.0,yes
+1116,1116,"Theobald, Mr. Thomas Leonard",335,남성,34.0,30대,3등석,S,UK,England,363294.0,8.01,0.0,0.0,no
+1117,1117,"Thompson, Mr. Alexander Mellis",17,남성,37.0,30대,3등석,S,UK,Scotland,32302.0,8.01,0.0,0.0,no
+1118,1118,"Thorne, Miss. Gertrude Maybelle",259,여성,38.0,30대,1등석,C,North America,United States,17585.0,80.0,0.0,0.0,yes
+1119,1119,"Thorneycroft, Mr. Percival",335,남성,37.0,30대,3등석,S,UK,England,376564.0,16.02,1.0,0.0,no
+1120,1120,"Thorneycroft, Mrs. Florence Kate",335,여성,33.0,30대,3등석,S,UK,England,376564.0,16.02,1.0,0.0,yes
+1121,1121,"Tikkanen, Mr. Juho",54,남성,32.0,30대,3등석,S,Northern Europe,Finland,3101293.0,7.1806,0.0,0.0,no
+1122,1122,"Tobin, Mr. Roger",120,남성,20.0,20대,3등석,Q,Northern Europe,Ireland,383121.0,7.15,0.0,0.0,no
+1123,1123,"Todoroff, Mr. Lalio",17,남성,23.0,20대,3등석,S,Eastern Europe,Bulgaria,349216.0,7.1711,0.0,0.0,no
+1124,1124,"Tomlin, Mr. Ernest Portage",335,남성,22.0,20대,3등석,S,UK,England,364499.0,8.01,0.0,0.0,no
+1125,1125,"Toomey, Miss. Ellen Mary",120,여성,48.0,40대,2등석,S,Northern Europe,Ireland,13531.0,10.1,0.0,0.0,yes
+1126,1126,"Torfa, Mr. Assad",70,남성,20.0,20대,3등석,C,Middle East,Lebanon,2673.0,7.0407,0.0,0.0,no
+1127,1127,"Totevski, Mr. Hristo Danchev",17,남성,25.0,20대,3등석,S,Eastern Europe,Bulgaria,349203.0,7.1711,0.0,0.0,no
+1128,1128,"Troupiansky, Mr. Moses Aaron",335,남성,23.0,20대,2등석,S,UK,England,233639.0,13.0,0.0,0.0,no
+1129,1129,"Trout, Mrs. Jessie Laird",17,여성,27.0,20대,2등석,S,UK,Scotland,240929.0,12.13,0.0,0.0,yes
+1130,1130,"Troutt, Miss. Edwina Celia",335,여성,27.0,20대,2등석,S,UK,England,34218.0,10.1,0.0,0.0,yes
+1131,1131,"Tu'mah, Master. Jirjis Yūsuf",70,남성,8.0,10대 미만,3등석,C,Middle East,Lebanon,2650.0,15.0411,1.0,1.0,yes
+1132,1132,"Tu'mah, Miss. Mariyam",70,여성,9.0,10대 미만,3등석,C,Middle East,Lebanon,2650.0,15.0411,1.0,1.0,yes
+1133,1133,"Tu'mah, Mrs. Hinnah",70,여성,27.0,20대,3등석,C,Middle East,Lebanon,2650.0,15.0411,0.0,2.0,yes
+1134,1134,"Tucker, Mr. Gilbert Milligan jr",259,남성,31.0,30대,1등석,C,North America,United States,2543.0,28.1009,0.0,0.0,yes
+1135,1135,"Turcin, Mr. Stjepan",23,남성,36.0,30대,3등석,S,Southern Europe,Croatia,349247.0,7.1711,0.0,0.0,no
+1136,1136,"Turja, Miss. Anna Sofia",54,여성,18.0,10대,3등석,S,Northern Europe,Finland,4138.0,9.161,0.0,0.0,yes
+1137,1137,"Turkula, Mrs. Hedwig",54,여성,63.0,60대,3등석,S,Northern Europe,Finland,4134.0,9.1109,0.0,0.0,yes
+1138,1138,"Turpin, Mr. William John",335,남성,29.0,20대,2등석,S,UK,England,11668.0,21.0,1.0,0.0,no
+1139,1139,"Turpin, Mrs. Dorothy Ann",335,여성,26.0,20대,2등석,S,UK,England,11668.0,21.0,1.0,0.0,no
+1140,1140,"Törber, Mr. Ernst Wilhelm",335,남성,41.0,40대,3등석,S,UK,England,364511.0,8.01,0.0,0.0,no
+1141,1141,"Törnquist, Mr. William Henry",105,남성,26.0,20대,3등석,S,Northern Europe,Sweden,,,0.0,0.0,yes
+1142,1142,"Uruchurtu, Don. Manuel Ramirez",1,남성,39.0,30대,1등석,C,Others,Mexico,17601.0,27.1405,0.0,0.0,no
+1143,1143,"van Billiard, Master. James William",335,남성,10.0,10대,3등석,S,UK,England,851.0,14.1,1.0,1.0,no
+1144,1144,"van Billiard, Master. Walter John",335,남성,9.0,10대 미만,3등석,S,UK,England,851.0,14.1,1.0,1.0,no
+1145,1145,"van Billiard, Mr. Austin Blyler",335,남성,35.0,30대,3등석,S,UK,England,851.0,14.1,0.0,2.0,no
+1146,1146,"Van den Steen, Mr. Leo Peter",22,남성,28.0,20대,3등석,S,Western Europe,Belgium,345783.0,9.1,0.0,0.0,no
+1147,1147,"Vandercruyssen, Mr. Victor",22,남성,46.0,40대,3등석,S,Western Europe,Belgium,345765.0,9.0,0.0,0.0,no
+1148,1148,"Van der hoef, Mr. Wyckoff",259,남성,61.0,60대,1등석,S,North America,United States,111240.0,33.1,0.0,0.0,no
+1149,1149,"Vanderplancke, Miss. Augusta Maria",22,여성,18.0,10대,3등석,S,Western Europe,Belgium,345764.0,18.0,2.0,0.0,no
+1150,1150,"Vanderplancke, Mr. Julius",22,남성,31.0,30대,3등석,S,Western Europe,Belgium,345763.0,18.0,3.0,0.0,no
+1151,1151,"Vanderplancke, Mr. Leo Edmondus",22,남성,15.0,10대,3등석,S,Western Europe,Belgium,345763.0,18.0,2.0,0.0,no
+1152,1152,"Vanderplancke, Mrs. Emelie Maria",22,여성,31.0,30대,3등석,S,Western Europe,Belgium,345763.0,18.0,1.0,0.0,no
+1153,1153,"Van de Velde, Mr. Johannes Josef",22,남성,35.0,30대,3등석,S,Western Europe,Belgium,345780.0,9.1,0.0,0.0,no
+1154,1154,"Vandewalle, Mr. Nestor Cyriel",22,남성,28.0,20대,3등석,S,Western Europe,Belgium,345770.0,9.1,0.0,0.0,no
+1155,1155,"Van Impe, Miss. Catharina",22,여성,10.0,10대,3등석,S,Western Europe,Belgium,345773.0,24.03,0.0,2.0,no
+1156,1156,"Van Impe, Mr. Jean Baptiste",22,남성,36.0,30대,3등석,S,Western Europe,Belgium,345773.0,24.03,1.0,1.0,no
+1157,1157,"Van Impe, Mrs. Rosalie Paula",22,여성,30.0,30대,3등석,S,Western Europe,Belgium,345773.0,24.03,1.0,1.0,no
+1158,1158,"van Melckebeke, Mr. Philemon",22,남성,23.0,20대,3등석,S,Western Europe,Belgium,345777.0,9.1,0.0,0.0,no
+1159,1159,"Vartanian, Mr. David",6,남성,22.0,20대,3등석,C,Southern Europe,Turkey,2658.0,7.0406,0.0,0.0,yes
+1160,1160,"Veal, Mr. James",259,남성,40.0,40대,2등석,S,North America,United States,28221.0,13.0,0.0,0.0,no
+1161,1161,"Vendel, Mr. Olof Edvin",105,남성,20.0,20대,3등석,S,Northern Europe,Sweden,350416.0,7.1701,0.0,0.0,no
+1162,1162,"Veström, Miss. Hulda Amanda Adolfina",105,여성,14.0,10대,3등석,S,Northern Europe,Sweden,350406.0,7.1701,0.0,0.0,no
+1163,1163,"Vovk, Mr. Janko",4,남성,21.0,20대,3등석,S,Southern Europe,Slovenia,349252.0,7.1711,0.0,0.0,no
+1164,1164,"Waelens, Mr. Achille",22,남성,22.0,20대,3등석,S,Western Europe,Belgium,345767.0,9.0,0.0,0.0,no
+1165,1165,"Walker, Mr. William Anderson",259,남성,48.0,40대,1등석,S,North America,United States,36967.0,34.0,0.0,0.0,no
+1166,1166,"Wallcroft, Miss. Ellen 'Nellie'",335,여성,36.0,30대,2등석,S,UK,England,13528.0,21.0,0.0,0.0,yes
+1167,1167,"Ware, Mr. Frederick",335,남성,35.0,30대,3등석,S,UK,England,359309.0,8.01,0.0,0.0,no
+1168,1168,"Ware, Mr. John James",335,남성,47.0,40대,2등석,S,UK,England,31352.0,21.0,1.0,0.0,no
+1169,1169,"Ware, Mr. William Jeffery",335,남성,23.0,20대,2등석,S,UK,England,28666.0,10.1,1.0,0.0,no
+1170,1170,"Ware, Mrs. Florence Louise",335,여성,32.0,30대,2등석,S,UK,England,31352.0,21.0,0.0,0.0,yes
+1171,1171,"Warren, Mr. Charles William",335,남성,31.0,30대,3등석,S,UK,England,49867.0,7.11,0.0,0.0,no
+1172,1172,"Warren, Mr. Frank Manley",259,남성,63.0,60대,1등석,C,North America,United States,110813.0,75.05,1.0,0.0,no
+1173,1173,"Warren, Mrs. Anna Sophia",335,여성,60.0,60대,1등석,C,UK,England,110813.0,75.05,1.0,0.0,yes
+1174,1174,"Watson, Mr. Ennis Hastings",6,남성,19.0,10대,2등석,B,UK,Northern Ireland,239856.0,,0.0,0.0,no
+1175,1175,"Watt, Miss. Robertha Josephine",17,여성,12.0,10대,2등석,S,UK,Scotland,33595.0,15.15,0.0,0.0,yes
+1176,1176,"Watt, Mrs. Elizabeth",17,여성,40.0,40대,2등석,S,UK,Scotland,33595.0,15.15,0.0,0.0,yes
+1177,1177,"Wazli, Mr. Yousif Ahmed",70,남성,23.0,20대,3등석,C,Middle East,Lebanon,2647.0,7.0406,0.0,0.0,no
+1178,1178,"Webber, Miss. Susan",335,여성,37.0,30대,2등석,S,UK,England,27267.0,13.0,0.0,0.0,yes
+1179,1179,"Webber, Mr. James",335,남성,66.0,60대,3등석,S,UK,England,3101316.0,8.01,0.0,0.0,no
+1180,1180,"Weir, Colonel. John",259,남성,59.0,50대,1등석,S,North America,United States,113800.0,26.11,0.0,0.0,no
+1181,1181,"Weisz, Mr. Léopold",7,남성,37.0,30대,2등석,S,Eastern Europe,Hungary,228414.0,26.0,1.0,0.0,no
+1182,1182,"Weisz, Mrs. Mathilde Françoise",335,여성,37.0,30대,2등석,S,UK,England,228414.0,26.0,1.0,0.0,yes
+1183,1183,"Wells, Master. Ralph Lester",335,남성,2.0,10대 미만,2등석,S,UK,England,29103.0,23.0,1.0,1.0,yes
+1184,1184,"Wells, Miss. Joan",335,여성,4.0,10대 미만,2등석,S,UK,England,29103.0,23.0,1.0,1.0,yes
+1185,1185,"Wells, Mrs. Addie Dart",335,여성,29.0,20대,2등석,S,UK,England,29103.0,23.0,0.0,2.0,yes
+1186,1186,"Wennerström, Mr. August",105,남성,27.0,20대,3등석,S,Northern Europe,Sweden,350043.0,7.1511,0.0,0.0,yes
+1187,1187,"West, Miss. Barbara Joyce",335,여성,0.8333333333,10대 미만,2등석,S,UK,England,34651.0,27.15,1.0,2.0,yes
+1188,1188,"West, Miss. Constance Mirium",335,여성,4.0,10대 미만,2등석,S,UK,England,34651.0,27.15,1.0,2.0,yes
+1189,1189,"West, Mr. Edwy Arthur",335,남성,36.0,30대,2등석,S,UK,England,34651.0,27.15,1.0,2.0,no
+1190,1190,"West, Mrs. Ada Mary",335,여성,33.0,30대,2등석,S,UK,England,34651.0,27.15,1.0,2.0,yes
+1191,1191,"Wheadon, Mr. Edward Henry",335,남성,65.0,60대,2등석,S,UK,England,24579.0,10.1,0.0,0.0,no
+1192,1192,"Wheeler, Mr. Edwin Charles",335,남성,26.0,20대,2등석,S,UK,England,2159.0,12.1706,0.0,0.0,no
+1193,1193,"Whilems, Mr. Charles",335,남성,31.0,30대,2등석,S,UK,England,244270.0,13.0,0.0,0.0,yes
+1194,1194,"White, Mr. Percival Wayland",259,남성,54.0,50대,1등석,S,North America,United States,35281.0,77.0509,0.0,1.0,no
+1195,1195,"White, Mr. Richard Frasar",259,남성,21.0,20대,1등석,S,North America,United States,35281.0,77.0509,0.0,1.0,no
+1196,1196,"Wick, Col. George Dennick",259,남성,57.0,50대,1등석,S,North America,United States,36928.0,164.1704,1.0,1.0,no
+1197,1197,"Wick, Miss. Mary Natalie",259,여성,31.0,30대,1등석,S,North America,United States,36928.0,164.1704,0.0,2.0,yes
+1198,1198,"Wick, Mrs. Mary Peebles",259,여성,45.0,40대,1등석,S,North America,United States,36928.0,164.1704,1.0,1.0,yes
+1199,1199,"Widegren, Mr. Carl Peter",105,남성,51.0,50대,3등석,S,Northern Europe,Sweden,347064.0,7.15,0.0,0.0,no
+1200,1200,"Widener, Mr. George Dunton",259,남성,50.0,50대,1등석,S,North America,United States,113503.0,211.1,1.0,1.0,no
+1201,1201,"Widener, Mr. Harry Elkins",259,남성,27.0,20대,1등석,S,North America,United States,113503.0,211.1,0.0,2.0,no
+1202,1202,"Widener, Mrs. Eleanor",259,여성,50.0,50대,1등석,S,North America,United States,113503.0,211.1,1.0,1.0,yes
+1203,1203,"Wiklund, Mr. Jakob Alfred",54,남성,18.0,10대,3등석,S,Northern Europe,Finland,3101267.0,6.0911,1.0,0.0,no
+1204,1204,"Wiklund, Mr. Karl Johan",54,남성,21.0,20대,3등석,S,Northern Europe,Finland,3101266.0,6.0911,1.0,0.0,no
+1205,1205,"Wilkes, Mrs. Ellen",335,여성,47.0,40대,3등석,S,UK,England,363272.0,7.0,1.0,0.0,yes
+1206,1206,"Wilkinson, Mrs. Elizabeth Anne",335,여성,30.0,30대,2등석,S,UK,England,2926.0,26.0,1.0,0.0,yes
+1207,1207,"Willard, Miss. Constance",259,여성,21.0,20대,1등석,S,North America,United States,113795.0,26.11,0.0,0.0,yes
+1208,1208,"Willey, Mr. Edward John",8,남성,21.0,20대,3등석,S,UK,Wales,751.0,7.11,0.0,0.0,no
+1209,1209,"Williams, Mr. Charles Duane",17,남성,51.0,50대,1등석,C,Western Europe,Switzerland,17597.0,61.0707,0.0,1.0,no
+1210,1210,"Williams, Mr. Charles Eugene",335,남성,23.0,20대,2등석,S,UK,England,244373.0,13.0,0.0,0.0,yes
+1211,1211,"Williams, Mr. Fletcher Fellowes Lambert",259,남성,43.0,40대,1등석,S,North America,United States,113510.0,35.0,0.0,0.0,no
+1212,1212,"Williams, Mr. Howard Hugh",335,남성,28.0,20대,3등석,S,UK,England,2466.0,8.01,0.0,0.0,no
+1213,1213,"Williams, Mr. Leslie",8,남성,28.0,20대,3등석,S,UK,Wales,54636.0,16.02,0.0,0.0,no
+1214,1214,"Williams, Mr. Richard Norris II",17,남성,21.0,20대,1등석,C,Western Europe,Switzerland,17597.0,61.0707,0.0,1.0,yes
+1215,1215,"Windeløv, Mr. Einar",6,남성,21.0,20대,3등석,S,Others,South Africa,3101317.0,7.05,0.0,0.0,no
+1216,1216,"Wirz, Mr. Albert",17,남성,27.0,20대,3등석,S,Western Europe,Switzerland,315154.0,8.1303,0.0,0.0,no
+1217,1217,"Wiseman, Mr. Philippe",335,남성,54.0,50대,3등석,S,UK,England,34244.0,7.05,0.0,0.0,no
+1218,1218,"Wittevrongel, Mr. Camilius Aloysius",22,남성,36.0,30대,3등석,S,Western Europe,Belgium,345771.0,9.1,0.0,0.0,no
+1219,1219,"Woodward, Mr. John Wesley",335,남성,32.0,30대,2등석,S,UK,England,250654.0,,,,no
+1220,1220,"Woolner, Mr. Hugh",335,남성,46.0,40대,1등석,S,UK,England,19947.0,35.1,0.0,0.0,yes
+1221,1221,"Wright, Miss. Marion",335,여성,26.0,20대,2등석,S,UK,England,220844.0,13.1,0.0,0.0,yes
+1222,1222,"Wright, Mr. George",33,남성,62.0,60대,1등석,S,North America,Canada,113807.0,26.11,0.0,0.0,no
+1223,1223,"Yasbeck, Mr. Antoni",70,남성,27.0,20대,3등석,C,Middle East,Lebanon,2659.0,14.0901,1.0,0.0,no
+1224,1224,"Yazbeck, Mrs. Selini",70,여성,15.0,10대,3등석,C,Middle East,Lebanon,2659.0,14.0901,1.0,0.0,yes
+1225,1225,"Young, Miss. Marie Grice",259,여성,36.0,30대,1등석,C,North America,United States,17760.0,135.1208,0.0,0.0,yes
+1226,1226,"Yousseff (Abi Saab), Mr. Gerios",70,남성,26.0,20대,3등석,C,Middle East,Lebanon,2685.0,7.0406,0.0,0.0,no
+1227,1227,"Youssiff (Sam'aan), Mr. Gerios",70,남성,45.0,40대,3등석,C,Middle East,Lebanon,2628.0,7.0407,0.0,0.0,no
+1228,1228,"Yvois, Miss. Henriette",24,여성,24.0,20대,2등석,S,Western Europe,France,248747.0,13.0,0.0,0.0,no
+1229,1229,"Yūsuf, Mrs. Kātrīn",70,여성,23.0,20대,3등석,C,Middle East,Lebanon,2668.0,22.0702,0.0,2.0,yes
+1230,1230,"Zakarian, Mr. Mapriededer",6,남성,22.0,20대,3등석,C,Southern Europe,Turkey,2656.0,7.0406,0.0,0.0,no
+1231,1231,"Zakarian, Mr. Ortin",6,남성,27.0,20대,3등석,C,Southern Europe,Turkey,2670.0,7.0406,0.0,0.0,no
+1232,1232,"Zenni, Mr. Philip",70,남성,25.0,20대,3등석,C,Middle East,Lebanon,2620.0,7.0406,0.0,0.0,yes
+1233,1233,"Zimmermann, Mr. Leo",5,남성,29.0,20대,3등석,S,Western Europe,Germany,315082.0,7.1706,0.0,0.0,no
+1234,1234,"Ådahl, Mr. Mauritz",105,남성,30.0,30대,3등석,S,Northern Europe,Sweden,7076.0,7.05,0.0,0.0,no
+1235,1235,"Ödahl, Mr. Nils Martin",105,남성,23.0,20대,3등석,S,Northern Europe,Sweden,7267.0,9.0406,0.0,0.0,no
+1236,1236,"Öhman, Miss. Velin",105,여성,22.0,20대,3등석,S,Northern Europe,Sweden,347085.0,7.1506,0.0,0.0,yes
+1237,1237,"Østby, Miss. Helen Ragnhild",259,여성,22.0,20대,1등석,S,North America,United States,113509.0,61.1907,0.0,1.0,yes
