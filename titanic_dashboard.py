@@ -7,7 +7,9 @@ import plotly.graph_objects as go
 import json
 import numpy as np
 
-st.set_page_config(layout = "wide", 
+st.set_page_config(
+                   page_title = 'RMS TITANIC: 승객 국적에 따른 생존률 변화',
+                   layout = "wide", 
                    initial_sidebar_state = "expanded",
                    page_icon=":ship:",
 
@@ -26,7 +28,7 @@ st.sidebar.header("Titanic `Dashboard`")
 
 
 # head
-st.markdown("# RMS TITANIC: 승객의 국적에 따른 생존률 변화")
+st.markdown("# RMS TITANIC: 승객 국적에 따른 생존률 변화")
 c1, c2, c3 = st.columns(3, gap = "large")
 c1.metric("No. of Passengers on Board", "{0}".format(len(df)))
 c2.metric("Total Survival Rate", "{0}%".format(round(df["survived"].value_counts(normalize = True)[1]*100,2)))
@@ -86,16 +88,14 @@ with row2_c2:
               '#4292C6',
               '#4292C6',
               '#4292C6',
-              # '#4292C6',
 
               '#2171B5',
               '#2171B5',
 
               '#08519C',
               '#08519C',
-              # '#08519C',
-
              ]
+    
     g = surv_rate[surv_rate["total"] > 20].sort_values(by = "rate", ascending= True)
     fig = go.Figure(data = [go.Bar(x = g["rate"],
                                    y = g.index, 
@@ -142,13 +142,13 @@ with sbox_c2:
     
     st.markdown("""
     <style>
-    .description {
+    .description_1 {
         font-size:12px !important;
     }
     </style>
     """, unsafe_allow_html=True)
     
-    st.markdown('<p class="description">부유한 사업가 및 상류층에 속한 사람들은 일등석이나 이등석에 탑승하였고, 생존율이 상대적으로 더 높았습니다. \
+    st.markdown('<p class="description_1">부유한 사업가 및 상류층에 속한 사람들은 일등석이나 이등석에 탑승하였고, 생존율이 상대적으로 더 높았습니다. \
     승객 생존률이 0.4 이상인 국가들의 경우 “Cherbourg” 에서 승선한 사람들의 비율이 상대적으로 높은 것을 확인 할 수 있습니다. \
     이는 많은 부유층 사람들이 “Cherbourg”에서 승선한 것으로 볼수도 있지만, 레바논 승객들의 승선권 지불 금액은 낮은 편에 속합니다. \
     Cherbourg”에서 탑승한 승객들의 객실이 구명보트가 저장된 갑판에 더 가까운 위치에 있었다면 구명보트에 더 쉽게 접근할 수 있었을 것입니다. </p>'
@@ -264,6 +264,17 @@ with sbox_c2:
 #     st.markdown("comment")
 
 if selected_col == "좌석 등급":
+    sbox_c3.markdown("""
+    <style>
+    .description_1 {
+        font-size:12px !important;
+    }
+    </style>
+    """, unsafe_allow_html=True)
+    
+    sbox_c3.markdown('<p class="description_1">20세기 초는 미국에서 경제적인 성장과 번영의 시기였습니다. 이로 인해 부유한 계층이 형성되었으며, 이들은 타이타닉과 같은 명문호에서 일등석으로 여행하며 제공되는 편의 시설을 즐길 수 있는 재정적인 여건을 가지게 되었습니다. 따라서 일등석 생존자들의 국적이 영국이 아닌 미국이 앞도적으로 높음을 확인 할 수 있습니다. </p>'
+    ,unsafe_allow_html=True)
+    
     c1, c2, c3, c4 = st.columns(4, gap = "small")
     c1.text("")
     c1.text("")
@@ -273,6 +284,17 @@ if selected_col == "좌석 등급":
         # column.subheader("지역별 {0}등석 승객 생존 여부".format(i+1))
         plot_g(sorted(df["class"].unique())[i], column)
 elif selected_col == "성별":
+    sbox_c3.markdown("""
+    <style>
+    .description_1 {
+        font-size:12px !important;
+    }
+    </style>
+    """, unsafe_allow_html=True)
+    
+    sbox_c3.markdown('<p class="description_1">타이타닉의 대피 절차에서 "여성과 아이들 먼저" 원칙이 적용되었습니다. 이 원칙에 따라 여성과 어린이들이 먼저 구명보트에 탑승하는 것이 우선되었습니다. 따라서 모든 나라에 걸쳐 남성에 비해 여성 승객들의 생존률이 더 높음을 확인 할 수 있습니다. </p>'
+    ,unsafe_allow_html=True)
+    
     c1, c2, c3 = st.columns(3)
     c1.text("")
     c1.text("")
@@ -282,7 +304,17 @@ elif selected_col == "성별":
         # column.subheader("지역별 {0} 승객 생존 여부".format(df["gender"].unique()[i]))
         plot_g(df["gender"].unique()[i], column)
 else:
-    sbox_c3.markdown("20대 이하의 경우 영국과 북유럽 지역의 승객들이 많이 탑승했지만, 30대 이상부터는 미국과 영국 승객들의 비율이 상대적으로 높음을 확인 할 수 있습니다.")
+    sbox_c3.markdown("""
+    <style>
+    .description_1 {
+        font-size:12px !important;
+    }
+    </style>
+    """, unsafe_allow_html=True)
+    
+    sbox_c3.markdown('<p class="description_1">20대 이하의 경우 영국과 북유럽 지역의 승객들이 많이 탑승했지만, 30대 이상부터는 미국과 영국 승객들의 비율이 상대적으로 높음을 확인 할 수 있습니다. </p>'
+    ,unsafe_allow_html=True)
+    sbox_c3.markdown("")    
     c1, c2 = st.columns(2)
     c1.text("")
     c1.text("")
