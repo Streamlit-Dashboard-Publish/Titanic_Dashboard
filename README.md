@@ -1,2 +1,2 @@
 # Titanic_Dashboard
-Creating a dashboard using Streamlit with Titanic data set
+RMS Titanic 대시보드 (국가별 생존률 분석)
