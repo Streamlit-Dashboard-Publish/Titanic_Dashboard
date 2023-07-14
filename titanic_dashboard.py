@@ -8,7 +8,7 @@ import json
 import numpy as np
 
 st.set_page_config(
-                   page_title = 'RMS TITANIC: 승객 국적에 따른 생존률 변화',
+                   page_title = 'RMS TITANIC: 승객 국적에 따른 생존율 변화',
                    layout = "wide", 
                    initial_sidebar_state = "expanded",
                    page_icon=":ship:",
@@ -28,7 +28,7 @@ st.sidebar.header("Titanic `Dashboard`")
 
 
 # head
-st.markdown("# RMS TITANIC: 승객 국적에 따른 생존률 변화")
+st.markdown("# RMS TITANIC: 승객 국적에 따른 생존율 변화")
 c1, c2, c3 = st.columns(3, gap = "large")
 c1.metric("No. of Passengers on Board", "{0}".format(len(df)))
 c2.metric("Total Survival Rate", "{0}%".format(round(df["survived"].value_counts(normalize = True)[1]*100,2)))
@@ -108,7 +108,7 @@ with row2_c2:
                    )
     fig.update_layout(autosize = False,
                       height = 450,
-                      title_text = "국가별 탑승 승객 생존률",
+                      title_text = "국가별 탑승 승객 생존율",
                       title_x = 0.45,
                       title_y = 0.85,
                                   )
@@ -160,7 +160,7 @@ with row2_c1:
 
     fig = go.Figure(data = [
                             go.Scatter(name = "지불한 승선권 요금의 중앙값(0 ~ 1)",x = g["country"], y = g["scaled_fare"], marker = {"color" : "#08519C"}),
-                            go.Scatter(name = "생존률(0 ~ 1)",x = g["country"], y = g["survival_rate"], marker = {"color" : "#9C081E"}),
+                            go.Scatter(name = "생존율(0 ~ 1)",x = g["country"], y = g["survival_rate"], marker = {"color" : "#9C081E"}),
         
                            ]  
              )
@@ -168,7 +168,7 @@ with row2_c1:
                       autosize = False,
                       # width = 500,
                       height = 600,
-                      title_text = "승선권 요금에 따른 생존률",
+                      title_text = "승선권 요금에 따른 생존율",
                       title_x = 0.4,
                       title_y = 0.9,
                       yaxis_range=[0,1],
@@ -182,7 +182,7 @@ with row2_c2:
                             go.Bar(name = "Cherbourg 항 승선 비율", x = g["country"], y = g["C"]/g["num_people"], marker = {"color" : "#08519C"}, width = 0.6),
                             go.Bar(name = "Queenstown 항 승선 비율", x = g["country"], y = g["Q"]/g["num_people"], marker = {"color" : "#4292C6"}, width = 0.6),
                             go.Bar(name = "Southampton 항 승선 비율", x = g["country"], y = g["S"]/g["num_people"], marker = {"color" : "#9ECAE1"}, width = 0.6),
-                            go.Scatter(name = "생존률(0 ~ 1)",x = g["country"], y = g["survival_rate"], marker = {"color" : "#9C081E"}),
+                            go.Scatter(name = "생존율(0 ~ 1)",x = g["country"], y = g["survival_rate"], marker = {"color" : "#9C081E"}),
                             # go.Scatter(name = "승객들의 평균 지불 요금",x = g["country"], y = g["scaled_fare"], marker = {"color" : "#50B244"}),
                            ]
              )
@@ -190,7 +190,7 @@ with row2_c2:
                       autosize = False,
                       # width = 500,
                       height = 600,
-                      title_text = "승선 장소에 따른 생존률",
+                      title_text = "승선 장소에 따른 생존율",
                       title_x = 0.4,
                       title_y = 0.9,
                      )
