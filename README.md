@@ -4,7 +4,7 @@
 
 [](https://titanic-dashboard.streamlit.app/)
 
-![Untitled](Titanic_Dashboard%20bea64f19b31247efaa655c3ac7e794b9/Untitled.png)
+![Untitled](https://github.com/Streamlit-Guide-Web-App-Development/Titanic_Dashboard/assets/54128055/14031f4c-41ac-49a8-b914-2841f7a1b25a)
 
 ### 대시보드 설명
 
