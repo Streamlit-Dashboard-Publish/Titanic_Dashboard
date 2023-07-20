@@ -1,6 +1,6 @@
 # Titanic_Dashboard
 
-## 🚢 RMS Titanic 대시보드 (국가별 생존률 분석)
+## 🚢 RMS Titanic 대시보드 (국가별 생존율 분석)
 
 [](https://titanic-dashboard.streamlit.app/)
 
