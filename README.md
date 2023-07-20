@@ -1,6 +1,4 @@
-# Titanic_Dashboard
-
-## 🚢 RMS Titanic 대시보드
+# 🚢 RMS Titanic 대시보드
 
 [](https://titanic-dashboard.streamlit.app/)
 
